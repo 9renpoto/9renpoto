@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, Im Keisuke Kan.
 
 <!--
 **9renpoto/9renpoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=9renpoto&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9renpoto&hide=html" />
-</a>
+![follow](https://img.shields.io/github/followers/9renpoto?label=Follow&style=social)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9renpoto&hide=html)
+![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&line_height=40)
