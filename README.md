@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![follow](https://img.shields.io/github/followers/9renpoto?label=Follow&style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9renpoto&hide=html)
-![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9renpoto&hide=html&layout=compact)
+![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
