@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1677](https://github.com/g59/ranking/issues/1677) in [g59/ranking](https://github.com/g59/ranking)
-2. 🗣 Commented on [#1676](https://github.com/g59/ranking/issues/1676) in [g59/ranking](https://github.com/g59/ranking)
-3. 🗣 Commented on [#1675](https://github.com/g59/ranking/issues/1675) in [g59/ranking](https://github.com/g59/ranking)
-4. 🎉 Merged PR [#128](https://github.com/caddijp/frontend/pull/128) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#127](https://github.com/caddijp/frontend/pull/127) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🗣 Commented on [#1673](https://github.com/g59/ranking/issues/1673) in [g59/ranking](https://github.com/g59/ranking)
+3. 🗣 Commented on [#1513](https://github.com/g59/ranking/issues/1513) in [g59/ranking](https://github.com/g59/ranking)
+4. 🎉 Merged PR [#1675](https://github.com/g59/ranking/pull/1675) in [g59/ranking](https://github.com/g59/ranking)
+5. 🗣 Commented on [#1677](https://github.com/g59/ranking/issues/1677) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
