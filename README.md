@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/caddijp/frontend/pull/134) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#133](https://github.com/caddijp/frontend/pull/133) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 💪 Opened PR [#134](https://github.com/caddijp/frontend/pull/134) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 💪 Opened PR [#132](https://github.com/caddijp/frontend/pull/132) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🗣 Commented on [#2289](https://github.com/9renpoto/frontend/issues/2289) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🗣 Commented on [#1677](https://github.com/g59/ranking/issues/1677) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#1676](https://github.com/g59/ranking/issues/1676) in [g59/ranking](https://github.com/g59/ranking)
+3. 🗣 Commented on [#1675](https://github.com/g59/ranking/issues/1675) in [g59/ranking](https://github.com/g59/ranking)
+4. 🎉 Merged PR [#128](https://github.com/caddijp/frontend/pull/128) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#127](https://github.com/caddijp/frontend/pull/127) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
