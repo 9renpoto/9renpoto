@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#213](https://github.com/9renpoto/play/pull/213) in [9renpoto/play](https://github.com/9renpoto/play)
-2. 🎉 Merged PR [#541](https://github.com/9renpoto/ror/pull/541) in [9renpoto/ror](https://github.com/9renpoto/ror)
-3. 🎉 Merged PR [#924](https://github.com/9renpoto/rn/pull/924) in [9renpoto/rn](https://github.com/9renpoto/rn)
-4. 🎉 Merged PR [#922](https://github.com/9renpoto/rn/pull/922) in [9renpoto/rn](https://github.com/9renpoto/rn)
-5. 🎉 Merged PR [#923](https://github.com/9renpoto/rn/pull/923) in [9renpoto/rn](https://github.com/9renpoto/rn)
+1. 🎉 Merged PR [#9](https://github.com/9renpoto/9renpoto/pull/9) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+2. 💪 Opened PR [#9](https://github.com/9renpoto/9renpoto/pull/9) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+3. 🎉 Merged PR [#213](https://github.com/9renpoto/play/pull/213) in [9renpoto/play](https://github.com/9renpoto/play)
+4. 🎉 Merged PR [#541](https://github.com/9renpoto/ror/pull/541) in [9renpoto/ror](https://github.com/9renpoto/ror)
+5. 🎉 Merged PR [#924](https://github.com/9renpoto/rn/pull/924) in [9renpoto/rn](https://github.com/9renpoto/rn)
 <!--END_SECTION:activity-->
 
 ![bonfire](https://steamuserimages-a.akamaihd.net/ugc/642122953509701566/B713E72A4007E29A1D2B53919716E2BA9BF237BD/)
