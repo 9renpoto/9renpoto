@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#242](https://github.com/g59/bot/pull/242) in [g59/bot](https://github.com/g59/bot)
-2. 🎉 Merged PR [#232](https://github.com/g59/bot/pull/232) in [g59/bot](https://github.com/g59/bot)
-3. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
-4. 🗣 Commented on [#116](https://github.com/9renpoto/coverage-diff-back/issues/116) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
-5. 🗣 Commented on [#2292](https://github.com/9renpoto/frontend/issues/2292) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#316](https://github.com/9renpoto/dotfiles/pull/316) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 💪 Opened PR [#316](https://github.com/9renpoto/dotfiles/pull/316) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 🎉 Merged PR [#315](https://github.com/9renpoto/dotfiles/pull/315) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+4. 💪 Opened PR [#315](https://github.com/9renpoto/dotfiles/pull/315) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+5. 🎉 Merged PR [#242](https://github.com/g59/bot/pull/242) in [g59/bot](https://github.com/g59/bot)
 <!--END_SECTION:activity-->
