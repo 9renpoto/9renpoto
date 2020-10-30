@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/9renpoto/9renpoto/pull/9) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-2. 💪 Opened PR [#9](https://github.com/9renpoto/9renpoto/pull/9) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-3. 🎉 Merged PR [#213](https://github.com/9renpoto/play/pull/213) in [9renpoto/play](https://github.com/9renpoto/play)
-4. 🎉 Merged PR [#541](https://github.com/9renpoto/ror/pull/541) in [9renpoto/ror](https://github.com/9renpoto/ror)
-5. 🎉 Merged PR [#924](https://github.com/9renpoto/rn/pull/924) in [9renpoto/rn](https://github.com/9renpoto/rn)
+1. 🗣 Commented on [#1678](https://github.com/g59/ranking/issues/1678) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#745](https://github.com/9renpoto/all-star-thanks/issues/745) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🗣 Commented on [#1678](https://github.com/g59/ranking/issues/1678) in [g59/ranking](https://github.com/g59/ranking)
+4. 🎉 Merged PR [#9](https://github.com/9renpoto/9renpoto/pull/9) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+5. 💪 Opened PR [#9](https://github.com/9renpoto/9renpoto/pull/9) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
 <!--END_SECTION:activity-->
 
 ![bonfire](https://steamuserimages-a.akamaihd.net/ugc/642122953509701566/B713E72A4007E29A1D2B53919716E2BA9BF237BD/)
