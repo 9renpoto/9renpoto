@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#1678](https://github.com/g59/ranking/issues/1678) in [g59/ranking](https://github.com/g59/ranking)
 2. 🗣 Commented on [#745](https://github.com/9renpoto/all-star-thanks/issues/745) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 3. 🗣 Commented on [#1678](https://github.com/g59/ranking/issues/1678) in [g59/ranking](https://github.com/g59/ranking)
-4. 🎉 Merged PR [#9](https://github.com/9renpoto/9renpoto/pull/9) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-5. 💪 Opened PR [#9](https://github.com/9renpoto/9renpoto/pull/9) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+4. 🗣 Commented on [#745](https://github.com/9renpoto/all-star-thanks/issues/745) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🗣 Commented on [#1678](https://github.com/g59/ranking/issues/1678) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
 ![bonfire](https://steamuserimages-a.akamaihd.net/ugc/642122953509701566/B713E72A4007E29A1D2B53919716E2BA9BF237BD/)
