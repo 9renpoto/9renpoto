@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#1682](https://github.com/g59/ranking/issues/1682) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
-![bonfire](https://steamuserimages-a.akamaihd.net/ugc/642122953509701566/B713E72A4007E29A1D2B53919716E2BA9BF237BD/)
