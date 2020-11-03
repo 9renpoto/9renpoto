@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2298](https://github.com/9renpoto/frontend/issues/2298) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🗣 Commented on [#2297](https://github.com/9renpoto/frontend/issues/2297) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🗣 Commented on [#1685](https://github.com/g59/ranking/issues/1685) in [g59/ranking](https://github.com/g59/ranking)
-4. 🗣 Commented on [#1684](https://github.com/g59/ranking/issues/1684) in [g59/ranking](https://github.com/g59/ranking)
-5. 🎉 Merged PR [#217](https://github.com/9renpoto/phx/pull/217) in [9renpoto/phx](https://github.com/9renpoto/phx)
+1. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+2. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+3. 🗣 Commented on [#119](https://github.com/9renpoto/coverage-diff-back/issues/119) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+4. 🗣 Commented on [#117](https://github.com/9renpoto/coverage-diff-back/issues/117) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+5. 🗣 Commented on [#2302](https://github.com/9renpoto/frontend/issues/2302) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
