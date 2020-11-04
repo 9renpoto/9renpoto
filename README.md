@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1690](https://github.com/g59/ranking/issues/1690) in [g59/ranking](https://github.com/g59/ranking)
-2. 🗣 Commented on [#1691](https://github.com/g59/ranking/issues/1691) in [g59/ranking](https://github.com/g59/ranking)
-3. 🗣 Commented on [#1689](https://github.com/g59/ranking/issues/1689) in [g59/ranking](https://github.com/g59/ranking)
-4. 🗣 Commented on [#2310](https://github.com/9renpoto/frontend/issues/2310) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🗣 Commented on [#2309](https://github.com/9renpoto/frontend/issues/2309) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 💪 Opened PR [#42](https://github.com/antonioru/beautiful-react-diagrams/pull/42) in [antonioru/beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams)
+2. 🗣 Commented on [#1690](https://github.com/g59/ranking/issues/1690) in [g59/ranking](https://github.com/g59/ranking)
+3. 🗣 Commented on [#1691](https://github.com/g59/ranking/issues/1691) in [g59/ranking](https://github.com/g59/ranking)
+4. 🗣 Commented on [#1689](https://github.com/g59/ranking/issues/1689) in [g59/ranking](https://github.com/g59/ranking)
+5. 🗣 Commented on [#2310](https://github.com/9renpoto/frontend/issues/2310) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
