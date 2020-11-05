@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2167](https://github.com/9renpoto/frontend/issues/2167) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🗣 Commented on [#42](https://github.com/antonioru/beautiful-react-diagrams/issues/42) in [antonioru/beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams)
-3. 💪 Opened PR [#42](https://github.com/antonioru/beautiful-react-diagrams/pull/42) in [antonioru/beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams)
-4. 🗣 Commented on [#1690](https://github.com/g59/ranking/issues/1690) in [g59/ranking](https://github.com/g59/ranking)
-5. 🗣 Commented on [#1691](https://github.com/g59/ranking/issues/1691) in [g59/ranking](https://github.com/g59/ranking)
+1. 🎉 Merged PR [#140](https://github.com/caddijp/frontend/pull/140) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#139](https://github.com/caddijp/frontend/pull/139) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🎉 Merged PR [#138](https://github.com/caddijp/frontend/pull/138) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#137](https://github.com/caddijp/frontend/pull/137) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#136](https://github.com/caddijp/frontend/pull/136) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
