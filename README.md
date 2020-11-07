@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/9) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-2. 💪 Opened PR [#9](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/9) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-3. 🗣 Commented on [#2316](https://github.com/9renpoto/frontend/issues/2316) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#366](https://github.com/g59/nestjs-plugins/pull/366) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 💪 Opened PR [#366](https://github.com/g59/nestjs-plugins/pull/366) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🗣 Commented on [#2317](https://github.com/9renpoto/frontend/issues/2317) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#9](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/9) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+3. 💪 Opened PR [#9](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/9) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+4. 🗣 Commented on [#2316](https://github.com/9renpoto/frontend/issues/2316) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#366](https://github.com/g59/nestjs-plugins/pull/366) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
