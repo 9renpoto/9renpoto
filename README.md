@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2319](https://github.com/9renpoto/frontend/issues/2319) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🗣 Commented on [#2318](https://github.com/9renpoto/frontend/issues/2318) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🗣 Commented on [#1692](https://github.com/g59/ranking/issues/1692) in [g59/ranking](https://github.com/g59/ranking)
-4. 🗣 Commented on [#2317](https://github.com/9renpoto/frontend/issues/2317) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#9](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/9) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+1. 🗣 Commented on [#2320](https://github.com/9renpoto/frontend/issues/2320) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🗣 Commented on [#2319](https://github.com/9renpoto/frontend/issues/2319) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🗣 Commented on [#2318](https://github.com/9renpoto/frontend/issues/2318) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🗣 Commented on [#1692](https://github.com/g59/ranking/issues/1692) in [g59/ranking](https://github.com/g59/ranking)
+5. 🗣 Commented on [#2317](https://github.com/9renpoto/frontend/issues/2317) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
