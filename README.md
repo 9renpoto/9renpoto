@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2323](https://github.com/9renpoto/frontend/pull/2323) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#2322](https://github.com/9renpoto/frontend/pull/2322) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 💪 Opened PR [#43](https://github.com/antonioru/beautiful-react-diagrams/pull/43) in [antonioru/beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams)
-4. 🗣 Commented on [#2323](https://github.com/9renpoto/frontend/issues/2323) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🗣 Commented on [#2322](https://github.com/9renpoto/frontend/issues/2322) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🗣 Commented on [#2324](https://github.com/9renpoto/frontend/issues/2324) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#2323](https://github.com/9renpoto/frontend/pull/2323) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#2322](https://github.com/9renpoto/frontend/pull/2322) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 💪 Opened PR [#43](https://github.com/antonioru/beautiful-react-diagrams/pull/43) in [antonioru/beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams)
+5. 🗣 Commented on [#2323](https://github.com/9renpoto/frontend/issues/2323) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
