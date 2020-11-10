@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/9renpoto/react-digraph/pull/58) in [9renpoto/react-digraph](https://github.com/9renpoto/react-digraph)
-2. 🗣 Commented on [#2332](https://github.com/9renpoto/frontend/issues/2332) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
-4. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
-5. 🗣 Commented on [#123](https://github.com/9renpoto/coverage-diff-back/issues/123) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+1. 🗣 Commented on [#1697](https://github.com/g59/ranking/issues/1697) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#1696](https://github.com/g59/ranking/issues/1696) in [g59/ranking](https://github.com/g59/ranking)
+3. 🗣 Commented on [#1695](https://github.com/g59/ranking/issues/1695) in [g59/ranking](https://github.com/g59/ranking)
+4. 🗣 Commented on [#1694](https://github.com/g59/ranking/issues/1694) in [g59/ranking](https://github.com/g59/ranking)
+5. 🎉 Merged PR [#58](https://github.com/9renpoto/react-digraph/pull/58) in [9renpoto/react-digraph](https://github.com/9renpoto/react-digraph)
 <!--END_SECTION:activity-->
 
