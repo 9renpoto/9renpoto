@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1700](https://github.com/g59/ranking/issues/1700) in [g59/ranking](https://github.com/g59/ranking)
-2. 💪 Opened PR [#147](https://github.com/caddijp/frontend/pull/147) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🗣 Commented on [#1701](https://github.com/g59/ranking/issues/1701) in [g59/ranking](https://github.com/g59/ranking)
-4. 🗣 Commented on [#755](https://github.com/9renpoto/all-star-thanks/issues/755) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🗣 Commented on [#1700](https://github.com/g59/ranking/issues/1700) in [g59/ranking](https://github.com/g59/ranking)
+1. 🗣 Commented on [#1702](https://github.com/g59/ranking/issues/1702) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#2341](https://github.com/9renpoto/frontend/issues/2341) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🗣 Commented on [#1700](https://github.com/g59/ranking/issues/1700) in [g59/ranking](https://github.com/g59/ranking)
+4. 💪 Opened PR [#147](https://github.com/caddijp/frontend/pull/147) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🗣 Commented on [#1701](https://github.com/g59/ranking/issues/1701) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
