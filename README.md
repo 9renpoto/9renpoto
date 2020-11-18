@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2359](https://github.com/9renpoto/frontend/pull/2359) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#2362](https://github.com/9renpoto/frontend/pull/2362) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#2363](https://github.com/9renpoto/frontend/pull/2363) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
-5. 🗣 Commented on [#124](https://github.com/9renpoto/coverage-diff-back/issues/124) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+1. 🎉 Merged PR [#515](https://github.com/9renpoto/backend/pull/515) in [9renpoto/backend](https://github.com/9renpoto/backend)
+2. 💪 Opened PR [#515](https://github.com/9renpoto/backend/pull/515) in [9renpoto/backend](https://github.com/9renpoto/backend)
+3. 🗣 Commented on [#2367](https://github.com/9renpoto/frontend/issues/2367) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🗣 Commented on [#2366](https://github.com/9renpoto/frontend/issues/2366) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🗣 Commented on [#1681](https://github.com/g59/ranking/issues/1681) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
