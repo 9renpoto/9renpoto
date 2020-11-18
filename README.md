@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#521](https://github.com/9renpoto/backend/pull/521) in [9renpoto/backend](https://github.com/9renpoto/backend)
-2. 🎉 Merged PR [#391](https://github.com/g59/nestjs-plugins/pull/391) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#257](https://github.com/g59/bot/pull/257) in [g59/bot](https://github.com/g59/bot)
-4. 🎉 Merged PR [#254](https://github.com/g59/bot/pull/254) in [g59/bot](https://github.com/g59/bot)
-5. 💪 Opened PR [#521](https://github.com/9renpoto/backend/pull/521) in [9renpoto/backend](https://github.com/9renpoto/backend)
+1. 🎉 Merged PR [#392](https://github.com/g59/nestjs-plugins/pull/392) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🗣 Commented on [#2370](https://github.com/9renpoto/frontend/issues/2370) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 💪 Opened PR [#392](https://github.com/g59/nestjs-plugins/pull/392) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 🎉 Merged PR [#1717](https://github.com/g59/ranking/pull/1717) in [g59/ranking](https://github.com/g59/ranking)
+5. 🗣 Commented on [#1717](https://github.com/g59/ranking/issues/1717) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
