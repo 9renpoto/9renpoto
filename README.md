@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#392](https://github.com/g59/nestjs-plugins/pull/392) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🗣 Commented on [#2370](https://github.com/9renpoto/frontend/issues/2370) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 💪 Opened PR [#392](https://github.com/g59/nestjs-plugins/pull/392) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#1717](https://github.com/g59/ranking/pull/1717) in [g59/ranking](https://github.com/g59/ranking)
-5. 🗣 Commented on [#1717](https://github.com/g59/ranking/issues/1717) in [g59/ranking](https://github.com/g59/ranking)
+1. 💪 Opened PR [#631](https://github.com/graphql-nexus/schema/pull/631) in [graphql-nexus/schema](https://github.com/graphql-nexus/schema)
+2. 🎉 Merged PR [#392](https://github.com/g59/nestjs-plugins/pull/392) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🗣 Commented on [#2370](https://github.com/9renpoto/frontend/issues/2370) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 💪 Opened PR [#392](https://github.com/g59/nestjs-plugins/pull/392) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 🎉 Merged PR [#1717](https://github.com/g59/ranking/pull/1717) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
