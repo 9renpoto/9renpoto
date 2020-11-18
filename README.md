@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#522](https://github.com/9renpoto/backend/pull/522) in [9renpoto/backend](https://github.com/9renpoto/backend)
-2. 💪 Opened PR [#18](https://github.com/TreeMan360/nestjs-graphql-dataloader/pull/18) in [TreeMan360/nestjs-graphql-dataloader](https://github.com/TreeMan360/nestjs-graphql-dataloader)
-3. 💪 Opened PR [#42](https://github.com/krislefeber/nestjs-dataloader/pull/42) in [krislefeber/nestjs-dataloader](https://github.com/krislefeber/nestjs-dataloader)
-4. ❌ Closed PR [#100](https://github.com/9renpoto/nestjs-dataloader/pull/100) in [9renpoto/nestjs-dataloader](https://github.com/9renpoto/nestjs-dataloader)
-5. 💪 Opened PR [#522](https://github.com/9renpoto/backend/pull/522) in [9renpoto/backend](https://github.com/9renpoto/backend)
+1. 🎉 Merged PR [#523](https://github.com/9renpoto/backend/pull/523) in [9renpoto/backend](https://github.com/9renpoto/backend)
+2. 🎉 Merged PR [#522](https://github.com/9renpoto/backend/pull/522) in [9renpoto/backend](https://github.com/9renpoto/backend)
+3. 💪 Opened PR [#18](https://github.com/TreeMan360/nestjs-graphql-dataloader/pull/18) in [TreeMan360/nestjs-graphql-dataloader](https://github.com/TreeMan360/nestjs-graphql-dataloader)
+4. 💪 Opened PR [#42](https://github.com/krislefeber/nestjs-dataloader/pull/42) in [krislefeber/nestjs-dataloader](https://github.com/krislefeber/nestjs-dataloader)
+5. ❌ Closed PR [#100](https://github.com/9renpoto/nestjs-dataloader/pull/100) in [9renpoto/nestjs-dataloader](https://github.com/9renpoto/nestjs-dataloader)
 <!--END_SECTION:activity-->
 
