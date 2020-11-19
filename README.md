@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#523](https://github.com/9renpoto/backend/pull/523) in [9renpoto/backend](https://github.com/9renpoto/backend)
-2. 🎉 Merged PR [#522](https://github.com/9renpoto/backend/pull/522) in [9renpoto/backend](https://github.com/9renpoto/backend)
-3. 💪 Opened PR [#18](https://github.com/TreeMan360/nestjs-graphql-dataloader/pull/18) in [TreeMan360/nestjs-graphql-dataloader](https://github.com/TreeMan360/nestjs-graphql-dataloader)
-4. 💪 Opened PR [#42](https://github.com/krislefeber/nestjs-dataloader/pull/42) in [krislefeber/nestjs-dataloader](https://github.com/krislefeber/nestjs-dataloader)
-5. ❌ Closed PR [#100](https://github.com/9renpoto/nestjs-dataloader/pull/100) in [9renpoto/nestjs-dataloader](https://github.com/9renpoto/nestjs-dataloader)
+1. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+2. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+3. 🗣 Commented on [#126](https://github.com/9renpoto/coverage-diff-back/issues/126) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+4. 🗣 Commented on [#125](https://github.com/9renpoto/coverage-diff-back/issues/125) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+5. 🎉 Merged PR [#932](https://github.com/9renpoto/rn/pull/932) in [9renpoto/rn](https://github.com/9renpoto/rn)
 <!--END_SECTION:activity-->
 
