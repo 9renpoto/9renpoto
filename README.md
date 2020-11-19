@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1720](https://github.com/g59/ranking/issues/1720) in [g59/ranking](https://github.com/g59/ranking)
-2. 🎉 Merged PR [#554](https://github.com/9renpoto/ror/pull/554) in [9renpoto/ror](https://github.com/9renpoto/ror)
-3. 🎉 Merged PR [#555](https://github.com/9renpoto/ror/pull/555) in [9renpoto/ror](https://github.com/9renpoto/ror)
-4. 🎉 Merged PR [#529](https://github.com/9renpoto/backend/pull/529) in [9renpoto/backend](https://github.com/9renpoto/backend)
-5. 🎉 Merged PR [#527](https://github.com/9renpoto/backend/pull/527) in [9renpoto/backend](https://github.com/9renpoto/backend)
+2. 🗣 Commented on [#1720](https://github.com/g59/ranking/issues/1720) in [g59/ranking](https://github.com/g59/ranking)
+3. 🎉 Merged PR [#554](https://github.com/9renpoto/ror/pull/554) in [9renpoto/ror](https://github.com/9renpoto/ror)
+4. 🎉 Merged PR [#555](https://github.com/9renpoto/ror/pull/555) in [9renpoto/ror](https://github.com/9renpoto/ror)
+5. 🎉 Merged PR [#529](https://github.com/9renpoto/backend/pull/529) in [9renpoto/backend](https://github.com/9renpoto/backend)
 <!--END_SECTION:activity-->
 
