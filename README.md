@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#320](https://github.com/9renpoto/dotfiles/pull/320) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 💪 Opened PR [#320](https://github.com/9renpoto/dotfiles/pull/320) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-3. 💪 Opened PR [#319](https://github.com/9renpoto/dotfiles/pull/319) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-4. 🗣 Commented on [#2141](https://github.com/9renpoto/frontend/issues/2141) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#2377](https://github.com/9renpoto/frontend/pull/2377) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#2380](https://github.com/9renpoto/frontend/pull/2380) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#2379](https://github.com/9renpoto/frontend/pull/2379) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🗣 Commented on [#2380](https://github.com/9renpoto/frontend/issues/2380) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 💪 Opened PR [#2380](https://github.com/9renpoto/frontend/pull/2380) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🗣 Commented on [#2379](https://github.com/9renpoto/frontend/issues/2379) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
