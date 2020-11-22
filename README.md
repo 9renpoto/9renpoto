@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1728](https://github.com/g59/ranking/issues/1728) in [g59/ranking](https://github.com/g59/ranking)
+1. 🎉 Merged PR [#939](https://github.com/9renpoto/rn/pull/939) in [9renpoto/rn](https://github.com/9renpoto/rn)
 2. 🗣 Commented on [#1724](https://github.com/g59/ranking/issues/1724) in [g59/ranking](https://github.com/g59/ranking)
-3. 🗣 Commented on [#1727](https://github.com/g59/ranking/issues/1727) in [g59/ranking](https://github.com/g59/ranking)
-4. 🎉 Merged PR [#764](https://github.com/9renpoto/all-star-thanks/pull/764) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🗣 Commented on [#1728](https://github.com/g59/ranking/issues/1728) in [g59/ranking](https://github.com/g59/ranking)
+4. 🗣 Commented on [#1724](https://github.com/g59/ranking/issues/1724) in [g59/ranking](https://github.com/g59/ranking)
 5. 🗣 Commented on [#1727](https://github.com/g59/ranking/issues/1727) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
