@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#770](https://github.com/9renpoto/all-star-thanks/issues/770) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 💪 Opened PR [#321](https://github.com/9renpoto/dotfiles/pull/321) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
 2. 🗣 Commented on [#1738](https://github.com/g59/ranking/issues/1738) in [g59/ranking](https://github.com/g59/ranking)
-3. 🎉 Merged PR [#261](https://github.com/g59/bot/pull/261) in [g59/bot](https://github.com/g59/bot)
-4. 🎉 Merged PR [#260](https://github.com/g59/bot/pull/260) in [g59/bot](https://github.com/g59/bot)
-5. 🎉 Merged PR [#402](https://github.com/g59/nestjs-plugins/pull/402) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🗣 Commented on [#770](https://github.com/9renpoto/all-star-thanks/issues/770) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#1738](https://github.com/g59/ranking/issues/1738) in [g59/ranking](https://github.com/g59/ranking)
+5. 🎉 Merged PR [#261](https://github.com/g59/bot/pull/261) in [g59/bot](https://github.com/g59/bot)
 <!--END_SECTION:activity-->
 
