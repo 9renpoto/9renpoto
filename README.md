@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1736](https://github.com/g59/ranking/issues/1736) in [g59/ranking](https://github.com/g59/ranking)
-2. 🗣 Commented on [#1735](https://github.com/g59/ranking/issues/1735) in [g59/ranking](https://github.com/g59/ranking)
-3. 🗣 Commented on [#2389](https://github.com/9renpoto/frontend/issues/2389) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🗣 Commented on [#1724](https://github.com/g59/ranking/issues/1724) in [g59/ranking](https://github.com/g59/ranking)
-5. 🗣 Commented on [#1734](https://github.com/g59/ranking/issues/1734) in [g59/ranking](https://github.com/g59/ranking)
+1. 🎉 Merged PR [#261](https://github.com/g59/bot/pull/261) in [g59/bot](https://github.com/g59/bot)
+2. 🎉 Merged PR [#260](https://github.com/g59/bot/pull/260) in [g59/bot](https://github.com/g59/bot)
+3. 🎉 Merged PR [#402](https://github.com/g59/nestjs-plugins/pull/402) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 🗣 Commented on [#1737](https://github.com/g59/ranking/issues/1737) in [g59/ranking](https://github.com/g59/ranking)
+5. 🗣 Commented on [#1681](https://github.com/g59/ranking/issues/1681) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
