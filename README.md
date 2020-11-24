@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![status](https://github-readme-stats.vercel.app/api?username=9renpoto&show_icons=true&count_private=true&hide=issues,contribs)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2388](https://github.com/9renpoto/frontend/pull/2388) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🗣 Commented on [#1733](https://github.com/g59/ranking/issues/1733) in [g59/ranking](https://github.com/g59/ranking)
-3. 🗣 Commented on [#768](https://github.com/9renpoto/all-star-thanks/issues/768) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🗣 Commented on [#2388](https://github.com/9renpoto/frontend/issues/2388) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🗣 Commented on [#1733](https://github.com/g59/ranking/issues/1733) in [g59/ranking](https://github.com/g59/ranking)
+1. 🗣 Commented on [#1724](https://github.com/g59/ranking/issues/1724) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#1734](https://github.com/g59/ranking/issues/1734) in [g59/ranking](https://github.com/g59/ranking)
+3. 🎉 Merged PR [#2388](https://github.com/9renpoto/frontend/pull/2388) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🗣 Commented on [#1733](https://github.com/g59/ranking/issues/1733) in [g59/ranking](https://github.com/g59/ranking)
+5. 🗣 Commented on [#768](https://github.com/9renpoto/all-star-thanks/issues/768) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
