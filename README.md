@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#772](https://github.com/9renpoto/all-star-thanks/issues/772) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🎉 Merged PR [#2395](https://github.com/9renpoto/frontend/pull/2395) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 💪 Opened PR [#76](https://github.com/beautifulinteractions/beautiful-react-diagrams/pull/76) in [beautifulinteractions/beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams)
-4. 🗣 Commented on [#2395](https://github.com/9renpoto/frontend/issues/2395) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 💪 Opened PR [#2395](https://github.com/9renpoto/frontend/pull/2395) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🗣 Commented on [#1739](https://github.com/g59/ranking/issues/1739) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#772](https://github.com/9renpoto/all-star-thanks/issues/772) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🎉 Merged PR [#2395](https://github.com/9renpoto/frontend/pull/2395) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 💪 Opened PR [#76](https://github.com/beautifulinteractions/beautiful-react-diagrams/pull/76) in [beautifulinteractions/beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams)
+5. 🗣 Commented on [#2395](https://github.com/9renpoto/frontend/issues/2395) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
