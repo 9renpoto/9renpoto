@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1724](https://github.com/g59/ranking/issues/1724) in [g59/ranking](https://github.com/g59/ranking)
-2. 🗣 Commented on [#1740](https://github.com/g59/ranking/issues/1740) in [g59/ranking](https://github.com/g59/ranking)
-3. 🗣 Commented on [#1739](https://github.com/g59/ranking/issues/1739) in [g59/ranking](https://github.com/g59/ranking)
-4. 🗣 Commented on [#772](https://github.com/9renpoto/all-star-thanks/issues/772) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🎉 Merged PR [#2395](https://github.com/9renpoto/frontend/pull/2395) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+2. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+3. 🗣 Commented on [#138](https://github.com/9renpoto/coverage-diff-back/issues/138) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+4. 🗣 Commented on [#137](https://github.com/9renpoto/coverage-diff-back/issues/137) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
+5. 🗣 Commented on [#2400](https://github.com/9renpoto/frontend/issues/2400) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
