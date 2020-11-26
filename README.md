@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
-2. 🗣 Commented on [#28](https://github.com/9renpoto/coverage-diff-back/issues/28) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
-3. 🗣 Commented on [#138](https://github.com/9renpoto/coverage-diff-back/issues/138) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
-4. 🗣 Commented on [#137](https://github.com/9renpoto/coverage-diff-back/issues/137) in [9renpoto/coverage-diff-back](https://github.com/9renpoto/coverage-diff-back)
-5. 🗣 Commented on [#2400](https://github.com/9renpoto/frontend/issues/2400) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#2400](https://github.com/9renpoto/frontend/pull/2400) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#2399](https://github.com/9renpoto/frontend/pull/2399) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#160](https://github.com/caddijp/frontend/pull/160) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🗣 Commented on [#1742](https://github.com/g59/ranking/issues/1742) in [g59/ranking](https://github.com/g59/ranking)
+5. 🗣 Commented on [#1741](https://github.com/g59/ranking/issues/1741) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
