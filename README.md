@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1746](https://github.com/g59/ranking/issues/1746) in [g59/ranking](https://github.com/g59/ranking)
-2. 🗣 Commented on [#1745](https://github.com/g59/ranking/issues/1745) in [g59/ranking](https://github.com/g59/ranking)
-3. 🎉 Merged PR [#2406](https://github.com/9renpoto/frontend/pull/2406) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#334](https://github.com/g59/.59-node/pull/334) in [g59/.59-node](https://github.com/g59/.59-node)
-5. 🗣 Commented on [#2406](https://github.com/9renpoto/frontend/issues/2406) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#405](https://github.com/g59/nestjs-plugins/pull/405) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#335](https://github.com/g59/.59-node/pull/335) in [g59/.59-node](https://github.com/g59/.59-node)
+3. 🗣 Commented on [#1746](https://github.com/g59/ranking/issues/1746) in [g59/ranking](https://github.com/g59/ranking)
+4. 🗣 Commented on [#1745](https://github.com/g59/ranking/issues/1745) in [g59/ranking](https://github.com/g59/ranking)
+5. 🎉 Merged PR [#2406](https://github.com/9renpoto/frontend/pull/2406) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
