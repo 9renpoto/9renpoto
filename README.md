@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1724](https://github.com/g59/ranking/issues/1724) in [g59/ranking](https://github.com/g59/ranking)
-2. 🗣 Commented on [#1740](https://github.com/g59/ranking/issues/1740) in [g59/ranking](https://github.com/g59/ranking)
-3. 🗣 Commented on [#1747](https://github.com/g59/ranking/issues/1747) in [g59/ranking](https://github.com/g59/ranking)
-4. 🗣 Commented on [#775](https://github.com/9renpoto/all-star-thanks/issues/775) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🗣 Commented on [#2407](https://github.com/9renpoto/frontend/issues/2407) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🗣 Commented on [#1748](https://github.com/g59/ranking/issues/1748) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#1724](https://github.com/g59/ranking/issues/1724) in [g59/ranking](https://github.com/g59/ranking)
+3. 🗣 Commented on [#1740](https://github.com/g59/ranking/issues/1740) in [g59/ranking](https://github.com/g59/ranking)
+4. 🗣 Commented on [#1747](https://github.com/g59/ranking/issues/1747) in [g59/ranking](https://github.com/g59/ranking)
+5. 🗣 Commented on [#775](https://github.com/9renpoto/all-star-thanks/issues/775) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
