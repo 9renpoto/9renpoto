@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#555](https://github.com/9renpoto/backend/pull/555) in [9renpoto/backend](https://github.com/9renpoto/backend)
-2. 🎉 Merged PR [#551](https://github.com/9renpoto/backend/pull/551) in [9renpoto/backend](https://github.com/9renpoto/backend)
-3. 🎉 Merged PR [#930](https://github.com/9renpoto/rn/pull/930) in [9renpoto/rn](https://github.com/9renpoto/rn)
-4. 🎉 Merged PR [#937](https://github.com/9renpoto/rn/pull/937) in [9renpoto/rn](https://github.com/9renpoto/rn)
-5. 🎉 Merged PR [#559](https://github.com/9renpoto/ror/pull/559) in [9renpoto/ror](https://github.com/9renpoto/ror)
+1. 🎉 Merged PR [#2413](https://github.com/9renpoto/frontend/pull/2413) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#938](https://github.com/9renpoto/rn/pull/938) in [9renpoto/rn](https://github.com/9renpoto/rn)
+3. 🎉 Merged PR [#942](https://github.com/9renpoto/rn/pull/942) in [9renpoto/rn](https://github.com/9renpoto/rn)
+4. 🎉 Merged PR [#555](https://github.com/9renpoto/backend/pull/555) in [9renpoto/backend](https://github.com/9renpoto/backend)
+5. 🎉 Merged PR [#551](https://github.com/9renpoto/backend/pull/551) in [9renpoto/backend](https://github.com/9renpoto/backend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
