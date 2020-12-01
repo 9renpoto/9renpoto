@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1741](https://github.com/g59/ranking/issues/1741) in [g59/ranking](https://github.com/g59/ranking)
-2. 🗣 Commented on [#1681](https://github.com/g59/ranking/issues/1681) in [g59/ranking](https://github.com/g59/ranking)
-3. 🗣 Commented on [#1750](https://github.com/g59/ranking/issues/1750) in [g59/ranking](https://github.com/g59/ranking)
-4. 🎉 Merged PR [#1740](https://github.com/g59/ranking/pull/1740) in [g59/ranking](https://github.com/g59/ranking)
-5. 🎉 Merged PR [#1746](https://github.com/g59/ranking/pull/1746) in [g59/ranking](https://github.com/g59/ranking)
+1. 🎉 Merged PR [#162](https://github.com/caddijp/frontend/pull/162) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🗣 Commented on [#1741](https://github.com/g59/ranking/issues/1741) in [g59/ranking](https://github.com/g59/ranking)
+3. 🗣 Commented on [#1681](https://github.com/g59/ranking/issues/1681) in [g59/ranking](https://github.com/g59/ranking)
+4. 🗣 Commented on [#1750](https://github.com/g59/ranking/issues/1750) in [g59/ranking](https://github.com/g59/ranking)
+5. 🎉 Merged PR [#1740](https://github.com/g59/ranking/pull/1740) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
