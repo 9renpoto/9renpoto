@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#163](https://github.com/caddijp/frontend/pull/163) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#162](https://github.com/caddijp/frontend/pull/162) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🗣 Commented on [#1741](https://github.com/g59/ranking/issues/1741) in [g59/ranking](https://github.com/g59/ranking)
-4. 🗣 Commented on [#1681](https://github.com/g59/ranking/issues/1681) in [g59/ranking](https://github.com/g59/ranking)
-5. 🗣 Commented on [#1750](https://github.com/g59/ranking/issues/1750) in [g59/ranking](https://github.com/g59/ranking)
+1. 🎉 Merged PR [#163](https://github.com/caddijp/frontend/pull/163) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#2416](https://github.com/9renpoto/frontend/pull/2416) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#2415](https://github.com/9renpoto/frontend/pull/2415) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#264](https://github.com/g59/bot/pull/264) in [g59/bot](https://github.com/g59/bot)
+5. 🎉 Merged PR [#263](https://github.com/g59/bot/pull/263) in [g59/bot](https://github.com/g59/bot)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
