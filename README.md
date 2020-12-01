@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#935](https://github.com/9renpoto/rn/pull/935) in [9renpoto/rn](https://github.com/9renpoto/rn)
-2. 🎉 Merged PR [#936](https://github.com/9renpoto/rn/pull/936) in [9renpoto/rn](https://github.com/9renpoto/rn)
-3. 🎉 Merged PR [#941](https://github.com/9renpoto/rn/pull/941) in [9renpoto/rn](https://github.com/9renpoto/rn)
-4. 🎉 Merged PR [#940](https://github.com/9renpoto/rn/pull/940) in [9renpoto/rn](https://github.com/9renpoto/rn)
-5. 🎉 Merged PR [#562](https://github.com/9renpoto/ror/pull/562) in [9renpoto/ror](https://github.com/9renpoto/ror)
+1. 🗣 Commented on [#1681](https://github.com/g59/ranking/issues/1681) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#1750](https://github.com/g59/ranking/issues/1750) in [g59/ranking](https://github.com/g59/ranking)
+3. 🎉 Merged PR [#1740](https://github.com/g59/ranking/pull/1740) in [g59/ranking](https://github.com/g59/ranking)
+4. 🎉 Merged PR [#1746](https://github.com/g59/ranking/pull/1746) in [g59/ranking](https://github.com/g59/ranking)
+5. 🎉 Merged PR [#935](https://github.com/9renpoto/rn/pull/935) in [9renpoto/rn](https://github.com/9renpoto/rn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
