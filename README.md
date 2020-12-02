@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2420](https://github.com/9renpoto/frontend/issues/2420) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 💪 Opened PR [#8](https://github.com/impulse/heroicons-react/pull/8) in [impulse/heroicons-react](https://github.com/impulse/heroicons-react)
-3. 🎉 Merged PR [#1](https://github.com/9renpoto/heroicons-react/pull/1) in [9renpoto/heroicons-react](https://github.com/9renpoto/heroicons-react)
-4. 💪 Opened PR [#1](https://github.com/9renpoto/heroicons-react/pull/1) in [9renpoto/heroicons-react](https://github.com/9renpoto/heroicons-react)
-5. 💪 Opened PR [#1](https://github.com/9renpoto/react-heroicons/pull/1) in [9renpoto/react-heroicons](https://github.com/9renpoto/react-heroicons)
+1. 🗣 Commented on [#2423](https://github.com/9renpoto/frontend/issues/2423) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🗣 Commented on [#1751](https://github.com/g59/ranking/issues/1751) in [g59/ranking](https://github.com/g59/ranking)
+3. 💪 Opened PR [#168](https://github.com/tailwindlabs/heroicons/pull/168) in [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
+4. 💪 Opened PR [#167](https://github.com/tailwindlabs/heroicons/pull/167) in [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
+5. 🗣 Commented on [#2420](https://github.com/9renpoto/frontend/issues/2420) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
