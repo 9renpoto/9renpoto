@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2425](https://github.com/9renpoto/frontend/issues/2425) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🗣 Commented on [#1752](https://github.com/g59/ranking/issues/1752) in [g59/ranking](https://github.com/g59/ranking)
-3. 💪 Opened PR [#9](https://github.com/impulse/heroicons-react/pull/9) in [impulse/heroicons-react](https://github.com/impulse/heroicons-react)
-4. ❌ Closed PR [#8](https://github.com/impulse/heroicons-react/pull/8) in [impulse/heroicons-react](https://github.com/impulse/heroicons-react)
-5. 🗣 Commented on [#8](https://github.com/impulse/heroicons-react/issues/8) in [impulse/heroicons-react](https://github.com/impulse/heroicons-react)
+1. 🎉 Merged PR [#338](https://github.com/g59/.59-node/pull/338) in [g59/.59-node](https://github.com/g59/.59-node)
+2. 🎉 Merged PR [#323](https://github.com/9renpoto/dotfiles/pull/323) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 💪 Opened PR [#323](https://github.com/9renpoto/dotfiles/pull/323) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+4. 🎉 Merged PR [#3](https://github.com/g59/.59/pull/3) in [g59/.59](https://github.com/g59/.59)
+5. 🗣 Commented on [#2431](https://github.com/9renpoto/frontend/issues/2431) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
