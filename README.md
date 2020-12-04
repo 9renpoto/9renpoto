@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1755](https://github.com/g59/ranking/issues/1755) in [g59/ranking](https://github.com/g59/ranking)
-2. 🗣 Commented on [#778](https://github.com/9renpoto/all-star-thanks/issues/778) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#1755](https://github.com/g59/ranking/issues/1755) in [g59/ranking](https://github.com/g59/ranking)
-4. 💪 Opened PR [#90](https://github.com/beautifulinteractions/beautiful-react-diagrams/pull/90) in [beautifulinteractions/beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams)
-5. 🗣 Commented on [#2437](https://github.com/9renpoto/frontend/issues/2437) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🗣 Commented on [#1724](https://github.com/g59/ranking/issues/1724) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#1755](https://github.com/g59/ranking/issues/1755) in [g59/ranking](https://github.com/g59/ranking)
+3. 🗣 Commented on [#778](https://github.com/9renpoto/all-star-thanks/issues/778) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#1755](https://github.com/g59/ranking/issues/1755) in [g59/ranking](https://github.com/g59/ranking)
+5. 💪 Opened PR [#90](https://github.com/beautifulinteractions/beautiful-react-diagrams/pull/90) in [beautifulinteractions/beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
