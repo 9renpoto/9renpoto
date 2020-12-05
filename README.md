@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CADDi株式会社にJoinしました](https://9renpoto.dev/2020/12/05/join/)
 - [Monorepo coverage](https://9renpoto.dev/2020/11/27/monorepo-coveralls/)
 - [Brew Alternative Installs ( Intel mac )](https://9renpoto.dev/2020/11/21/brew/)
 - [Code-First GraphQL server](https://9renpoto.dev/2020/11/19/code-first-graphql-server/)
-- [ゆとりなき開墾](https://9renpoto.dev/2020/10/29/cultivate/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
