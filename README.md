@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://dev.to/9renpoto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="9renpoto" height="30" width="40" /></a>
 <a href="https://twitter.com/9renpoto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="9renpoto" height="30" width="40" /></a>
-<a href="/https://9renpoto.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://9renpoto.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://9renpoto.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://9renpoto.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
