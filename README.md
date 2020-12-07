@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2451](https://github.com/9renpoto/frontend/pull/2451) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#2449](https://github.com/9renpoto/frontend/pull/2449) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#2452](https://github.com/9renpoto/frontend/pull/2452) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#9](https://github.com/g59/.59-rust/pull/9) in [g59/.59-rust](https://github.com/g59/.59-rust)
-5. 🗣 Commented on [#2452](https://github.com/9renpoto/frontend/issues/2452) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🗣 Commented on [#1760](https://github.com/g59/ranking/issues/1760) in [g59/ranking](https://github.com/g59/ranking)
+2. 🗣 Commented on [#1759](https://github.com/g59/ranking/issues/1759) in [g59/ranking](https://github.com/g59/ranking)
+3. 🎉 Merged PR [#2451](https://github.com/9renpoto/frontend/pull/2451) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#2449](https://github.com/9renpoto/frontend/pull/2449) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#2452](https://github.com/9renpoto/frontend/pull/2452) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
