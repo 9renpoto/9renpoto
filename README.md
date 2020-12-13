@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#435](https://github.com/g59/nestjs-plugins/pull/435) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#321](https://github.com/9renpoto/dotfiles/pull/321) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-3. 🎉 Merged PR [#220](https://github.com/9renpoto/play/pull/220) in [9renpoto/play](https://github.com/9renpoto/play)
-4. 🎉 Merged PR [#943](https://github.com/9renpoto/rn/pull/943) in [9renpoto/rn](https://github.com/9renpoto/rn)
-5. 🎉 Merged PR [#945](https://github.com/9renpoto/rn/pull/945) in [9renpoto/rn](https://github.com/9renpoto/rn)
+1. 🎉 Merged PR [#577](https://github.com/9renpoto/backend/pull/577) in [9renpoto/backend](https://github.com/9renpoto/backend)
+2. 🎉 Merged PR [#159](https://github.com/mentos1386/nest-raven/pull/159) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+3. 🗣 Commented on [#1681](https://github.com/g59/ranking/issues/1681) in [g59/ranking](https://github.com/g59/ranking)
+4. 🗣 Commented on [#1681](https://github.com/g59/ranking/issues/1681) in [g59/ranking](https://github.com/g59/ranking)
+5. 🎉 Merged PR [#1762](https://github.com/g59/ranking/pull/1762) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
