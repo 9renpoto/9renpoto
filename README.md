@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2480](https://github.com/9renpoto/frontend/issues/2480) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#164](https://github.com/mentos1386/nest-raven/pull/164) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 🎉 Merged PR [#184](https://github.com/caddijp/frontend/pull/184) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 💪 Opened PR [#184](https://github.com/caddijp/frontend/pull/184) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#183](https://github.com/caddijp/frontend/pull/183) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🗣 Commented on [#2484](https://github.com/9renpoto/frontend/issues/2484) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🗣 Commented on [#2483](https://github.com/9renpoto/frontend/issues/2483) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🗣 Commented on [#2482](https://github.com/9renpoto/frontend/issues/2482) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🗣 Commented on [#2481](https://github.com/9renpoto/frontend/issues/2481) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🗣 Commented on [#2480](https://github.com/9renpoto/frontend/issues/2480) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
