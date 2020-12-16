@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2489](https://github.com/9renpoto/frontend/issues/2489) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🗣 Commented on [#2488](https://github.com/9renpoto/frontend/issues/2488) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🗣 Commented on [#2487](https://github.com/9renpoto/frontend/issues/2487) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🗣 Commented on [#2486](https://github.com/9renpoto/frontend/issues/2486) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🗣 Commented on [#2485](https://github.com/9renpoto/frontend/issues/2485) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#279](https://github.com/g59/bot/pull/279) in [g59/bot](https://github.com/g59/bot)
+2. 🎉 Merged PR [#275](https://github.com/g59/bot/pull/275) in [g59/bot](https://github.com/g59/bot)
+3. 🎉 Merged PR [#276](https://github.com/g59/bot/pull/276) in [g59/bot](https://github.com/g59/bot)
+4. 🎉 Merged PR [#283](https://github.com/g59/bot/pull/283) in [g59/bot](https://github.com/g59/bot)
+5. 🗣 Commented on [#1775](https://github.com/g59/ranking/issues/1775) in [g59/ranking](https://github.com/g59/ranking)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
