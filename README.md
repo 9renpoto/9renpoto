@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#324](https://github.com/9renpoto/dotfiles/pull/324) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 🎉 Merged PR [#279](https://github.com/g59/bot/pull/279) in [g59/bot](https://github.com/g59/bot)
-3. 🎉 Merged PR [#275](https://github.com/g59/bot/pull/275) in [g59/bot](https://github.com/g59/bot)
-4. 🎉 Merged PR [#276](https://github.com/g59/bot/pull/276) in [g59/bot](https://github.com/g59/bot)
-5. 🎉 Merged PR [#283](https://github.com/g59/bot/pull/283) in [g59/bot](https://github.com/g59/bot)
+1. 🎉 Merged PR [#954](https://github.com/9renpoto/rn/pull/954) in [9renpoto/rn](https://github.com/9renpoto/rn)
+2. 🎉 Merged PR [#324](https://github.com/9renpoto/dotfiles/pull/324) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 🎉 Merged PR [#279](https://github.com/g59/bot/pull/279) in [g59/bot](https://github.com/g59/bot)
+4. 🎉 Merged PR [#275](https://github.com/g59/bot/pull/275) in [g59/bot](https://github.com/g59/bot)
+5. 🎉 Merged PR [#276](https://github.com/g59/bot/pull/276) in [g59/bot](https://github.com/g59/bot)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
