@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#166](https://github.com/mentos1386/nest-raven/pull/166) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-2. 🗣 Commented on [#1784](https://github.com/g59/ranking/issues/1784) in [g59/ranking](https://github.com/g59/ranking)
-3. 🎉 Merged PR [#582](https://github.com/9renpoto/ror/pull/582) in [9renpoto/ror](https://github.com/9renpoto/ror)
-4. 🗣 Commented on [#1681](https://github.com/g59/ranking/issues/1681) in [g59/ranking](https://github.com/g59/ranking)
-5. 🎉 Merged PR [#594](https://github.com/9renpoto/backend/pull/594) in [9renpoto/backend](https://github.com/9renpoto/backend)
+1. 🎉 Merged PR [#167](https://github.com/mentos1386/nest-raven/pull/167) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 💪 Opened PR [#167](https://github.com/mentos1386/nest-raven/pull/167) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+3. 🎉 Merged PR [#166](https://github.com/mentos1386/nest-raven/pull/166) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+4. 🗣 Commented on [#1784](https://github.com/g59/ranking/issues/1784) in [g59/ranking](https://github.com/g59/ranking)
+5. 🎉 Merged PR [#582](https://github.com/9renpoto/ror/pull/582) in [9renpoto/ror](https://github.com/9renpoto/ror)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
