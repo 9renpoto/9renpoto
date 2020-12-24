@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1753](https://github.com/g59/ranking/issues/1753) in [g59/ranking](https://github.com/g59/ranking)
-2. 🎉 Merged PR [#1784](https://github.com/g59/ranking/pull/1784) in [g59/ranking](https://github.com/g59/ranking)
-3. 🎉 Merged PR [#167](https://github.com/mentos1386/nest-raven/pull/167) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-4. 💪 Opened PR [#167](https://github.com/mentos1386/nest-raven/pull/167) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-5. 🎉 Merged PR [#166](https://github.com/mentos1386/nest-raven/pull/166) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. 🗣 Commented on [#2516](https://github.com/9renpoto/frontend/issues/2516) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 💪 Opened PR [#2516](https://github.com/9renpoto/frontend/pull/2516) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#2514](https://github.com/9renpoto/frontend/pull/2514) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🗣 Commented on [#2515](https://github.com/9renpoto/frontend/issues/2515) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🗣 Commented on [#2514](https://github.com/9renpoto/frontend/issues/2514) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
