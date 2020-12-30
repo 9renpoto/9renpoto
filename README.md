@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#606](https://github.com/9renpoto/backend/pull/606) in [9renpoto/backend](https://github.com/9renpoto/backend)
-2. 🎉 Merged PR [#2522](https://github.com/9renpoto/frontend/pull/2522) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🗣 Commented on [#2522](https://github.com/9renpoto/frontend/issues/2522) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 💪 Opened PR [#2522](https://github.com/9renpoto/frontend/pull/2522) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#603](https://github.com/9renpoto/backend/pull/603) in [9renpoto/backend](https://github.com/9renpoto/backend)
+1. 🗣 Commented on [#449](https://github.com/g59/nestjs-plugins/issues/449) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#606](https://github.com/9renpoto/backend/pull/606) in [9renpoto/backend](https://github.com/9renpoto/backend)
+3. 🎉 Merged PR [#2522](https://github.com/9renpoto/frontend/pull/2522) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🗣 Commented on [#2522](https://github.com/9renpoto/frontend/issues/2522) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 💪 Opened PR [#2522](https://github.com/9renpoto/frontend/pull/2522) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
