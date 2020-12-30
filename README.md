@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#188](https://github.com/caddijp/frontend/pull/188) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#591](https://github.com/9renpoto/ror/pull/591) in [9renpoto/ror](https://github.com/9renpoto/ror)
-3. 🎉 Merged PR [#588](https://github.com/9renpoto/ror/pull/588) in [9renpoto/ror](https://github.com/9renpoto/ror)
-4. 💪 Opened PR [#453](https://github.com/g59/nestjs-plugins/pull/453) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🗣 Commented on [#452](https://github.com/g59/nestjs-plugins/issues/452) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. ❌ Closed PR [#2516](https://github.com/9renpoto/frontend/pull/2516) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#188](https://github.com/caddijp/frontend/pull/188) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🎉 Merged PR [#591](https://github.com/9renpoto/ror/pull/591) in [9renpoto/ror](https://github.com/9renpoto/ror)
+4. 🎉 Merged PR [#588](https://github.com/9renpoto/ror/pull/588) in [9renpoto/ror](https://github.com/9renpoto/ror)
+5. 💪 Opened PR [#453](https://github.com/g59/nestjs-plugins/pull/453) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
