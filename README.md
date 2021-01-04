@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#224](https://github.com/9renpoto/phx/pull/224) in [9renpoto/phx](https://github.com/9renpoto/phx)
-2. 🎉 Merged PR [#598](https://github.com/9renpoto/ror/pull/598) in [9renpoto/ror](https://github.com/9renpoto/ror)
-3. 🎉 Merged PR [#2526](https://github.com/9renpoto/frontend/pull/2526) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#2528](https://github.com/9renpoto/frontend/pull/2528) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#608](https://github.com/9renpoto/backend/pull/608) in [9renpoto/backend](https://github.com/9renpoto/backend)
+1. 🎉 Merged PR [#189](https://github.com/caddijp/frontend/pull/189) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#2533](https://github.com/9renpoto/frontend/pull/2533) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#2532](https://github.com/9renpoto/frontend/pull/2532) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#611](https://github.com/9renpoto/backend/pull/611) in [9renpoto/backend](https://github.com/9renpoto/backend)
+5. 🗣 Commented on [#2533](https://github.com/9renpoto/frontend/issues/2533) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
