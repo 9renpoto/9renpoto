@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#191](https://github.com/caddijp/frontend/pull/191) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🗣 Commented on [#2553](https://github.com/9renpoto/frontend/issues/2553) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🗣 Commented on [#100](https://github.com/beautifulinteractions/beautiful-react-diagrams/issues/100) in [beautifulinteractions/beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams)
-4. 🗣 Commented on [#2552](https://github.com/9renpoto/frontend/issues/2552) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🗣 Commented on [#2551](https://github.com/9renpoto/frontend/issues/2551) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#465](https://github.com/g59/nestjs-plugins/pull/465) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 💪 Opened PR [#465](https://github.com/g59/nestjs-plugins/pull/465) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🎉 Merged PR [#191](https://github.com/caddijp/frontend/pull/191) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🗣 Commented on [#2553](https://github.com/9renpoto/frontend/issues/2553) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🗣 Commented on [#100](https://github.com/beautifulinteractions/beautiful-react-diagrams/issues/100) in [beautifulinteractions/beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
