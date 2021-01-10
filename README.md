@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#379](https://github.com/g59/.59-node/pull/379) in [g59/.59-node](https://github.com/g59/.59-node)
-2. 🎉 Merged PR [#378](https://github.com/g59/.59-node/pull/378) in [g59/.59-node](https://github.com/g59/.59-node)
-3. 💪 Opened PR [#378](https://github.com/g59/.59-node/pull/378) in [g59/.59-node](https://github.com/g59/.59-node)
-4. 🎉 Merged PR [#376](https://github.com/g59/.59-node/pull/376) in [g59/.59-node](https://github.com/g59/.59-node)
-5. 🎉 Merged PR [#377](https://github.com/g59/.59-node/pull/377) in [g59/.59-node](https://github.com/g59/.59-node)
+1. 🎉 Merged PR [#379](https://github.com/g59/.59-node/pull/379) in [g59/.59-node](https://github.com/g59/.59-node)
+2. 💪 Opened PR [#379](https://github.com/g59/.59-node/pull/379) in [g59/.59-node](https://github.com/g59/.59-node)
+3. 🎉 Merged PR [#378](https://github.com/g59/.59-node/pull/378) in [g59/.59-node](https://github.com/g59/.59-node)
+4. 💪 Opened PR [#378](https://github.com/g59/.59-node/pull/378) in [g59/.59-node](https://github.com/g59/.59-node)
+5. 🎉 Merged PR [#376](https://github.com/g59/.59-node/pull/376) in [g59/.59-node](https://github.com/g59/.59-node)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
