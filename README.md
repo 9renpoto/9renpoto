@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2556](https://github.com/9renpoto/frontend/issues/2556) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#5](https://github.com/9renpoto/upptime/pull/5) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 💪 Opened PR [#5](https://github.com/9renpoto/upptime/pull/5) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ❗️ Closed issue [#3](https://github.com/9renpoto/upptime/issues/3) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🗣 Commented on [#3](https://github.com/9renpoto/upptime/issues/3) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. ❌ Closed PR [#1](https://github.com/9renpoto/upptime/pull/1) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#2556](https://github.com/9renpoto/frontend/issues/2556) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#5](https://github.com/9renpoto/upptime/pull/5) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 💪 Opened PR [#5](https://github.com/9renpoto/upptime/pull/5) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. ❗️ Closed issue [#3](https://github.com/9renpoto/upptime/issues/3) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
