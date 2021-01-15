@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#195](https://github.com/caddijp/frontend/pull/195) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 💪 Opened PR [#196](https://github.com/caddijp/frontend/pull/196) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#388](https://github.com/g59/.59-node/pull/388) in [g59/.59-node](https://github.com/g59/.59-node)
-4. 🎉 Merged PR [#2558](https://github.com/9renpoto/frontend/pull/2558) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#2555](https://github.com/9renpoto/frontend/pull/2555) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🗣 Commented on [#2562](https://github.com/9renpoto/frontend/issues/2562) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#195](https://github.com/caddijp/frontend/pull/195) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 💪 Opened PR [#196](https://github.com/caddijp/frontend/pull/196) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#388](https://github.com/g59/.59-node/pull/388) in [g59/.59-node](https://github.com/g59/.59-node)
+5. 🎉 Merged PR [#2558](https://github.com/9renpoto/frontend/pull/2558) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
