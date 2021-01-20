@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2578](https://github.com/9renpoto/frontend/issues/2578) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#199](https://github.com/caddijp/frontend/pull/199) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🗣 Commented on [#2577](https://github.com/9renpoto/frontend/issues/2577) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🗣 Commented on [#2576](https://github.com/9renpoto/frontend/issues/2576) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🗣 Commented on [#2575](https://github.com/9renpoto/frontend/issues/2575) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#226](https://github.com/9renpoto/phx/pull/226) in [9renpoto/phx](https://github.com/9renpoto/phx)
+2. 🗣 Commented on [#2578](https://github.com/9renpoto/frontend/issues/2578) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#199](https://github.com/caddijp/frontend/pull/199) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🗣 Commented on [#2577](https://github.com/9renpoto/frontend/issues/2577) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🗣 Commented on [#2576](https://github.com/9renpoto/frontend/issues/2576) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
