@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#328](https://github.com/9renpoto/dotfiles/pull/328) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 💪 Opened PR [#328](https://github.com/9renpoto/dotfiles/pull/328) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-3. 🎉 Merged PR [#1](https://github.com/caddijp/upptime/pull/1) in [caddijp/upptime](https://github.com/caddijp/upptime)
-4. 💪 Opened PR [#1](https://github.com/caddijp/upptime/pull/1) in [caddijp/upptime](https://github.com/caddijp/upptime)
-5. ❗️ Closed issue [#1322](https://github.com/9renpoto/frontend/issues/1322) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#2590](https://github.com/9renpoto/frontend/pull/2590) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#2589](https://github.com/9renpoto/frontend/pull/2589) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#227](https://github.com/9renpoto/phx/pull/227) in [9renpoto/phx](https://github.com/9renpoto/phx)
+4. 🎉 Merged PR [#329](https://github.com/9renpoto/dotfiles/pull/329) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+5. 🎉 Merged PR [#641](https://github.com/9renpoto/backend/pull/641) in [9renpoto/backend](https://github.com/9renpoto/backend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
