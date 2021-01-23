@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#966](https://github.com/9renpoto/rn/pull/966) in [9renpoto/rn](https://github.com/9renpoto/rn)
-2. 🎉 Merged PR [#466](https://github.com/g59/nestjs-plugins/pull/466) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#470](https://github.com/g59/nestjs-plugins/pull/470) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#456](https://github.com/g59/nestjs-plugins/pull/456) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#620](https://github.com/9renpoto/ror/pull/620) in [9renpoto/ror](https://github.com/9renpoto/ror)
+1. 🎉 Merged PR [#409](https://github.com/g59/.59-node/pull/409) in [g59/.59-node](https://github.com/g59/.59-node)
+2. 🎉 Merged PR [#410](https://github.com/g59/.59-node/pull/410) in [g59/.59-node](https://github.com/g59/.59-node)
+3. 🎉 Merged PR [#402](https://github.com/g59/.59-node/pull/402) in [g59/.59-node](https://github.com/g59/.59-node)
+4. 🎉 Merged PR [#966](https://github.com/9renpoto/rn/pull/966) in [9renpoto/rn](https://github.com/9renpoto/rn)
+5. 🎉 Merged PR [#466](https://github.com/g59/nestjs-plugins/pull/466) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
