@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#307](https://github.com/dagrejs/dagre/issues/307) in [dagrejs/dagre](https://github.com/dagrejs/dagre)
-2. 🎉 Merged PR [#962](https://github.com/9renpoto/rn/pull/962) in [9renpoto/rn](https://github.com/9renpoto/rn)
-3. 🎉 Merged PR [#963](https://github.com/9renpoto/rn/pull/963) in [9renpoto/rn](https://github.com/9renpoto/rn)
-4. 🎉 Merged PR [#968](https://github.com/9renpoto/rn/pull/968) in [9renpoto/rn](https://github.com/9renpoto/rn)
-5. 🎉 Merged PR [#967](https://github.com/9renpoto/rn/pull/967) in [9renpoto/rn](https://github.com/9renpoto/rn)
+1. 🎉 Merged PR [#2608](https://github.com/9renpoto/frontend/pull/2608) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#2609](https://github.com/9renpoto/frontend/pull/2609) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🗣 Commented on [#123](https://github.com/dagrejs/graphlib/issues/123) in [dagrejs/graphlib](https://github.com/dagrejs/graphlib)
+4. 🗣 Commented on [#307](https://github.com/dagrejs/dagre/issues/307) in [dagrejs/dagre](https://github.com/dagrejs/dagre)
+5. 🎉 Merged PR [#962](https://github.com/9renpoto/rn/pull/962) in [9renpoto/rn](https://github.com/9renpoto/rn)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
