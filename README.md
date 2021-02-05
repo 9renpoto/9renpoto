@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#487](https://github.com/g59/nestjs-plugins/issues/487) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🗣 Commented on [#462](https://github.com/g59/nestjs-plugins/issues/462) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🗣 Commented on [#462](https://github.com/g59/nestjs-plugins/issues/462) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🗣 Commented on [#462](https://github.com/g59/nestjs-plugins/issues/462) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🗣 Commented on [#467](https://github.com/g59/nestjs-plugins/issues/467) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🎉 Merged PR [#189](https://github.com/mentos1386/nest-raven/pull/189) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 💪 Opened PR [#189](https://github.com/mentos1386/nest-raven/pull/189) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+3. 🎉 Merged PR [#188](https://github.com/mentos1386/nest-raven/pull/188) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+4. 💪 Opened PR [#188](https://github.com/mentos1386/nest-raven/pull/188) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+5. 🎉 Merged PR [#187](https://github.com/mentos1386/nest-raven/pull/187) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
