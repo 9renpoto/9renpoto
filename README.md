@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/9renpoto/upptime/issues/11) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#11](https://github.com/9renpoto/upptime/issues/11) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗️ Opened issue [#11](https://github.com/9renpoto/upptime/issues/11) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🎉 Merged PR [#189](https://github.com/mentos1386/nest-raven/pull/189) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-5. 💪 Opened PR [#189](https://github.com/mentos1386/nest-raven/pull/189) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. ❗️ Closed issue [#12](https://github.com/9renpoto/upptime/issues/12) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#12](https://github.com/9renpoto/upptime/issues/12) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#12](https://github.com/9renpoto/upptime/issues/12) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ❗️ Closed issue [#11](https://github.com/9renpoto/upptime/issues/11) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🗣 Commented on [#11](https://github.com/9renpoto/upptime/issues/11) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
