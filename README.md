@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#668](https://github.com/9renpoto/backend/pull/668) in [9renpoto/backend](https://github.com/9renpoto/backend)
-2. 🎉 Merged PR [#62](https://github.com/9renpoto/storybook/pull/62) in [9renpoto/storybook](https://github.com/9renpoto/storybook)
-3. 🎉 Merged PR [#190](https://github.com/mentos1386/nest-raven/pull/190) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-4. 💪 Opened PR [#190](https://github.com/mentos1386/nest-raven/pull/190) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-5. 🗣 Commented on [#180](https://github.com/mentos1386/nest-raven/issues/180) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. 🎉 Merged PR [#209](https://github.com/caddijp/frontend/pull/209) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#208](https://github.com/caddijp/frontend/pull/208) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🎉 Merged PR [#191](https://github.com/mentos1386/nest-raven/pull/191) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+4. 🎉 Merged PR [#668](https://github.com/9renpoto/backend/pull/668) in [9renpoto/backend](https://github.com/9renpoto/backend)
+5. 🎉 Merged PR [#62](https://github.com/9renpoto/storybook/pull/62) in [9renpoto/storybook](https://github.com/9renpoto/storybook)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
