@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#554](https://github.com/harikitech/django-horizon/pull/554) in [harikitech/django-horizon](https://github.com/harikitech/django-horizon)
-2. 🗣 Commented on [#180](https://github.com/mentos1386/nest-raven/issues/180) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 🎉 Merged PR [#209](https://github.com/caddijp/frontend/pull/209) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 🎉 Merged PR [#208](https://github.com/caddijp/frontend/pull/208) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#191](https://github.com/mentos1386/nest-raven/pull/191) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. ❗️ Closed issue [#13](https://github.com/9renpoto/upptime/issues/13) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. 🗣 Commented on [#13](https://github.com/9renpoto/upptime/issues/13) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ❗️ Opened issue [#13](https://github.com/9renpoto/upptime/issues/13) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🎉 Merged PR [#318](https://github.com/g59/bot/pull/318) in [g59/bot](https://github.com/g59/bot)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
