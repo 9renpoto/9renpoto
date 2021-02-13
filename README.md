@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#455](https://github.com/g59/nestjs-plugins/pull/455) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 💪 Opened PR [#452](https://github.com/g59/.59-node/pull/452) in [g59/.59-node](https://github.com/g59/.59-node)
-3. 🎉 Merged PR [#2655](https://github.com/9renpoto/frontend/pull/2655) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#977](https://github.com/9renpoto/rn/pull/977) in [9renpoto/rn](https://github.com/9renpoto/rn)
-5. 🎉 Merged PR [#974](https://github.com/9renpoto/rn/pull/974) in [9renpoto/rn](https://github.com/9renpoto/rn)
+1. 🎉 Merged PR [#454](https://github.com/g59/.59-node/pull/454) in [g59/.59-node](https://github.com/g59/.59-node)
+2. 🗣 Commented on [#433](https://github.com/g59/.59-node/issues/433) in [g59/.59-node](https://github.com/g59/.59-node)
+3. 🎉 Merged PR [#452](https://github.com/g59/.59-node/pull/452) in [g59/.59-node](https://github.com/g59/.59-node)
+4. 🎉 Merged PR [#455](https://github.com/g59/nestjs-plugins/pull/455) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 💪 Opened PR [#452](https://github.com/g59/.59-node/pull/452) in [g59/.59-node](https://github.com/g59/.59-node)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
