@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#680](https://github.com/9renpoto/backend/pull/680) in [9renpoto/backend](https://github.com/9renpoto/backend)
-2. 🎉 Merged PR [#12](https://github.com/9renpoto/9renpoto/pull/12) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-3. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🎉 Merged PR [#2640](https://github.com/9renpoto/frontend/pull/2640) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#2646](https://github.com/9renpoto/frontend/pull/2646) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#215](https://github.com/caddijp/frontend/pull/215) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#217](https://github.com/caddijp/frontend/pull/217) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🎉 Merged PR [#680](https://github.com/9renpoto/backend/pull/680) in [9renpoto/backend](https://github.com/9renpoto/backend)
+4. 🎉 Merged PR [#12](https://github.com/9renpoto/9renpoto/pull/12) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
