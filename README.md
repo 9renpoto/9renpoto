@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51277](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51277) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 🎉 Merged PR [#502](https://github.com/g59/nestjs-plugins/pull/502) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#506](https://github.com/g59/nestjs-plugins/pull/506) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 💪 Opened PR [#506](https://github.com/g59/nestjs-plugins/pull/506) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#219](https://github.com/caddijp/frontend/pull/219) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 💪 Opened PR [#51277](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51277) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 🎉 Merged PR [#502](https://github.com/g59/nestjs-plugins/pull/502) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 🎉 Merged PR [#506](https://github.com/g59/nestjs-plugins/pull/506) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 💪 Opened PR [#506](https://github.com/g59/nestjs-plugins/pull/506) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
