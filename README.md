@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 💪 Opened PR [#51277](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51277) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 🎉 Merged PR [#502](https://github.com/g59/nestjs-plugins/pull/502) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#506](https://github.com/g59/nestjs-plugins/pull/506) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 💪 Opened PR [#506](https://github.com/g59/nestjs-plugins/pull/506) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#2659](https://github.com/9renpoto/frontend/pull/2659) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#2663](https://github.com/9renpoto/frontend/pull/2663) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 💪 Opened PR [#51277](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51277) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
