@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GA4でユーザープロパティを使う](https://9renpoto.dev/2021/02/21/google-analytics-4-user-properties/)
 - [GoogleAnalytics 4でカスタムディメンションが設定できておらずハマる](https://9renpoto.dev/2021/02/13/google-analytics-4/)
 - [CADDi株式会社にJoinしました](https://9renpoto.dev/2020/12/05/join/)
 - [Monorepo coverage](https://9renpoto.dev/2020/11/27/monorepo-coveralls/)
-- [Brew Alternative Installs ( Intel mac )](https://9renpoto.dev/2020/11/21/brew/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
