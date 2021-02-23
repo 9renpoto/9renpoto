@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#333](https://github.com/9renpoto/dotfiles/pull/333) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#816](https://github.com/9renpoto/all-star-thanks/issues/816) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🎉 Merged PR [#475](https://github.com/g59/.59-node/pull/475) in [g59/.59-node](https://github.com/g59/.59-node)
+2. 🎉 Merged PR [#476](https://github.com/g59/.59-node/pull/476) in [g59/.59-node](https://github.com/g59/.59-node)
+3. 🎉 Merged PR [#333](https://github.com/9renpoto/dotfiles/pull/333) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
 4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🗣 Commented on [#816](https://github.com/9renpoto/all-star-thanks/issues/816) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
