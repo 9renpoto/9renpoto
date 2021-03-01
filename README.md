@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#198](https://github.com/mentos1386/nest-raven/issues/198) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-2. 💪 Opened PR [#198](https://github.com/mentos1386/nest-raven/pull/198) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. ❗️ Closed issue [#15](https://github.com/9renpoto/upptime/issues/15) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🗣 Commented on [#15](https://github.com/9renpoto/upptime/issues/15) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#227](https://github.com/caddijp/frontend/pull/227) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#229](https://github.com/caddijp/frontend/pull/229) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🗣 Commented on [#198](https://github.com/mentos1386/nest-raven/issues/198) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+4. 💪 Opened PR [#198](https://github.com/mentos1386/nest-raven/pull/198) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
