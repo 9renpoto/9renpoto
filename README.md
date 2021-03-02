@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#231](https://github.com/caddijp/frontend/pull/231) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🎉 Merged PR [#227](https://github.com/caddijp/frontend/pull/227) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 🎉 Merged PR [#229](https://github.com/caddijp/frontend/pull/229) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🗣 Commented on [#198](https://github.com/mentos1386/nest-raven/issues/198) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🎉 Merged PR [#231](https://github.com/caddijp/frontend/pull/231) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🎉 Merged PR [#227](https://github.com/caddijp/frontend/pull/227) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#229](https://github.com/caddijp/frontend/pull/229) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
