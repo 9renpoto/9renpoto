@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2740](https://github.com/9renpoto/frontend/pull/2740) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#2700](https://github.com/9renpoto/frontend/pull/2700) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#2722](https://github.com/9renpoto/frontend/pull/2722) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. ❌ Closed PR [#2734](https://github.com/9renpoto/frontend/pull/2734) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. ❌ Closed PR [#2739](https://github.com/9renpoto/frontend/pull/2739) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#201](https://github.com/mentos1386/nest-raven/pull/201) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 💪 Opened PR [#201](https://github.com/mentos1386/nest-raven/pull/201) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+3. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🎉 Merged PR [#2740](https://github.com/9renpoto/frontend/pull/2740) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#2700](https://github.com/9renpoto/frontend/pull/2700) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
