@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🎉 Merged PR [#201](https://github.com/mentos1386/nest-raven/pull/201) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 💪 Opened PR [#201](https://github.com/mentos1386/nest-raven/pull/201) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. 🎉 Merged PR [#501](https://github.com/g59/nestjs-plugins/pull/501) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#498](https://github.com/g59/nestjs-plugins/pull/498) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🎉 Merged PR [#20](https://github.com/g59/.59-rust/pull/20) in [g59/.59-rust](https://github.com/g59/.59-rust)
 4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🎉 Merged PR [#2740](https://github.com/9renpoto/frontend/pull/2740) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#201](https://github.com/mentos1386/nest-raven/pull/201) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
