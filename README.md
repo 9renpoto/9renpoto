@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#552](https://github.com/g59/nestjs-plugins/pull/552) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 💪 Opened PR [#238](https://github.com/caddijp/frontend/pull/238) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#236](https://github.com/caddijp/frontend/pull/236) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 🎉 Merged PR [#230](https://github.com/caddijp/frontend/pull/230) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#234](https://github.com/caddijp/frontend/pull/234) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🎉 Merged PR [#2769](https://github.com/9renpoto/frontend/pull/2769) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#552](https://github.com/g59/nestjs-plugins/pull/552) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 💪 Opened PR [#238](https://github.com/caddijp/frontend/pull/238) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#236](https://github.com/caddijp/frontend/pull/236) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#230](https://github.com/caddijp/frontend/pull/230) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
