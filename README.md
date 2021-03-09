@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🎉 Merged PR [#2769](https://github.com/9renpoto/frontend/pull/2769) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#552](https://github.com/g59/nestjs-plugins/pull/552) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 💪 Opened PR [#238](https://github.com/caddijp/frontend/pull/238) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#236](https://github.com/caddijp/frontend/pull/236) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. ❗️ Closed issue [#18](https://github.com/9renpoto/upptime/issues/18) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#18](https://github.com/9renpoto/upptime/issues/18) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#18](https://github.com/9renpoto/upptime/issues/18) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🎉 Merged PR [#2769](https://github.com/9renpoto/frontend/pull/2769) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
