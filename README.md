@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hikariumeno/todo-app/issues/1) in [hikariumeno/todo-app](https://github.com/hikariumeno/todo-app)
-2. 🎉 Merged PR [#2726](https://github.com/9renpoto/frontend/pull/2726) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#991](https://github.com/9renpoto/rn/pull/991) in [9renpoto/rn](https://github.com/9renpoto/rn)
-4. 🎉 Merged PR [#662](https://github.com/9renpoto/ror/pull/662) in [9renpoto/ror](https://github.com/9renpoto/ror)
-5. 🎉 Merged PR [#665](https://github.com/9renpoto/ror/pull/665) in [9renpoto/ror](https://github.com/9renpoto/ror)
+1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#1](https://github.com/hikariumeno/todo-app/issues/1) in [hikariumeno/todo-app](https://github.com/hikariumeno/todo-app)
+3. 🎉 Merged PR [#2726](https://github.com/9renpoto/frontend/pull/2726) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#991](https://github.com/9renpoto/rn/pull/991) in [9renpoto/rn](https://github.com/9renpoto/rn)
+5. 🎉 Merged PR [#662](https://github.com/9renpoto/ror/pull/662) in [9renpoto/ror](https://github.com/9renpoto/ror)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
