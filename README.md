@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/9renpoto/upptime/issues/22) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#22](https://github.com/9renpoto/upptime/issues/22) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗️ Opened issue [#22](https://github.com/9renpoto/upptime/issues/22) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🗣 Commented on [#21](https://github.com/9renpoto/upptime/issues/21) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. ❗️ Closed issue [#21](https://github.com/9renpoto/upptime/issues/21) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. ❗️ Closed issue [#23](https://github.com/9renpoto/upptime/issues/23) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#23](https://github.com/9renpoto/upptime/issues/23) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#23](https://github.com/9renpoto/upptime/issues/23) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ❗️ Closed issue [#22](https://github.com/9renpoto/upptime/issues/22) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🗣 Commented on [#22](https://github.com/9renpoto/upptime/issues/22) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
