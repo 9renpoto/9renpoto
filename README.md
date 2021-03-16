@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/9renpoto/upptime/issues/20) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#1](https://github.com/hikariumeno/todo-app/issues/1) in [hikariumeno/todo-app](https://github.com/hikariumeno/todo-app)
-4. 🎉 Merged PR [#2726](https://github.com/9renpoto/frontend/pull/2726) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#991](https://github.com/9renpoto/rn/pull/991) in [9renpoto/rn](https://github.com/9renpoto/rn)
+1. ❗️ Closed issue [#22](https://github.com/9renpoto/upptime/issues/22) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#22](https://github.com/9renpoto/upptime/issues/22) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#22](https://github.com/9renpoto/upptime/issues/22) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🗣 Commented on [#21](https://github.com/9renpoto/upptime/issues/21) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. ❗️ Closed issue [#21](https://github.com/9renpoto/upptime/issues/21) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
