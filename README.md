@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/g59/.59/pull/12) in [g59/.59](https://github.com/g59/.59)
-2. 🎉 Merged PR [#15](https://github.com/g59/.59/pull/15) in [g59/.59](https://github.com/g59/.59)
-3. 🎉 Merged PR [#345](https://github.com/g59/bot/pull/345) in [g59/bot](https://github.com/g59/bot)
-4. 🎉 Merged PR [#349](https://github.com/g59/bot/pull/349) in [g59/bot](https://github.com/g59/bot)
-5. 🎉 Merged PR [#566](https://github.com/g59/nestjs-plugins/pull/566) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🎉 Merged PR [#992](https://github.com/9renpoto/rn/pull/992) in [9renpoto/rn](https://github.com/9renpoto/rn)
+2. 🎉 Merged PR [#981](https://github.com/9renpoto/rn/pull/981) in [9renpoto/rn](https://github.com/9renpoto/rn)
+3. 🎉 Merged PR [#666](https://github.com/9renpoto/ror/pull/666) in [9renpoto/ror](https://github.com/9renpoto/ror)
+4. 🎉 Merged PR [#12](https://github.com/g59/.59/pull/12) in [g59/.59](https://github.com/g59/.59)
+5. 🎉 Merged PR [#15](https://github.com/g59/.59/pull/15) in [g59/.59](https://github.com/g59/.59)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
