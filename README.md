@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/14) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-2. 🎉 Merged PR [#15](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/15) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-3. 💪 Opened PR [#15](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/15) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-4. 💪 Opened PR [#2898](https://github.com/npm/cli/pull/2898) in [npm/cli](https://github.com/npm/cli)
-5. 🎉 Merged PR [#12](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/12) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+1. 🎉 Merged PR [#13](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/13) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+2. 🎉 Merged PR [#14](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/14) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+3. 🎉 Merged PR [#15](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/15) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+4. 💪 Opened PR [#15](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/15) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+5. 💪 Opened PR [#2898](https://github.com/npm/cli/pull/2898) in [npm/cli](https://github.com/npm/cli)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
