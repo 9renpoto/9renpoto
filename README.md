@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/caddijp/frontend/pull/243) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#242](https://github.com/caddijp/frontend/pull/242) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#241](https://github.com/caddijp/frontend/pull/241) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 🎉 Merged PR [#240](https://github.com/caddijp/frontend/pull/240) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#992](https://github.com/9renpoto/rn/pull/992) in [9renpoto/rn](https://github.com/9renpoto/rn)
+1. 💪 Opened PR [#244](https://github.com/caddijp/frontend/pull/244) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#243](https://github.com/caddijp/frontend/pull/243) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🎉 Merged PR [#242](https://github.com/caddijp/frontend/pull/242) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#241](https://github.com/caddijp/frontend/pull/241) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#240](https://github.com/caddijp/frontend/pull/240) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
