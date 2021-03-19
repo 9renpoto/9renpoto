@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#245](https://github.com/caddijp/frontend/pull/245) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#18](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/18) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-3. 🎉 Merged PR [#19](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/19) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-4. 🎉 Merged PR [#16](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/16) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🎉 Merged PR [#247](https://github.com/caddijp/frontend/pull/247) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 💪 Opened PR [#247](https://github.com/caddijp/frontend/pull/247) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🎉 Merged PR [#246](https://github.com/caddijp/frontend/pull/246) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 💪 Opened PR [#246](https://github.com/caddijp/frontend/pull/246) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 💪 Opened PR [#245](https://github.com/caddijp/frontend/pull/245) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
