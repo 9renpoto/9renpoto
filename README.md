@@ -37,11 +37,5 @@ Here are some ideas to get you started:
 5. 💪 Opened PR [#245](https://github.com/caddijp/frontend/pull/245) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/9renpoto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="9renpoto" height="30" width="40" /></a>
-<a href="https://twitter.com/9renpoto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="9renpoto" height="30" width="40" /></a>
-<a href="https://9renpoto.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://9renpoto.dev/rss.xml" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=9renpoto&show_icons=true&locale=en&layout=compact&hide=html" alt="9renpoto" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
