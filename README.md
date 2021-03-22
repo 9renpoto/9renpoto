@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#247](https://github.com/caddijp/frontend/pull/247) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 💪 Opened PR [#247](https://github.com/caddijp/frontend/pull/247) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#246](https://github.com/caddijp/frontend/pull/246) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 💪 Opened PR [#246](https://github.com/caddijp/frontend/pull/246) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 💪 Opened PR [#245](https://github.com/caddijp/frontend/pull/245) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🎉 Merged PR [#14](https://github.com/9renpoto/9renpoto/pull/14) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+2. 💪 Opened PR [#14](https://github.com/9renpoto/9renpoto/pull/14) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+3. 🎉 Merged PR [#248](https://github.com/caddijp/frontend/pull/248) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#206](https://github.com/mentos1386/nest-raven/pull/206) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
