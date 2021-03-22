@@ -1,4 +1,4 @@
-name: Update README
+name: waka readme status
 
 on:
   schedule:
