@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/vercel-solutions/nextjs-portfolio-starter/pull/1) in [vercel-solutions/nextjs-portfolio-starter](https://github.com/vercel-solutions/nextjs-portfolio-starter)
-2. 🎉 Merged PR [#1](https://github.com/9renpoto/nextjs-portfolio-starter/pull/1) in [9renpoto/nextjs-portfolio-starter](https://github.com/9renpoto/nextjs-portfolio-starter)
-3. 💪 Opened PR [#1](https://github.com/9renpoto/nextjs-portfolio-starter/pull/1) in [9renpoto/nextjs-portfolio-starter](https://github.com/9renpoto/nextjs-portfolio-starter)
-4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🎉 Merged PR [#31](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/31) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+1. 🎉 Merged PR [#32](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/32) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+2. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🗣 Commented on [#838](https://github.com/9renpoto/all-star-thanks/issues/838) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🎉 Merged PR [#670](https://github.com/9renpoto/ror/pull/670) in [9renpoto/ror](https://github.com/9renpoto/ror)
+5. 💪 Opened PR [#1](https://github.com/vercel-solutions/nextjs-portfolio-starter/pull/1) in [vercel-solutions/nextjs-portfolio-starter](https://github.com/vercel-solutions/nextjs-portfolio-starter)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
