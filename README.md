@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#840](https://github.com/9renpoto/all-star-thanks/issues/840) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#840](https://github.com/9renpoto/all-star-thanks/issues/840) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 3. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🎉 Merged PR [#32](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/32) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🎉 Merged PR [#32](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/32) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
