@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 💪 Opened PR [#595](https://github.com/g59/nestjs-plugins/pull/595) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 2. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#840](https://github.com/9renpoto/all-star-thanks/issues/840) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🎉 Merged PR [#843](https://github.com/9renpoto/all-star-thanks/pull/843) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🎉 Merged PR [#337](https://github.com/9renpoto/dotfiles/pull/337) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
 5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
