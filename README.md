@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#237](https://github.com/9renpoto/play/pull/237) in [9renpoto/play](https://github.com/9renpoto/play)
-2. 🎉 Merged PR [#750](https://github.com/9renpoto/backend/pull/750) in [9renpoto/backend](https://github.com/9renpoto/backend)
-3. 🎉 Merged PR [#758](https://github.com/9renpoto/backend/pull/758) in [9renpoto/backend](https://github.com/9renpoto/backend)
-4. 🎉 Merged PR [#15](https://github.com/9renpoto/9renpoto/pull/15) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-5. 🎉 Merged PR [#2824](https://github.com/9renpoto/frontend/pull/2824) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#36](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/36) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+2. 🎉 Merged PR [#37](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/37) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+3. 🎉 Merged PR [#221](https://github.com/mentos1386/nest-raven/pull/221) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+4. 🎉 Merged PR [#258](https://github.com/caddijp/frontend/pull/258) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#259](https://github.com/caddijp/frontend/pull/259) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
