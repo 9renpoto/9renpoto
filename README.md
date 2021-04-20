@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🎉 Merged PR [#36](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/36) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-3. 🎉 Merged PR [#37](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/37) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-4. 🎉 Merged PR [#221](https://github.com/mentos1386/nest-raven/pull/221) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-5. 🎉 Merged PR [#258](https://github.com/caddijp/frontend/pull/258) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🎉 Merged PR [#617](https://github.com/g59/nestjs-plugins/pull/617) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#19](https://github.com/g59/.59/pull/19) in [g59/.59](https://github.com/g59/.59)
+3. 🎉 Merged PR [#17](https://github.com/g59/.59/pull/17) in [g59/.59](https://github.com/g59/.59)
+4. 🎉 Merged PR [#25](https://github.com/g59/.59-rust/pull/25) in [g59/.59-rust](https://github.com/g59/.59-rust)
+5. 🎉 Merged PR [#24](https://github.com/g59/.59-rust/pull/24) in [g59/.59-rust](https://github.com/g59/.59-rust)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
