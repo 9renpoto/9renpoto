@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#636](https://github.com/g59/nestjs-plugins/pull/636) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#635](https://github.com/g59/nestjs-plugins/pull/635) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 💪 Opened PR [#636](https://github.com/g59/nestjs-plugins/pull/636) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🗣 Commented on [#632](https://github.com/g59/nestjs-plugins/issues/632) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#761](https://github.com/9renpoto/backend/pull/761) in [9renpoto/backend](https://github.com/9renpoto/backend)
+1. ❗️ Closed issue [#26](https://github.com/9renpoto/upptime/issues/26) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#26](https://github.com/9renpoto/upptime/issues/26) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#26](https://github.com/9renpoto/upptime/issues/26) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 💪 Opened PR [#52583](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/52583) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 🎉 Merged PR [#636](https://github.com/g59/nestjs-plugins/pull/636) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
