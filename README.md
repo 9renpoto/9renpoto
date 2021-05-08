@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#348](https://github.com/g59/bot/pull/348) in [g59/bot](https://github.com/g59/bot)
-2. 🗣 Commented on [#348](https://github.com/g59/bot/issues/348) in [g59/bot](https://github.com/g59/bot)
-3. 🎉 Merged PR [#604](https://github.com/g59/.59-node/pull/604) in [g59/.59-node](https://github.com/g59/.59-node)
-4. 💪 Opened PR [#604](https://github.com/g59/.59-node/pull/604) in [g59/.59-node](https://github.com/g59/.59-node)
-5. 🎉 Merged PR [#231](https://github.com/mentos1386/nest-raven/pull/231) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🎉 Merged PR [#348](https://github.com/g59/bot/pull/348) in [g59/bot](https://github.com/g59/bot)
+3. 🗣 Commented on [#348](https://github.com/g59/bot/issues/348) in [g59/bot](https://github.com/g59/bot)
+4. 🎉 Merged PR [#604](https://github.com/g59/.59-node/pull/604) in [g59/.59-node](https://github.com/g59/.59-node)
+5. 💪 Opened PR [#604](https://github.com/g59/.59-node/pull/604) in [g59/.59-node](https://github.com/g59/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
