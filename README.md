@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#388](https://github.com/g59/bot/pull/388) in [g59/bot](https://github.com/g59/bot)
-2. 🎉 Merged PR [#395](https://github.com/g59/bot/pull/395) in [g59/bot](https://github.com/g59/bot)
-3. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🎉 Merged PR [#272](https://github.com/caddijp/frontend/pull/272) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#45](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/45) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🎉 Merged PR [#388](https://github.com/g59/bot/pull/388) in [g59/bot](https://github.com/g59/bot)
+3. 🎉 Merged PR [#395](https://github.com/g59/bot/pull/395) in [g59/bot](https://github.com/g59/bot)
+4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🎉 Merged PR [#272](https://github.com/caddijp/frontend/pull/272) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
