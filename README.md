@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#278](https://github.com/caddijp/frontend/pull/278) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#2869](https://github.com/9renpoto/frontend/pull/2869) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#235](https://github.com/mentos1386/nest-raven/pull/235) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-4. 🎉 Merged PR [#808](https://github.com/9renpoto/backend/pull/808) in [9renpoto/backend](https://github.com/9renpoto/backend)
-5. 🎉 Merged PR [#807](https://github.com/9renpoto/backend/pull/807) in [9renpoto/backend](https://github.com/9renpoto/backend)
+1. 🎉 Merged PR [#664](https://github.com/g59/nestjs-plugins/pull/664) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#665](https://github.com/g59/nestjs-plugins/pull/665) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🎉 Merged PR [#667](https://github.com/g59/nestjs-plugins/pull/667) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 🗣 Commented on [#577](https://github.com/g59/.59-node/issues/577) in [g59/.59-node](https://github.com/g59/.59-node)
+5. 🎉 Merged PR [#615](https://github.com/g59/.59-node/pull/615) in [g59/.59-node](https://github.com/g59/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
