@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#677](https://github.com/g59/nestjs-plugins/pull/677) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#678](https://github.com/g59/nestjs-plugins/pull/678) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#679](https://github.com/g59/nestjs-plugins/pull/679) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#811](https://github.com/9renpoto/backend/pull/811) in [9renpoto/backend](https://github.com/9renpoto/backend)
-5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🎉 Merged PR [#30](https://github.com/g59/.59-rust/pull/30) in [g59/.59-rust](https://github.com/g59/.59-rust)
+2. 🎉 Merged PR [#33](https://github.com/g59/.59-rust/pull/33) in [g59/.59-rust](https://github.com/g59/.59-rust)
+3. 🎉 Merged PR [#32](https://github.com/g59/.59-rust/pull/32) in [g59/.59-rust](https://github.com/g59/.59-rust)
+4. 🎉 Merged PR [#36](https://github.com/g59/.59-rust/pull/36) in [g59/.59-rust](https://github.com/g59/.59-rust)
+5. 🎉 Merged PR [#35](https://github.com/g59/.59-rust/pull/35) in [g59/.59-rust](https://github.com/g59/.59-rust)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
