@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#239](https://github.com/mentos1386/nest-raven/pull/239) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-2. 🎉 Merged PR [#229](https://github.com/mentos1386/nest-raven/pull/229) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 🎉 Merged PR [#280](https://github.com/caddijp/frontend/pull/280) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 🎉 Merged PR [#279](https://github.com/caddijp/frontend/pull/279) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#30](https://github.com/g59/.59-rust/pull/30) in [g59/.59-rust](https://github.com/g59/.59-rust)
+1. 🎉 Merged PR [#410](https://github.com/g59/bot/pull/410) in [g59/bot](https://github.com/g59/bot)
+2. 🎉 Merged PR [#408](https://github.com/g59/bot/pull/408) in [g59/bot](https://github.com/g59/bot)
+3. 🎉 Merged PR [#407](https://github.com/g59/bot/pull/407) in [g59/bot](https://github.com/g59/bot)
+4. 🎉 Merged PR [#343](https://github.com/9renpoto/dotfiles/pull/343) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+5. 💪 Opened PR [#343](https://github.com/9renpoto/dotfiles/pull/343) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
