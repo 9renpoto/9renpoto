@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1001](https://github.com/9renpoto/rn/pull/1001) in [9renpoto/rn](https://github.com/9renpoto/rn)
-2. 🎉 Merged PR [#2897](https://github.com/9renpoto/frontend/pull/2897) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#814](https://github.com/9renpoto/backend/pull/814) in [9renpoto/backend](https://github.com/9renpoto/backend)
-4. 🎉 Merged PR [#630](https://github.com/g59/.59-node/pull/630) in [g59/.59-node](https://github.com/g59/.59-node)
-5. 💪 Opened PR [#630](https://github.com/g59/.59-node/pull/630) in [g59/.59-node](https://github.com/g59/.59-node)
+1. 🎉 Merged PR [#281](https://github.com/caddijp/frontend/pull/281) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#1001](https://github.com/9renpoto/rn/pull/1001) in [9renpoto/rn](https://github.com/9renpoto/rn)
+3. 🎉 Merged PR [#2897](https://github.com/9renpoto/frontend/pull/2897) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#814](https://github.com/9renpoto/backend/pull/814) in [9renpoto/backend](https://github.com/9renpoto/backend)
+5. 🎉 Merged PR [#630](https://github.com/g59/.59-node/pull/630) in [g59/.59-node](https://github.com/g59/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
