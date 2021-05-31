@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/9renpoto/upptime/issues/34) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#34](https://github.com/9renpoto/upptime/issues/34) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗️ Opened issue [#34](https://github.com/9renpoto/upptime/issues/34) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🎉 Merged PR [#654](https://github.com/g59/.59-node/pull/654) in [g59/.59-node](https://github.com/g59/.59-node)
+2. 💪 Opened PR [#654](https://github.com/g59/.59-node/pull/654) in [g59/.59-node](https://github.com/g59/.59-node)
+3. 🎉 Merged PR [#286](https://github.com/caddijp/frontend/pull/286) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#283](https://github.com/caddijp/frontend/pull/283) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#282](https://github.com/caddijp/frontend/pull/282) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
