@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. ❌ Closed PR [#1](https://github.com/caddijp/DefinitelyTyped/pull/1) in [caddijp/DefinitelyTyped](https://github.com/caddijp/DefinitelyTyped)
-3. 🎉 Merged PR [#838](https://github.com/9renpoto/backend/pull/838) in [9renpoto/backend](https://github.com/9renpoto/backend)
-4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. ❌ Closed PR [#1](https://github.com/caddijp/DefinitelyTyped/pull/1) in [caddijp/DefinitelyTyped](https://github.com/caddijp/DefinitelyTyped)
+4. 🎉 Merged PR [#838](https://github.com/9renpoto/backend/pull/838) in [9renpoto/backend](https://github.com/9renpoto/backend)
 5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
