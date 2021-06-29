@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#77](https://github.com/9renpoto/gridsome-starter-typescript/pull/77) in [9renpoto/gridsome-starter-typescript](https://github.com/9renpoto/gridsome-starter-typescript)
-2. ❌ Closed PR [#76](https://github.com/9renpoto/gridsome-starter-typescript/pull/76) in [9renpoto/gridsome-starter-typescript](https://github.com/9renpoto/gridsome-starter-typescript)
-3. ❌ Closed PR [#75](https://github.com/9renpoto/gridsome-starter-typescript/pull/75) in [9renpoto/gridsome-starter-typescript](https://github.com/9renpoto/gridsome-starter-typescript)
-4. ❌ Closed PR [#73](https://github.com/9renpoto/gridsome-starter-typescript/pull/73) in [9renpoto/gridsome-starter-typescript](https://github.com/9renpoto/gridsome-starter-typescript)
-5. ❌ Closed PR [#69](https://github.com/9renpoto/gridsome-starter-typescript/pull/69) in [9renpoto/gridsome-starter-typescript](https://github.com/9renpoto/gridsome-starter-typescript)
+1. 🎉 Merged PR [#294](https://github.com/caddijp/frontend/pull/294) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. ❌ Closed PR [#77](https://github.com/9renpoto/gridsome-starter-typescript/pull/77) in [9renpoto/gridsome-starter-typescript](https://github.com/9renpoto/gridsome-starter-typescript)
+3. ❌ Closed PR [#76](https://github.com/9renpoto/gridsome-starter-typescript/pull/76) in [9renpoto/gridsome-starter-typescript](https://github.com/9renpoto/gridsome-starter-typescript)
+4. ❌ Closed PR [#75](https://github.com/9renpoto/gridsome-starter-typescript/pull/75) in [9renpoto/gridsome-starter-typescript](https://github.com/9renpoto/gridsome-starter-typescript)
+5. ❌ Closed PR [#73](https://github.com/9renpoto/gridsome-starter-typescript/pull/73) in [9renpoto/gridsome-starter-typescript](https://github.com/9renpoto/gridsome-starter-typescript)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
