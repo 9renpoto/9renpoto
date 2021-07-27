@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🎉 Merged PR [#310](https://github.com/caddijp/frontend/pull/310) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#309](https://github.com/caddijp/frontend/pull/309) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🎉 Merged PR [#785](https://github.com/g59/nestjs-plugins/pull/785) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#795](https://github.com/g59/nestjs-plugins/pull/795) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🎉 Merged PR [#310](https://github.com/caddijp/frontend/pull/310) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#309](https://github.com/caddijp/frontend/pull/309) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
