@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#347](https://github.com/9renpoto/dotfiles/pull/347) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 🎉 Merged PR [#455](https://github.com/g59/bot/pull/455) in [g59/bot](https://github.com/g59/bot)
-3. 🎉 Merged PR [#454](https://github.com/g59/bot/pull/454) in [g59/bot](https://github.com/g59/bot)
-4. 🎉 Merged PR [#457](https://github.com/g59/bot/pull/457) in [g59/bot](https://github.com/g59/bot)
-5. 🎉 Merged PR [#461](https://github.com/g59/bot/pull/461) in [g59/bot](https://github.com/g59/bot)
+1. 🎉 Merged PR [#313](https://github.com/caddijp/frontend/pull/313) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#311](https://github.com/caddijp/frontend/pull/311) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🎉 Merged PR [#312](https://github.com/caddijp/frontend/pull/312) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#347](https://github.com/9renpoto/dotfiles/pull/347) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+5. 🎉 Merged PR [#455](https://github.com/g59/bot/pull/455) in [g59/bot](https://github.com/g59/bot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
