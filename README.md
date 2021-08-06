@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#280](https://github.com/mentos1386/nest-raven/pull/280) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-2. 🎉 Merged PR [#285](https://github.com/mentos1386/nest-raven/pull/285) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🎉 Merged PR [#826](https://github.com/g59/nestjs-plugins/pull/826) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🎉 Merged PR [#347](https://github.com/9renpoto/dotfiles/pull/347) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 🎉 Merged PR [#455](https://github.com/g59/bot/pull/455) in [g59/bot](https://github.com/g59/bot)
+3. 🎉 Merged PR [#454](https://github.com/g59/bot/pull/454) in [g59/bot](https://github.com/g59/bot)
+4. 🎉 Merged PR [#457](https://github.com/g59/bot/pull/457) in [g59/bot](https://github.com/g59/bot)
+5. 🎉 Merged PR [#461](https://github.com/g59/bot/pull/461) in [g59/bot](https://github.com/g59/bot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
