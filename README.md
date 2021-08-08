@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#39](https://github.com/9renpoto/upptime/issues/39) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#39](https://github.com/9renpoto/upptime/issues/39) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗️ Opened issue [#39](https://github.com/9renpoto/upptime/issues/39) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🎉 Merged PR [#291](https://github.com/caddijp/frontend/pull/291) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#313](https://github.com/caddijp/frontend/pull/313) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🎉 Merged PR [#6](https://github.com/caddijp/firebase-functions-testing-sample/pull/6) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
+2. 🎉 Merged PR [#4](https://github.com/caddijp/firebase-functions-testing-sample/pull/4) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
+3. 🎉 Merged PR [#5](https://github.com/caddijp/firebase-functions-testing-sample/pull/5) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
+4. 🎉 Merged PR [#1](https://github.com/caddijp/firebase-functions-testing-sample/pull/1) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
+5. 🎉 Merged PR [#2](https://github.com/caddijp/firebase-functions-testing-sample/pull/2) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
