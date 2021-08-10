@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/caddijp/firebase-functions-testing-sample/pull/6) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
-2. 🎉 Merged PR [#4](https://github.com/caddijp/firebase-functions-testing-sample/pull/4) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
-3. 🎉 Merged PR [#5](https://github.com/caddijp/firebase-functions-testing-sample/pull/5) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
-4. 🎉 Merged PR [#1](https://github.com/caddijp/firebase-functions-testing-sample/pull/1) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
-5. 🎉 Merged PR [#2](https://github.com/caddijp/firebase-functions-testing-sample/pull/2) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
+1. 🎉 Merged PR [#7](https://github.com/caddijp/firebase-functions-testing-sample/pull/7) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
+2. 🎉 Merged PR [#315](https://github.com/caddijp/frontend/pull/315) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 💪 Opened PR [#7](https://github.com/caddijp/firebase-functions-testing-sample/pull/7) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
+4. 🎉 Merged PR [#314](https://github.com/caddijp/frontend/pull/314) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#285](https://github.com/caddijp/frontend/pull/285) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
