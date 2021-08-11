@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/caddijp/firebase-functions-testing-sample/pull/7) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
-2. 🎉 Merged PR [#315](https://github.com/caddijp/frontend/pull/315) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 💪 Opened PR [#7](https://github.com/caddijp/firebase-functions-testing-sample/pull/7) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
-4. 🎉 Merged PR [#314](https://github.com/caddijp/frontend/pull/314) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#285](https://github.com/caddijp/frontend/pull/285) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🎉 Merged PR [#3005](https://github.com/9renpoto/frontend/pull/3005) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#3018](https://github.com/9renpoto/frontend/pull/3018) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#7](https://github.com/caddijp/firebase-functions-testing-sample/pull/7) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
+4. 🎉 Merged PR [#315](https://github.com/caddijp/frontend/pull/315) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 💪 Opened PR [#7](https://github.com/caddijp/firebase-functions-testing-sample/pull/7) in [caddijp/firebase-functions-testing-sample](https://github.com/caddijp/firebase-functions-testing-sample)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
