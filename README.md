@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#645](https://github.com/g59/nestjs-plugins/pull/645) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#869](https://github.com/g59/nestjs-plugins/pull/869) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#867](https://github.com/g59/nestjs-plugins/pull/867) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#868](https://github.com/g59/nestjs-plugins/pull/868) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#866](https://github.com/g59/nestjs-plugins/pull/866) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🎉 Merged PR [#319](https://github.com/caddijp/frontend/pull/319) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 💪 Opened PR [#319](https://github.com/caddijp/frontend/pull/319) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🎉 Merged PR [#316](https://github.com/caddijp/frontend/pull/316) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#317](https://github.com/caddijp/frontend/pull/317) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#645](https://github.com/g59/nestjs-plugins/pull/645) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
