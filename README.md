@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/mentos1386/nest-raven/issues/293) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-2. 💪 Opened PR [#293](https://github.com/mentos1386/nest-raven/pull/293) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 🎉 Merged PR [#289](https://github.com/mentos1386/nest-raven/pull/289) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-4. 🎉 Merged PR [#3021](https://github.com/9renpoto/frontend/pull/3021) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#3023](https://github.com/9renpoto/frontend/pull/3023) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. ❗️ Closed issue [#272](https://github.com/mentos1386/nest-raven/issues/272) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 🎉 Merged PR [#293](https://github.com/mentos1386/nest-raven/pull/293) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+3. 🎉 Merged PR [#691](https://github.com/g59/.59-node/pull/691) in [g59/.59-node](https://github.com/g59/.59-node)
+4. 🎉 Merged PR [#755](https://github.com/g59/.59-node/pull/755) in [g59/.59-node](https://github.com/g59/.59-node)
+5. 🎉 Merged PR [#757](https://github.com/g59/.59-node/pull/757) in [g59/.59-node](https://github.com/g59/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
