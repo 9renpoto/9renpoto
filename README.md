@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#276](https://github.com/caddijp/frontend/pull/276) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#320](https://github.com/caddijp/frontend/pull/320) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#877](https://github.com/g59/nestjs-plugins/pull/877) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#294](https://github.com/mentos1386/nest-raven/pull/294) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-5. 💪 Opened PR [#294](https://github.com/mentos1386/nest-raven/pull/294) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. ❗️ Closed issue [#41](https://github.com/9renpoto/upptime/issues/41) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#41](https://github.com/9renpoto/upptime/issues/41) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#41](https://github.com/9renpoto/upptime/issues/41) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🎉 Merged PR [#276](https://github.com/caddijp/frontend/pull/276) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#320](https://github.com/caddijp/frontend/pull/320) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
