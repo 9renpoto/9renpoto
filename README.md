@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#50](https://github.com/9renpoto/upptime/issues/50) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#50](https://github.com/9renpoto/upptime/issues/50) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗️ Opened issue [#50](https://github.com/9renpoto/upptime/issues/50) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🎉 Merged PR [#1040](https://github.com/9renpoto/rn/pull/1040) in [9renpoto/rn](https://github.com/9renpoto/rn)
-5. 🎉 Merged PR [#1041](https://github.com/9renpoto/rn/pull/1041) in [9renpoto/rn](https://github.com/9renpoto/rn)
+1. 🎉 Merged PR [#328](https://github.com/caddijp/frontend/pull/328) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#329](https://github.com/caddijp/frontend/pull/329) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. ❗️ Closed issue [#50](https://github.com/9renpoto/upptime/issues/50) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🗣 Commented on [#50](https://github.com/9renpoto/upptime/issues/50) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. ❗️ Opened issue [#50](https://github.com/9renpoto/upptime/issues/50) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
