@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#908](https://github.com/g59/nestjs-plugins/pull/908) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#906](https://github.com/g59/nestjs-plugins/pull/906) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 💪 Opened PR [#907](https://github.com/g59/nestjs-plugins/pull/907) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 💪 Opened PR [#905](https://github.com/g59/nestjs-plugins/pull/905) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#328](https://github.com/caddijp/frontend/pull/328) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🎉 Merged PR [#3059](https://github.com/9renpoto/frontend/pull/3059) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#908](https://github.com/g59/nestjs-plugins/pull/908) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🎉 Merged PR [#906](https://github.com/g59/nestjs-plugins/pull/906) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 💪 Opened PR [#907](https://github.com/g59/nestjs-plugins/pull/907) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 💪 Opened PR [#905](https://github.com/g59/nestjs-plugins/pull/905) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
