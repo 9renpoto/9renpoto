@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3066](https://github.com/9renpoto/frontend/pull/3066) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#1127](https://github.com/9renpoto/DefinitelyTyped/pull/1127) in [9renpoto/DefinitelyTyped](https://github.com/9renpoto/DefinitelyTyped)
-3. 🎉 Merged PR [#775](https://github.com/g59/.59-node/pull/775) in [g59/.59-node](https://github.com/g59/.59-node)
-4. 🎉 Merged PR [#330](https://github.com/caddijp/frontend/pull/330) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#331](https://github.com/caddijp/frontend/pull/331) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🎉 Merged PR [#915](https://github.com/g59/nestjs-plugins/pull/915) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#3067](https://github.com/9renpoto/frontend/pull/3067) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#3069](https://github.com/9renpoto/frontend/pull/3069) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#3066](https://github.com/9renpoto/frontend/pull/3066) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#1127](https://github.com/9renpoto/DefinitelyTyped/pull/1127) in [9renpoto/DefinitelyTyped](https://github.com/9renpoto/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
