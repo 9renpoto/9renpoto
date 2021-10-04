@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/fvilers/nestjs-algolia/pull/9) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
-2. 💪 Opened PR [#3](https://github.com/caddijp/nestjs-algolia/pull/3) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
-3. ❌ Closed PR [#10](https://github.com/fvilers/nestjs-algolia/pull/10) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
-4. 💪 Opened PR [#10](https://github.com/fvilers/nestjs-algolia/pull/10) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
-5. 💪 Opened PR [#9](https://github.com/fvilers/nestjs-algolia/pull/9) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
+1. 💪 Opened PR [#5](https://github.com/caddijp/nestjs-algolia/pull/5) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
+2. ❌ Closed PR [#3](https://github.com/caddijp/nestjs-algolia/pull/3) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
+3. 🎉 Merged PR [#946](https://github.com/g59/nestjs-plugins/pull/946) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 💪 Opened PR [#4](https://github.com/caddijp/nestjs-algolia/pull/4) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
+5. ❌ Closed PR [#9](https://github.com/fvilers/nestjs-algolia/pull/9) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
