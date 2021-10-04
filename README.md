@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/caddijp/nestjs-algolia/pull/2) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
-2. 💪 Opened PR [#9](https://github.com/caddijp/nestjs-algoliasearch/pull/9) in [caddijp/nestjs-algoliasearch](https://github.com/caddijp/nestjs-algoliasearch)
-3. 🎉 Merged PR [#8](https://github.com/caddijp/nestjs-algoliasearch/pull/8) in [caddijp/nestjs-algoliasearch](https://github.com/caddijp/nestjs-algoliasearch)
-4. 🎉 Merged PR [#336](https://github.com/caddijp/frontend/pull/336) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 💪 Opened PR [#8](https://github.com/caddijp/nestjs-algoliasearch/pull/8) in [caddijp/nestjs-algoliasearch](https://github.com/caddijp/nestjs-algoliasearch)
+1. ❌ Closed PR [#9](https://github.com/fvilers/nestjs-algolia/pull/9) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
+2. 💪 Opened PR [#3](https://github.com/caddijp/nestjs-algolia/pull/3) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
+3. ❌ Closed PR [#10](https://github.com/fvilers/nestjs-algolia/pull/10) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
+4. 💪 Opened PR [#10](https://github.com/fvilers/nestjs-algolia/pull/10) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
+5. 💪 Opened PR [#9](https://github.com/fvilers/nestjs-algolia/pull/9) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
