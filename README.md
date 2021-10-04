@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#337](https://github.com/caddijp/frontend/pull/337) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#332](https://github.com/caddijp/frontend/pull/332) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#3084](https://github.com/9renpoto/frontend/pull/3084) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#335](https://github.com/caddijp/frontend/pull/335) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#3083](https://github.com/9renpoto/frontend/pull/3083) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 💪 Opened PR [#2](https://github.com/caddijp/nestjs-algolia/pull/2) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
+2. 💪 Opened PR [#9](https://github.com/caddijp/nestjs-algoliasearch/pull/9) in [caddijp/nestjs-algoliasearch](https://github.com/caddijp/nestjs-algoliasearch)
+3. 🎉 Merged PR [#8](https://github.com/caddijp/nestjs-algoliasearch/pull/8) in [caddijp/nestjs-algoliasearch](https://github.com/caddijp/nestjs-algoliasearch)
+4. 🎉 Merged PR [#336](https://github.com/caddijp/frontend/pull/336) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 💪 Opened PR [#8](https://github.com/caddijp/nestjs-algoliasearch/pull/8) in [caddijp/nestjs-algoliasearch](https://github.com/caddijp/nestjs-algoliasearch)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
