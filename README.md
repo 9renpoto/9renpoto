@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/caddijp/nestjs-algolia/pull/5) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
-2. ❌ Closed PR [#3](https://github.com/caddijp/nestjs-algolia/pull/3) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
-3. 🎉 Merged PR [#946](https://github.com/g59/nestjs-plugins/pull/946) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 💪 Opened PR [#4](https://github.com/caddijp/nestjs-algolia/pull/4) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
-5. ❌ Closed PR [#9](https://github.com/fvilers/nestjs-algolia/pull/9) in [fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia)
+1. ❗️ Closed issue [#54](https://github.com/9renpoto/upptime/issues/54) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#54](https://github.com/9renpoto/upptime/issues/54) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#54](https://github.com/9renpoto/upptime/issues/54) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ❗️ Closed issue [#53](https://github.com/9renpoto/upptime/issues/53) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🗣 Commented on [#53](https://github.com/9renpoto/upptime/issues/53) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
