@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1000](https://github.com/g59/nestjs-plugins/pull/1000) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 💪 Opened PR [#54](https://github.com/aertje/cloud-tasks-emulator/pull/54) in [aertje/cloud-tasks-emulator](https://github.com/aertje/cloud-tasks-emulator)
-3. 🎉 Merged PR [#996](https://github.com/g59/nestjs-plugins/pull/996) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#3119](https://github.com/9renpoto/frontend/pull/3119) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#3109](https://github.com/9renpoto/frontend/pull/3109) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#3125](https://github.com/9renpoto/frontend/pull/3125) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#3129](https://github.com/9renpoto/frontend/pull/3129) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#1000](https://github.com/g59/nestjs-plugins/pull/1000) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 💪 Opened PR [#54](https://github.com/aertje/cloud-tasks-emulator/pull/54) in [aertje/cloud-tasks-emulator](https://github.com/aertje/cloud-tasks-emulator)
+5. 🎉 Merged PR [#996](https://github.com/g59/nestjs-plugins/pull/996) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
