@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/g59/.59-rust/pull/52) in [g59/.59-rust](https://github.com/g59/.59-rust)
-2. 🎉 Merged PR [#53](https://github.com/g59/.59-rust/pull/53) in [g59/.59-rust](https://github.com/g59/.59-rust)
-3. 🎉 Merged PR [#36](https://github.com/g59/.59/pull/36) in [g59/.59](https://github.com/g59/.59)
-4. 🎉 Merged PR [#37](https://github.com/g59/.59/pull/37) in [g59/.59](https://github.com/g59/.59)
-5. 🎉 Merged PR [#513](https://github.com/g59/bot/pull/513) in [g59/bot](https://github.com/g59/bot)
+1. 🎉 Merged PR [#1005](https://github.com/g59/nestjs-plugins/pull/1005) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#52](https://github.com/g59/.59-rust/pull/52) in [g59/.59-rust](https://github.com/g59/.59-rust)
+3. 🎉 Merged PR [#53](https://github.com/g59/.59-rust/pull/53) in [g59/.59-rust](https://github.com/g59/.59-rust)
+4. 🎉 Merged PR [#36](https://github.com/g59/.59/pull/36) in [g59/.59](https://github.com/g59/.59)
+5. 🎉 Merged PR [#37](https://github.com/g59/.59/pull/37) in [g59/.59](https://github.com/g59/.59)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
