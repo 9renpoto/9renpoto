@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1005](https://github.com/g59/nestjs-plugins/pull/1005) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#52](https://github.com/g59/.59-rust/pull/52) in [g59/.59-rust](https://github.com/g59/.59-rust)
-3. 🎉 Merged PR [#53](https://github.com/g59/.59-rust/pull/53) in [g59/.59-rust](https://github.com/g59/.59-rust)
-4. 🎉 Merged PR [#36](https://github.com/g59/.59/pull/36) in [g59/.59](https://github.com/g59/.59)
-5. 🎉 Merged PR [#37](https://github.com/g59/.59/pull/37) in [g59/.59](https://github.com/g59/.59)
+1. 💪 Opened PR [#91](https://github.com/jaredhanson/passport-openidconnect/pull/91) in [jaredhanson/passport-openidconnect](https://github.com/jaredhanson/passport-openidconnect)
+2. 🎉 Merged PR [#1](https://github.com/caddijp/passport-openidconnect/pull/1) in [caddijp/passport-openidconnect](https://github.com/caddijp/passport-openidconnect)
+3. 💪 Opened PR [#1](https://github.com/caddijp/passport-openidconnect/pull/1) in [caddijp/passport-openidconnect](https://github.com/caddijp/passport-openidconnect)
+4. 🎉 Merged PR [#1005](https://github.com/g59/nestjs-plugins/pull/1005) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 🎉 Merged PR [#52](https://github.com/g59/.59-rust/pull/52) in [g59/.59-rust](https://github.com/g59/.59-rust)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
