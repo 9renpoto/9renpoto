@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@1.5.6
+      - uses: gautamkrishnar/blog-post-workflow@1.6.3
         with:
           max_post_count: "3"
           feed_list: "https://9renpoto.dev/rss.xml"
