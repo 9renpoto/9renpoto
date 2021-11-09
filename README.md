@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#335](https://github.com/mentos1386/nest-raven/pull/335) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-2. 🎉 Merged PR [#336](https://github.com/mentos1386/nest-raven/pull/336) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 🎉 Merged PR [#3141](https://github.com/9renpoto/frontend/pull/3141) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#1009](https://github.com/g59/nestjs-plugins/pull/1009) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#349](https://github.com/9renpoto/dotfiles/pull/349) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+1. ❌ Closed PR [#3107](https://github.com/9renpoto/frontend/pull/3107) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. ❌ Closed PR [#3080](https://github.com/9renpoto/frontend/pull/3080) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. ❌ Closed PR [#2901](https://github.com/9renpoto/frontend/pull/2901) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. ❌ Closed PR [#2838](https://github.com/9renpoto/frontend/pull/2838) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. ❌ Closed PR [#2402](https://github.com/9renpoto/frontend/pull/2402) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
