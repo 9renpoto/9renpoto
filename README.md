@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🗣 Commented on [#904](https://github.com/9renpoto/all-star-thanks/issues/904) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🎉 Merged PR [#13](https://github.com/caddijp/nestjs-otel/pull/13) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
+2. 🎉 Merged PR [#14](https://github.com/caddijp/nestjs-otel/pull/14) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
+3. 🗣 Commented on [#13](https://github.com/caddijp/nestjs-otel/issues/13) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
+4. 🎉 Merged PR [#10](https://github.com/caddijp/nestjs-otel/pull/10) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
+5. 🎉 Merged PR [#12](https://github.com/caddijp/nestjs-otel/pull/12) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
