@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/caddijp/nestjs-otel/pull/13) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
-2. 🎉 Merged PR [#14](https://github.com/caddijp/nestjs-otel/pull/14) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
-3. 🗣 Commented on [#13](https://github.com/caddijp/nestjs-otel/issues/13) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
-4. 🎉 Merged PR [#10](https://github.com/caddijp/nestjs-otel/pull/10) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
-5. 🎉 Merged PR [#12](https://github.com/caddijp/nestjs-otel/pull/12) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
+1. 🎉 Merged PR [#1018](https://github.com/g59/nestjs-plugins/pull/1018) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#1020](https://github.com/g59/nestjs-plugins/pull/1020) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 💪 Opened PR [#898](https://github.com/open-telemetry/opentelemetry.io/pull/898) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+4. 🎉 Merged PR [#13](https://github.com/caddijp/nestjs-otel/pull/13) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
+5. 🎉 Merged PR [#14](https://github.com/caddijp/nestjs-otel/pull/14) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
