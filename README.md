@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1018](https://github.com/g59/nestjs-plugins/pull/1018) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#1020](https://github.com/g59/nestjs-plugins/pull/1020) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 💪 Opened PR [#898](https://github.com/open-telemetry/opentelemetry.io/pull/898) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-4. 🎉 Merged PR [#13](https://github.com/caddijp/nestjs-otel/pull/13) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
-5. 🎉 Merged PR [#14](https://github.com/caddijp/nestjs-otel/pull/14) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
+1. ❌ Closed PR [#54](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/54) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+2. ❌ Closed PR [#52](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/52) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+3. ❌ Closed PR [#49](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/49) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+4. ❌ Closed PR [#17](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/17) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
+5. 🎉 Merged PR [#360](https://github.com/caddijp/frontend/pull/360) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
