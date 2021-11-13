@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#54](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/54) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-2. ❌ Closed PR [#52](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/52) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-3. ❌ Closed PR [#49](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/49) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-4. ❌ Closed PR [#17](https://github.com/caddijp/beautiful-react-diagrams-routing/pull/17) in [caddijp/beautiful-react-diagrams-routing](https://github.com/caddijp/beautiful-react-diagrams-routing)
-5. 🎉 Merged PR [#360](https://github.com/caddijp/frontend/pull/360) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. ❗️ Closed issue [#61](https://github.com/9renpoto/upptime/issues/61) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#61](https://github.com/9renpoto/upptime/issues/61) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#61](https://github.com/9renpoto/upptime/issues/61) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ❗️ Closed issue [#60](https://github.com/9renpoto/upptime/issues/60) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🗣 Commented on [#60](https://github.com/9renpoto/upptime/issues/60) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
