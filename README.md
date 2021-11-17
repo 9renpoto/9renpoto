@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#276](https://github.com/mentos1386/nest-raven/pull/276) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-2. 🎉 Merged PR [#3](https://github.com/9renpoto/backend-rs/pull/3) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
-3. 🎉 Merged PR [#2](https://github.com/9renpoto/backend-rs/pull/2) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
-4. ❗️ Closed issue [#62](https://github.com/9renpoto/upptime/issues/62) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🗣 Commented on [#62](https://github.com/9renpoto/upptime/issues/62) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🗣 Commented on [#914](https://github.com/9renpoto/all-star-thanks/issues/914) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. ❌ Closed PR [#276](https://github.com/mentos1386/nest-raven/pull/276) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+3. 🎉 Merged PR [#3](https://github.com/9renpoto/backend-rs/pull/3) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
+4. 🎉 Merged PR [#2](https://github.com/9renpoto/backend-rs/pull/2) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
+5. ❗️ Closed issue [#62](https://github.com/9renpoto/upptime/issues/62) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
