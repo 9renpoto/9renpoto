@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 💪 Opened PR [#7](https://github.com/minato128/contrib-helm-chart/pull/7) in [minato128/contrib-helm-chart](https://github.com/minato128/contrib-helm-chart)
-3. ❌ Closed PR [#6](https://github.com/minato128/contrib-helm-chart/pull/6) in [minato128/contrib-helm-chart](https://github.com/minato128/contrib-helm-chart)
-4. 💪 Opened PR [#6](https://github.com/minato128/contrib-helm-chart/pull/6) in [minato128/contrib-helm-chart](https://github.com/minato128/contrib-helm-chart)
-5. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. ❗️ Closed issue [#63](https://github.com/9renpoto/upptime/issues/63) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#63](https://github.com/9renpoto/upptime/issues/63) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. ❗️ Opened issue [#63](https://github.com/9renpoto/upptime/issues/63) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
