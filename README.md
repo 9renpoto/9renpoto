@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/swc-project/jest/pull/45) in [swc-project/jest](https://github.com/swc-project/jest)
-2. ❌ Closed PR [#1](https://github.com/caddijp/jest/pull/1) in [caddijp/jest](https://github.com/caddijp/jest)
-3. 💪 Opened PR [#1](https://github.com/caddijp/jest/pull/1) in [caddijp/jest](https://github.com/caddijp/jest)
-4. 🎉 Merged PR [#372](https://github.com/caddijp/frontend/pull/372) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#371](https://github.com/caddijp/frontend/pull/371) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
