@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#924](https://github.com/g59/.59-node/pull/924) in [g59/.59-node](https://github.com/g59/.59-node)
-2. ❌ Closed PR [#926](https://github.com/g59/.59-node/pull/926) in [g59/.59-node](https://github.com/g59/.59-node)
-3. ❌ Closed PR [#948](https://github.com/g59/.59-node/pull/948) in [g59/.59-node](https://github.com/g59/.59-node)
-4. ❌ Closed PR [#941](https://github.com/g59/.59-node/pull/941) in [g59/.59-node](https://github.com/g59/.59-node)
-5. ❌ Closed PR [#939](https://github.com/g59/.59-node/pull/939) in [g59/.59-node](https://github.com/g59/.59-node)
+1. 🎉 Merged PR [#558](https://github.com/g59/bot/pull/558) in [g59/bot](https://github.com/g59/bot)
+2. 🎉 Merged PR [#402](https://github.com/g59/bot/pull/402) in [g59/bot](https://github.com/g59/bot)
+3. 🎉 Merged PR [#1028](https://github.com/9renpoto/rn/pull/1028) in [9renpoto/rn](https://github.com/9renpoto/rn)
+4. 🎉 Merged PR [#587](https://github.com/g59/bot/pull/587) in [g59/bot](https://github.com/g59/bot)
+5. 🎉 Merged PR [#1086](https://github.com/g59/nestjs-plugins/pull/1086) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
