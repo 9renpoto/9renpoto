@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#569](https://github.com/g59/bot/issues/569) in [g59/bot](https://github.com/g59/bot)
-2. 🎉 Merged PR [#588](https://github.com/g59/bot/pull/588) in [g59/bot](https://github.com/g59/bot)
-3. 🗣 Commented on [#569](https://github.com/g59/bot/issues/569) in [g59/bot](https://github.com/g59/bot)
-4. 🎉 Merged PR [#579](https://github.com/g59/bot/pull/579) in [g59/bot](https://github.com/g59/bot)
-5. 🎉 Merged PR [#573](https://github.com/g59/bot/pull/573) in [g59/bot](https://github.com/g59/bot)
+1. 🎉 Merged PR [#3235](https://github.com/9renpoto/frontend/pull/3235) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 💪 Opened PR [#3235](https://github.com/9renpoto/frontend/pull/3235) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#3234](https://github.com/9renpoto/frontend/pull/3234) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 💪 Opened PR [#3234](https://github.com/9renpoto/frontend/pull/3234) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#3233](https://github.com/9renpoto/frontend/pull/3233) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
