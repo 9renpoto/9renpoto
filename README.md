@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/9renpoto/tonic-example/pull/2) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
-2. 🎉 Merged PR [#58](https://github.com/g59/.59-rs/pull/58) in [g59/.59-rs](https://github.com/g59/.59-rs)
-3. 💪 Opened PR [#58](https://github.com/g59/.59-rs/pull/58) in [g59/.59-rs](https://github.com/g59/.59-rs)
-4. 💪 Opened PR [#2](https://github.com/nrskt/rjira/pull/2) in [nrskt/rjira](https://github.com/nrskt/rjira)
-5. 🎉 Merged PR [#2](https://github.com/9renpoto/rjira/pull/2) in [9renpoto/rjira](https://github.com/9renpoto/rjira)
+1. 🎉 Merged PR [#4](https://github.com/9renpoto/tonic-example/pull/4) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
+2. 🎉 Merged PR [#2](https://github.com/9renpoto/tonic-example/pull/2) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
+3. 💪 Opened PR [#2](https://github.com/9renpoto/tonic-example/pull/2) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
+4. 🎉 Merged PR [#58](https://github.com/g59/.59-rs/pull/58) in [g59/.59-rs](https://github.com/g59/.59-rs)
+5. 💪 Opened PR [#58](https://github.com/g59/.59-rs/pull/58) in [g59/.59-rs](https://github.com/g59/.59-rs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
