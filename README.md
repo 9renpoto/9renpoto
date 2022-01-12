@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#60](https://github.com/caddijp/nestjs-otel/pull/60) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
-2. 🎉 Merged PR [#1099](https://github.com/g59/nestjs-plugins/pull/1099) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#3246](https://github.com/9renpoto/frontend/pull/3246) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#3248](https://github.com/9renpoto/frontend/pull/3248) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. ❌ Closed PR [#60](https://github.com/caddijp/nestjs-otel/pull/60) in [caddijp/nestjs-otel](https://github.com/caddijp/nestjs-otel)
+4. 🎉 Merged PR [#1099](https://github.com/g59/nestjs-plugins/pull/1099) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 🎉 Merged PR [#3246](https://github.com/9renpoto/frontend/pull/3246) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
