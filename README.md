@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#945](https://github.com/9renpoto/all-star-thanks/issues/945) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 💪 Opened PR [#3](https://github.com/ToMGitHubN/gcs-basic-auth/pull/3) in [ToMGitHubN/gcs-basic-auth](https://github.com/ToMGitHubN/gcs-basic-auth)
-5. 🎉 Merged PR [#2](https://github.com/9renpoto/gcs-basic-auth/pull/2) in [9renpoto/gcs-basic-auth](https://github.com/9renpoto/gcs-basic-auth)
+1. 🎉 Merged PR [#3](https://github.com/9renpoto/gcs-basic-auth/pull/3) in [9renpoto/gcs-basic-auth](https://github.com/9renpoto/gcs-basic-auth)
+2. 💪 Opened PR [#3](https://github.com/9renpoto/gcs-basic-auth/pull/3) in [9renpoto/gcs-basic-auth](https://github.com/9renpoto/gcs-basic-auth)
+3. 💪 Opened PR [#4](https://github.com/ToMGitHubN/gcs-basic-auth/pull/4) in [ToMGitHubN/gcs-basic-auth](https://github.com/ToMGitHubN/gcs-basic-auth)
+4. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
