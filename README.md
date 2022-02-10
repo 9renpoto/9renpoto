@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1136](https://github.com/g59/nestjs-plugins/pull/1136) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#1107](https://github.com/g59/nestjs-plugins/pull/1107) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#1105](https://github.com/g59/nestjs-plugins/pull/1105) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#1143](https://github.com/g59/nestjs-plugins/pull/1143) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#1151](https://github.com/g59/nestjs-plugins/pull/1151) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 💪 Opened PR [#85](https://github.com/terraform-google-modules/terraform-google-lb-internal/pull/85) in [terraform-google-modules/terraform-google-lb-internal](https://github.com/terraform-google-modules/terraform-google-lb-internal)
+2. ❌ Closed PR [#1136](https://github.com/g59/nestjs-plugins/pull/1136) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🎉 Merged PR [#1107](https://github.com/g59/nestjs-plugins/pull/1107) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 🎉 Merged PR [#1105](https://github.com/g59/nestjs-plugins/pull/1105) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 🎉 Merged PR [#1143](https://github.com/g59/nestjs-plugins/pull/1143) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
