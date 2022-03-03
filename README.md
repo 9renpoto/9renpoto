@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/g59/.59-rs/pull/59) in [g59/.59-rs](https://github.com/g59/.59-rs)
-2. 🎉 Merged PR [#60](https://github.com/g59/.59-rs/pull/60) in [g59/.59-rs](https://github.com/g59/.59-rs)
-3. ❌ Closed PR [#35](https://github.com/9renpoto/react-digraph/pull/35) in [9renpoto/react-digraph](https://github.com/9renpoto/react-digraph)
-4. 🎉 Merged PR [#21](https://github.com/9renpoto/9renpoto/pull/21) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-5. 🎉 Merged PR [#394](https://github.com/caddijp/frontend/pull/394) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🎉 Merged PR [#3312](https://github.com/9renpoto/frontend/pull/3312) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#3321](https://github.com/9renpoto/frontend/pull/3321) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#3322](https://github.com/9renpoto/frontend/pull/3322) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#59](https://github.com/g59/.59-rs/pull/59) in [g59/.59-rs](https://github.com/g59/.59-rs)
+5. 🎉 Merged PR [#60](https://github.com/g59/.59-rs/pull/60) in [g59/.59-rs](https://github.com/g59/.59-rs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
