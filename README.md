@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#406](https://github.com/caddijp/frontend/pull/406) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 💪 Opened PR [#406](https://github.com/caddijp/frontend/pull/406) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#405](https://github.com/caddijp/frontend/pull/405) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 💪 Opened PR [#405](https://github.com/caddijp/frontend/pull/405) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#404](https://github.com/caddijp/frontend/pull/404) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 💪 Opened PR [#337](https://github.com/taion/graphql-type-json/pull/337) in [taion/graphql-type-json](https://github.com/taion/graphql-type-json)
+2. 🎉 Merged PR [#406](https://github.com/caddijp/frontend/pull/406) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 💪 Opened PR [#406](https://github.com/caddijp/frontend/pull/406) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#405](https://github.com/caddijp/frontend/pull/405) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 💪 Opened PR [#405](https://github.com/caddijp/frontend/pull/405) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
