@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3341](https://github.com/9renpoto/frontend/pull/3341) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🗣 Commented on [#973](https://github.com/9renpoto/all-star-thanks/issues/973) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. ❗️ Closed issue [#5](https://github.com/opapych/site/issues/5) in [opapych/site](https://github.com/opapych/site)
+2. ❗️ Closed issue [#2](https://github.com/matheusmr13/app-script-mock/issues/2) in [matheusmr13/app-script-mock](https://github.com/matheusmr13/app-script-mock)
+3. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 5. 🗣 Commented on [#708](https://github.com/9renpoto/all-star-thanks/issues/708) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
