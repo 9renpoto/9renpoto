@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🎉 Merged PR [#1028](https://github.com/g59/.59-node/pull/1028) in [g59/.59-node](https://github.com/g59/.59-node)
-3. 💪 Opened PR [#1028](https://github.com/g59/.59-node/pull/1028) in [g59/.59-node](https://github.com/g59/.59-node)
-4. 🎉 Merged PR [#1228](https://github.com/g59/nestjs-plugins/pull/1228) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 💪 Opened PR [#1228](https://github.com/g59/nestjs-plugins/pull/1228) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 💪 Opened PR [#1033](https://github.com/g59/.59-node/pull/1033) in [g59/.59-node](https://github.com/g59/.59-node)
+2. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🎉 Merged PR [#1028](https://github.com/g59/.59-node/pull/1028) in [g59/.59-node](https://github.com/g59/.59-node)
+4. 💪 Opened PR [#1028](https://github.com/g59/.59-node/pull/1028) in [g59/.59-node](https://github.com/g59/.59-node)
+5. 🎉 Merged PR [#1228](https://github.com/g59/nestjs-plugins/pull/1228) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
