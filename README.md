@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#413](https://github.com/caddijp/frontend/issues/413) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#415](https://github.com/caddijp/frontend/pull/415) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#1230](https://github.com/g59/nestjs-plugins/pull/1230) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🗣 Commented on [#980](https://github.com/9renpoto/all-star-thanks/issues/980) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🎉 Merged PR [#1229](https://github.com/g59/nestjs-plugins/pull/1229) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. ❌ Closed PR [#576](https://github.com/9renpoto/auto-cookie/pull/576) in [9renpoto/auto-cookie](https://github.com/9renpoto/auto-cookie)
+2. ❌ Closed PR [#565](https://github.com/9renpoto/auto-cookie/pull/565) in [9renpoto/auto-cookie](https://github.com/9renpoto/auto-cookie)
+3. ❌ Closed PR [#559](https://github.com/9renpoto/auto-cookie/pull/559) in [9renpoto/auto-cookie](https://github.com/9renpoto/auto-cookie)
+4. ❌ Closed PR [#547](https://github.com/9renpoto/auto-cookie/pull/547) in [9renpoto/auto-cookie](https://github.com/9renpoto/auto-cookie)
+5. ❌ Closed PR [#435](https://github.com/9renpoto/auto-cookie/pull/435) in [9renpoto/auto-cookie](https://github.com/9renpoto/auto-cookie)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
