@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#660](https://github.com/g59/bot/pull/660) in [g59/bot](https://github.com/g59/bot)
-2. 🎉 Merged PR [#3](https://github.com/9renpoto/tonic-example/pull/3) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
-3. 🎉 Merged PR [#6](https://github.com/9renpoto/tonic-example/pull/6) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
-4. 🎉 Merged PR [#5](https://github.com/9renpoto/tonic-example/pull/5) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
-5. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🎉 Merged PR [#1236](https://github.com/g59/nestjs-plugins/pull/1236) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#660](https://github.com/g59/bot/pull/660) in [g59/bot](https://github.com/g59/bot)
+3. 🎉 Merged PR [#3](https://github.com/9renpoto/tonic-example/pull/3) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
+4. 🎉 Merged PR [#6](https://github.com/9renpoto/tonic-example/pull/6) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
+5. 🎉 Merged PR [#5](https://github.com/9renpoto/tonic-example/pull/5) in [9renpoto/tonic-example](https://github.com/9renpoto/tonic-example)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
