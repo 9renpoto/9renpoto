@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#430](https://github.com/caddijp/frontend/pull/430) in [caddijp/frontend](https://github.com/caddijp/frontend)
-2. 🎉 Merged PR [#432](https://github.com/caddijp/frontend/pull/432) in [caddijp/frontend](https://github.com/caddijp/frontend)
-3. 🎉 Merged PR [#433](https://github.com/caddijp/frontend/pull/433) in [caddijp/frontend](https://github.com/caddijp/frontend)
-4. 🎉 Merged PR [#434](https://github.com/caddijp/frontend/pull/434) in [caddijp/frontend](https://github.com/caddijp/frontend)
-5. 🎉 Merged PR [#435](https://github.com/caddijp/frontend/pull/435) in [caddijp/frontend](https://github.com/caddijp/frontend)
+1. 🎉 Merged PR [#429](https://github.com/caddijp/frontend/pull/429) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#430](https://github.com/caddijp/frontend/pull/430) in [caddijp/frontend](https://github.com/caddijp/frontend)
+3. 🎉 Merged PR [#432](https://github.com/caddijp/frontend/pull/432) in [caddijp/frontend](https://github.com/caddijp/frontend)
+4. 🎉 Merged PR [#433](https://github.com/caddijp/frontend/pull/433) in [caddijp/frontend](https://github.com/caddijp/frontend)
+5. 🎉 Merged PR [#434](https://github.com/caddijp/frontend/pull/434) in [caddijp/frontend](https://github.com/caddijp/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
