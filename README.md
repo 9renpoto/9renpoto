@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3403](https://github.com/9renpoto/frontend/pull/3403) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#1103](https://github.com/g59/.59-node/pull/1103) in [g59/.59-node](https://github.com/g59/.59-node)
-3. 🎉 Merged PR [#1102](https://github.com/g59/.59-node/pull/1102) in [g59/.59-node](https://github.com/g59/.59-node)
-4. 🎉 Merged PR [#49](https://github.com/g59/.59/pull/49) in [g59/.59](https://github.com/g59/.59)
-5. 🎉 Merged PR [#51](https://github.com/g59/.59/pull/51) in [g59/.59](https://github.com/g59/.59)
+1. 🗣 Commented on [#980](https://github.com/9renpoto/all-star-thanks/issues/980) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🗣 Commented on [#997](https://github.com/9renpoto/all-star-thanks/issues/997) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🗣 Commented on [#981](https://github.com/9renpoto/all-star-thanks/issues/981) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
