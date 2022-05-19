@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/9renpoto/upptime/pull/90) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🎉 Merged PR [#64](https://github.com/g59/.59-rs/pull/64) in [g59/.59-rs](https://github.com/g59/.59-rs)
-3. 🎉 Merged PR [#65](https://github.com/g59/.59-rs/pull/65) in [g59/.59-rs](https://github.com/g59/.59-rs)
-4. 🎉 Merged PR [#671](https://github.com/g59/bot/pull/671) in [g59/bot](https://github.com/g59/bot)
-5. 🎉 Merged PR [#675](https://github.com/g59/bot/pull/675) in [g59/bot](https://github.com/g59/bot)
+1. ❗️ Closed issue [#107](https://github.com/9renpoto/upptime/issues/107) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#107](https://github.com/9renpoto/upptime/issues/107) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#107](https://github.com/9renpoto/upptime/issues/107) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🎉 Merged PR [#90](https://github.com/9renpoto/upptime/pull/90) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
