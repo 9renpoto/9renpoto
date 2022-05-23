@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 💪 Opened PR [#6](https://github.com/caddijp/nestjs-pubsub/pull/6) in [caddijp/nestjs-pubsub](https://github.com/caddijp/nestjs-pubsub)
-3. ❗️ Closed issue [#115](https://github.com/9renpoto/upptime/issues/115) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🗣 Commented on [#115](https://github.com/9renpoto/upptime/issues/115) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. ❗️ Opened issue [#115](https://github.com/9renpoto/upptime/issues/115) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. ❗️ Closed issue [#116](https://github.com/9renpoto/upptime/issues/116) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#116](https://github.com/9renpoto/upptime/issues/116) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#116](https://github.com/9renpoto/upptime/issues/116) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 💪 Opened PR [#6](https://github.com/caddijp/nestjs-pubsub/pull/6) in [caddijp/nestjs-pubsub](https://github.com/caddijp/nestjs-pubsub)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
