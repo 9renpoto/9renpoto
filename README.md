@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#205](https://github.com/9renpoto/upptime/issues/205) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#205](https://github.com/9renpoto/upptime/issues/205) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🗣 Commented on [#1026](https://github.com/9renpoto/all-star-thanks/issues/1026) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. ❗️ Opened issue [#205](https://github.com/9renpoto/upptime/issues/205) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🗣 Commented on [#1026](https://github.com/9renpoto/all-star-thanks/issues/1026) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🎉 Merged PR [#3442](https://github.com/9renpoto/frontend/pull/3442) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 🎉 Merged PR [#3439](https://github.com/9renpoto/frontend/pull/3439) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#3436](https://github.com/9renpoto/frontend/pull/3436) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#3438](https://github.com/9renpoto/frontend/pull/3438) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#3440](https://github.com/9renpoto/frontend/pull/3440) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
