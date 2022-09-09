@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1030](https://github.com/9renpoto/all-star-thanks/issues/1030) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. ❗️ Closed issue [#207](https://github.com/9renpoto/upptime/issues/207) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🗣 Commented on [#207](https://github.com/9renpoto/upptime/issues/207) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ❗️ Opened issue [#207](https://github.com/9renpoto/upptime/issues/207) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🎉 Merged PR [#24](https://github.com/caddijp/nestjs-cloud-pubsub/pull/24) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+1. 🗣 Commented on [#844](https://github.com/9renpoto/all-star-thanks/issues/844) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#1026](https://github.com/9renpoto/all-star-thanks/issues/1026) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🗣 Commented on [#1006](https://github.com/9renpoto/all-star-thanks/issues/1006) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#980](https://github.com/9renpoto/all-star-thanks/issues/980) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
