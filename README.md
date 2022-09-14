@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#907](https://github.com/9renpoto/all-star-thanks/issues/907) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🎉 Merged PR [#451](https://github.com/mentos1386/nest-raven/pull/451) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 🎉 Merged PR [#452](https://github.com/mentos1386/nest-raven/pull/452) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-4. 🎉 Merged PR [#449](https://github.com/mentos1386/nest-raven/pull/449) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-5. 🎉 Merged PR [#450](https://github.com/mentos1386/nest-raven/pull/450) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. ❌ Closed PR [#981](https://github.com/9renpoto/all-star-thanks/pull/981) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. ❌ Closed PR [#1026](https://github.com/9renpoto/all-star-thanks/pull/1026) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. ❌ Closed PR [#1006](https://github.com/9renpoto/all-star-thanks/pull/1006) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. ❌ Closed PR [#997](https://github.com/9renpoto/all-star-thanks/pull/997) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. ❌ Closed PR [#980](https://github.com/9renpoto/all-star-thanks/pull/980) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
