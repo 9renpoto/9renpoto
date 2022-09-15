@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#981](https://github.com/9renpoto/all-star-thanks/pull/981) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. ❌ Closed PR [#1026](https://github.com/9renpoto/all-star-thanks/pull/1026) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. ❌ Closed PR [#1006](https://github.com/9renpoto/all-star-thanks/pull/1006) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. ❌ Closed PR [#997](https://github.com/9renpoto/all-star-thanks/pull/997) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. ❌ Closed PR [#980](https://github.com/9renpoto/all-star-thanks/pull/980) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🗣 Commented on [#1032](https://github.com/9renpoto/all-star-thanks/issues/1032) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#1032](https://github.com/9renpoto/all-star-thanks/issues/1032) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. ❌ Closed PR [#981](https://github.com/9renpoto/all-star-thanks/pull/981) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. ❌ Closed PR [#1026](https://github.com/9renpoto/all-star-thanks/pull/1026) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. ❌ Closed PR [#1006](https://github.com/9renpoto/all-star-thanks/pull/1006) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
