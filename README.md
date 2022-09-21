@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1373](https://github.com/g59/nestjs-plugins/pull/1373) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#1374](https://github.com/g59/nestjs-plugins/pull/1374) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 💪 Opened PR [#1374](https://github.com/g59/nestjs-plugins/pull/1374) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. ❌ Closed PR [#1363](https://github.com/g59/nestjs-plugins/pull/1363) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#1372](https://github.com/g59/nestjs-plugins/pull/1372) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🎉 Merged PR [#72](https://github.com/g59/.59/pull/72) in [g59/.59](https://github.com/g59/.59)
+2. 🎉 Merged PR [#73](https://github.com/g59/.59/pull/73) in [g59/.59](https://github.com/g59/.59)
+3. 🎉 Merged PR [#1373](https://github.com/g59/nestjs-plugins/pull/1373) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 🎉 Merged PR [#1374](https://github.com/g59/nestjs-plugins/pull/1374) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 💪 Opened PR [#1374](https://github.com/g59/nestjs-plugins/pull/1374) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
