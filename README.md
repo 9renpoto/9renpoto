@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🗣 Commented on [#1031](https://github.com/9renpoto/all-star-thanks/issues/1031) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🗣 Commented on [#1034](https://github.com/9renpoto/all-star-thanks/issues/1034) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🎉 Merged PR [#1382](https://github.com/g59/nestjs-plugins/pull/1382) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🗣 Commented on [#1031](https://github.com/9renpoto/all-star-thanks/issues/1031) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🗣 Commented on [#1031](https://github.com/9renpoto/all-star-thanks/issues/1031) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🗣 Commented on [#1034](https://github.com/9renpoto/all-star-thanks/issues/1034) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
