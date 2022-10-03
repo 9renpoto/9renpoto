@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#1031](https://github.com/9renpoto/all-star-thanks/issues/1031) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-5. 🗣 Commented on [#1031](https://github.com/9renpoto/all-star-thanks/issues/1031) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🎉 Merged PR [#26](https://github.com/caddijp/nestjs-cloud-pubsub/pull/26) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+2. 🎉 Merged PR [#18](https://github.com/caddijp/nestjs-cloud-pubsub/pull/18) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+3. 🎉 Merged PR [#16](https://github.com/caddijp/nestjs-cloud-pubsub/pull/16) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+4. 🎉 Merged PR [#12](https://github.com/caddijp/nestjs-cloud-pubsub/pull/12) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+5. 🎉 Merged PR [#31](https://github.com/caddijp/nestjs-cloud-pubsub/pull/31) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
