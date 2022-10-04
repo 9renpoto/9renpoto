@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#213](https://github.com/9renpoto/upptime/issues/213) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🎉 Merged PR [#26](https://github.com/caddijp/nestjs-cloud-pubsub/pull/26) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
-3. 🎉 Merged PR [#18](https://github.com/caddijp/nestjs-cloud-pubsub/pull/18) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
-4. 🎉 Merged PR [#16](https://github.com/caddijp/nestjs-cloud-pubsub/pull/16) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
-5. 🎉 Merged PR [#12](https://github.com/caddijp/nestjs-cloud-pubsub/pull/12) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+1. ❗️ Closed issue [#213](https://github.com/9renpoto/upptime/issues/213) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#213](https://github.com/9renpoto/upptime/issues/213) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#213](https://github.com/9renpoto/upptime/issues/213) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🎉 Merged PR [#26](https://github.com/caddijp/nestjs-cloud-pubsub/pull/26) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+5. 🎉 Merged PR [#18](https://github.com/caddijp/nestjs-cloud-pubsub/pull/18) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
