@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 🗣 Commented on [#1031](https://github.com/9renpoto/all-star-thanks/issues/1031) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🎉 Merged PR [#1383](https://github.com/g59/nestjs-plugins/pull/1383) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#1393](https://github.com/g59/nestjs-plugins/pull/1393) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🗣 Commented on [#1031](https://github.com/9renpoto/all-star-thanks/issues/1031) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#1033](https://github.com/9renpoto/all-star-thanks/issues/1033) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🎉 Merged PR [#1383](https://github.com/g59/nestjs-plugins/pull/1383) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
