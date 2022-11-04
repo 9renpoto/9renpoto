@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#265](https://github.com/9renpoto/upptime/issues/265) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#265](https://github.com/9renpoto/upptime/issues/265) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🎉 Merged PR [#482](https://github.com/mentos1386/nest-raven/pull/482) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-4. ❌ Closed PR [#19](https://github.com/caddijp/nestjs-cloud-pubsub/pull/19) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
-5. 🗣 Commented on [#19](https://github.com/caddijp/nestjs-cloud-pubsub/issues/19) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+1. ❗️ Opened issue [#266](https://github.com/9renpoto/upptime/issues/266) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. ❗️ Closed issue [#265](https://github.com/9renpoto/upptime/issues/265) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. 🗣 Commented on [#265](https://github.com/9renpoto/upptime/issues/265) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🎉 Merged PR [#482](https://github.com/mentos1386/nest-raven/pull/482) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+5. ❌ Closed PR [#19](https://github.com/caddijp/nestjs-cloud-pubsub/pull/19) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
