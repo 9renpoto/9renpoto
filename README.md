@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3659](https://github.com/9renpoto/frontend/pull/3659) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#912](https://github.com/g59/bot/pull/912) in [g59/bot](https://github.com/g59/bot)
-3. 💪 Opened PR [#6](https://github.com/9renpoto/poem/pull/6) in [9renpoto/poem](https://github.com/9renpoto/poem)
-4. 🎉 Merged PR [#85](https://github.com/9renpoto/backend-rs/pull/85) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
-5. 🎉 Merged PR [#87](https://github.com/9renpoto/backend-rs/pull/87) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
+1. 🎉 Merged PR [#511](https://github.com/mentos1386/nest-raven/pull/511) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 🎉 Merged PR [#3659](https://github.com/9renpoto/frontend/pull/3659) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#912](https://github.com/g59/bot/pull/912) in [g59/bot](https://github.com/g59/bot)
+4. 💪 Opened PR [#6](https://github.com/9renpoto/poem/pull/6) in [9renpoto/poem](https://github.com/9renpoto/poem)
+5. 🎉 Merged PR [#85](https://github.com/9renpoto/backend-rs/pull/85) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
