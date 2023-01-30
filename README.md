@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1453](https://github.com/g59/nestjs-plugins/pull/1453) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. ❗️ Closed issue [#604](https://github.com/9renpoto/upptime/issues/604) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🗣 Commented on [#604](https://github.com/9renpoto/upptime/issues/604) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ❗️ Closed issue [#603](https://github.com/9renpoto/upptime/issues/603) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🗣 Commented on [#603](https://github.com/9renpoto/upptime/issues/603) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#1454](https://github.com/g59/nestjs-plugins/pull/1454) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#79](https://github.com/g59/.59/pull/79) in [g59/.59](https://github.com/g59/.59)
+3. 🎉 Merged PR [#3657](https://github.com/9renpoto/frontend/pull/3657) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#3665](https://github.com/9renpoto/frontend/pull/3665) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#3666](https://github.com/9renpoto/frontend/pull/3666) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
