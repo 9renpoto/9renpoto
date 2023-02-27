@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3672](https://github.com/9renpoto/frontend/pull/3672) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#3675](https://github.com/9renpoto/frontend/pull/3675) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#3683](https://github.com/9renpoto/frontend/pull/3683) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#89](https://github.com/9renpoto/backend-rs/pull/89) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
-5. 🎉 Merged PR [#98](https://github.com/9renpoto/backend-rs/pull/98) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
+1. ❗️ Closed issue [#611](https://github.com/9renpoto/upptime/issues/611) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#611](https://github.com/9renpoto/upptime/issues/611) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#611](https://github.com/9renpoto/upptime/issues/611) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🎉 Merged PR [#935](https://github.com/g59/bot/pull/935) in [g59/bot](https://github.com/g59/bot)
+5. 🎉 Merged PR [#91](https://github.com/9renpoto/backend-rs/pull/91) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
