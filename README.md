@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1488](https://github.com/g59/nestjs-plugins/pull/1488) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 💪 Opened PR [#1487](https://github.com/g59/nestjs-plugins/pull/1487) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 💪 Opened PR [#110](https://github.com/nzambello/react-csv-reader/pull/110) in [nzambello/react-csv-reader](https://github.com/nzambello/react-csv-reader)
-4. ❗️ Closed issue [#611](https://github.com/9renpoto/upptime/issues/611) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🗣 Commented on [#611](https://github.com/9renpoto/upptime/issues/611) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. ❗️ Closed issue [#612](https://github.com/9renpoto/upptime/issues/612) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#612](https://github.com/9renpoto/upptime/issues/612) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#612](https://github.com/9renpoto/upptime/issues/612) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🎉 Merged PR [#1488](https://github.com/g59/nestjs-plugins/pull/1488) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 💪 Opened PR [#1487](https://github.com/g59/nestjs-plugins/pull/1487) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
