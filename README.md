@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#529](https://github.com/mentos1386/nest-raven/pull/529) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-2. ❗️ Closed issue [#617](https://github.com/9renpoto/upptime/issues/617) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🗣 Commented on [#617](https://github.com/9renpoto/upptime/issues/617) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ❗️ Opened issue [#617](https://github.com/9renpoto/upptime/issues/617) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 💪 Opened PR [#529](https://github.com/mentos1386/nest-raven/pull/529) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. ❌ Closed PR [#469](https://github.com/caddijp/frontend/pull/469) in [caddijp/frontend](https://github.com/caddijp/frontend)
+2. 🎉 Merged PR [#6](https://github.com/9renpoto/poem/pull/6) in [9renpoto/poem](https://github.com/9renpoto/poem)
+3. 🎉 Merged PR [#529](https://github.com/mentos1386/nest-raven/pull/529) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+4. ❗️ Closed issue [#617](https://github.com/9renpoto/upptime/issues/617) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🗣 Commented on [#617](https://github.com/9renpoto/upptime/issues/617) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
