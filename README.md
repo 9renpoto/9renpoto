@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3709](https://github.com/9renpoto/frontend/pull/3709) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#3715](https://github.com/9renpoto/frontend/pull/3715) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#44](https://github.com/caddijp/nestjs-cloud-pubsub/pull/44) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
-4. 🎉 Merged PR [#41](https://github.com/caddijp/nestjs-cloud-pubsub/pull/41) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
-5. 🎉 Merged PR [#49](https://github.com/caddijp/nestjs-cloud-pubsub/pull/49) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+1. ❗️ Opened issue [#619](https://github.com/9renpoto/upptime/issues/619) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🎉 Merged PR [#3709](https://github.com/9renpoto/frontend/pull/3709) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#3715](https://github.com/9renpoto/frontend/pull/3715) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#44](https://github.com/caddijp/nestjs-cloud-pubsub/pull/44) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
+5. 🎉 Merged PR [#41](https://github.com/caddijp/nestjs-cloud-pubsub/pull/41) in [caddijp/nestjs-cloud-pubsub](https://github.com/caddijp/nestjs-cloud-pubsub)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
