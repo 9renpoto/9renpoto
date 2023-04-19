@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: name: Waka - Readme
-        uses: athul/waka-readme@v0.1.5
+        uses: athul/waka-readme@v0.1.9
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
