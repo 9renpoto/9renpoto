@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1480](https://github.com/g59/.59-node/pull/1480) in [g59/.59-node](https://github.com/g59/.59-node)
-2. 🎉 Merged PR [#620](https://github.com/9renpoto/upptime/pull/620) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🎉 Merged PR [#1483](https://github.com/g59/.59-node/pull/1483) in [g59/.59-node](https://github.com/g59/.59-node)
-4. 🗣 Commented on [#1341](https://github.com/g59/.59-node/issues/1341) in [g59/.59-node](https://github.com/g59/.59-node)
-5. 🗣 Commented on [#1384](https://github.com/g59/.59-node/issues/1384) in [g59/.59-node](https://github.com/g59/.59-node)
+1. 🗣 Commented on [#1489](https://github.com/g59/.59-node/issues/1489) in [g59/.59-node](https://github.com/g59/.59-node)
+2. 🗣 Commented on [#1436](https://github.com/g59/.59-node/issues/1436) in [g59/.59-node](https://github.com/g59/.59-node)
+3. 🗣 Commented on [#1352](https://github.com/g59/.59-node/issues/1352) in [g59/.59-node](https://github.com/g59/.59-node)
+4. 🎉 Merged PR [#1493](https://github.com/g59/.59-node/pull/1493) in [g59/.59-node](https://github.com/g59/.59-node)
+5. 🎉 Merged PR [#1491](https://github.com/g59/.59-node/pull/1491) in [g59/.59-node](https://github.com/g59/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
