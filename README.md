@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [deno fresh を用いてブログを作り直しました](https://9renpoto.dev/2023/05/18/recreate_blog)
-- [GA4でユーザープロパティを使う](https://9renpoto.dev/2021/02/21/google-analytics-4-user-properties)
-- [GoogleAnalytics 4でカスタムディメンションが設定できておらずハマる](https://9renpoto.dev/2021/02/13/google-analytics-4)
+- [deno fresh を用いてブログを作り直しました](https://9renpoto.dev/entry/2023/05/18/recreate_blog)
+- [GA4でユーザープロパティを使う](https://9renpoto.dev/entry/2021/02/21/google-analytics-4-user-properties)
+- [GoogleAnalytics 4でカスタムディメンションが設定できておらずハマる](https://9renpoto.dev/entry/2021/02/13/google-analytics-4)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
