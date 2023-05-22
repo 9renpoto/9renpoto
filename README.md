@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1060](https://github.com/9renpoto/all-star-thanks/pull/1060) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-2. 💪 Opened PR [#1060](https://github.com/9renpoto/all-star-thanks/pull/1060) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-3. 🎉 Merged PR [#649](https://github.com/9renpoto/upptime/pull/649) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ❌ Closed PR [#7](https://github.com/9renpoto/upptime/pull/7) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🎉 Merged PR [#647](https://github.com/9renpoto/upptime/pull/647) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#1548](https://github.com/g59/nestjs-plugins/pull/1548) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#1060](https://github.com/9renpoto/all-star-thanks/pull/1060) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 💪 Opened PR [#1060](https://github.com/9renpoto/all-star-thanks/pull/1060) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🎉 Merged PR [#649](https://github.com/9renpoto/upptime/pull/649) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. ❌ Closed PR [#7](https://github.com/9renpoto/upptime/pull/7) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
