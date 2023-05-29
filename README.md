@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ストック情報の優位性を私生活で評価する](https://9renpoto.dev/entry/2023/05/28/stock)
 - [Post blog rss feed via dlvrit](https://9renpoto.dev/entry/2023/05/21/twitter-post)
 - [deno fresh を用いてブログを作り直しました](https://9renpoto.dev/entry/2023/05/18/recreate_blog)
-- [GA4でユーザープロパティを使う](https://9renpoto.dev/entry/2021/02/21/google-analytics-4-user-properties)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
