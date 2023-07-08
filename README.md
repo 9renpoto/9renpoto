@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/9renpoto/poem/pull/37) in [9renpoto/poem](https://github.com/9renpoto/poem)
-2. 💪 Opened PR [#37](https://github.com/9renpoto/poem/pull/37) in [9renpoto/poem](https://github.com/9renpoto/poem)
-3. 🎉 Merged PR [#36](https://github.com/9renpoto/poem/pull/36) in [9renpoto/poem](https://github.com/9renpoto/poem)
-4. 💪 Opened PR [#36](https://github.com/9renpoto/poem/pull/36) in [9renpoto/poem](https://github.com/9renpoto/poem)
-5. 🎉 Merged PR [#35](https://github.com/9renpoto/poem/pull/35) in [9renpoto/poem](https://github.com/9renpoto/poem)
+1. ❗️ Closed issue [#663](https://github.com/9renpoto/upptime/issues/663) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#663](https://github.com/9renpoto/upptime/issues/663) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗️ Opened issue [#663](https://github.com/9renpoto/upptime/issues/663) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🎉 Merged PR [#37](https://github.com/9renpoto/poem/pull/37) in [9renpoto/poem](https://github.com/9renpoto/poem)
+5. 💪 Opened PR [#37](https://github.com/9renpoto/poem/pull/37) in [9renpoto/poem](https://github.com/9renpoto/poem)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
