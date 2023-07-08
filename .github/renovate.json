@@ -1,5 +1,12 @@
 {
-  "extends": [
-    "config:base"
-  ]
+  "extends": ["config:base"],
+  "assignees": ["9renpoto"],
+  "labels": ["Type: Maintenance"],
+  "packageRules": [
+    {
+      "updateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true
+    }
+  ],
+  "semanticCommits": true
 }
