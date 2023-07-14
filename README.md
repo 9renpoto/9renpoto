@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#674](https://github.com/9renpoto/upptime/issues/674) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#674](https://github.com/9renpoto/upptime/issues/674) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗ Opened issue [#674](https://github.com/9renpoto/upptime/issues/674) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 💪 Opened PR [#14](https://github.com/caddijp/nestjs-algolia/pull/14) in [caddijp/nestjs-algolia](https://github.com/caddijp/nestjs-algolia)
-5. 🎉 Merged PR [#673](https://github.com/9renpoto/upptime/pull/673) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🔒 Closed issue [#672](https://github.com/9renpoto/upptime/issues/672) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#672](https://github.com/9renpoto/upptime/issues/672) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. 🔒 Closed issue [#674](https://github.com/9renpoto/upptime/issues/674) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🗣 Commented on [#674](https://github.com/9renpoto/upptime/issues/674) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. ❗ Opened issue [#674](https://github.com/9renpoto/upptime/issues/674) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
