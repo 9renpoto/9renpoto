@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3796](https://github.com/9renpoto/frontend/pull/3796) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🚀 Published release [v7.7.1](https://github.com/9renpoto/frontend/releases/tag/v7.7.1) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#3795](https://github.com/9renpoto/frontend/pull/3795) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#34](https://github.com/9renpoto/9renpoto/pull/34) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-5. 🚀 Published release [v7.7.1](https://github.com/9renpoto/frontend/releases/tag/v7.7.1) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#1069](https://github.com/9renpoto/all-star-thanks/pull/1069) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🎉 Merged PR [#1053](https://github.com/9renpoto/all-star-thanks/pull/1053) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🎉 Merged PR [#1058](https://github.com/9renpoto/all-star-thanks/pull/1058) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🎉 Merged PR [#1064](https://github.com/9renpoto/all-star-thanks/pull/1064) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+5. 🎉 Merged PR [#1065](https://github.com/9renpoto/all-star-thanks/pull/1065) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
