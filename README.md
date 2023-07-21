@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/9renpoto/backend-rs/pull/100) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
-2. 🎉 Merged PR [#104](https://github.com/9renpoto/backend-rs/pull/104) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
-3. 🎉 Merged PR [#1622](https://github.com/g59/nestjs-plugins/pull/1622) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#82](https://github.com/9renpoto/backend-rs/pull/82) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
-5. 🎉 Merged PR [#681](https://github.com/9renpoto/upptime/pull/681) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#581](https://github.com/mentos1386/nest-raven/pull/581) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 🎉 Merged PR [#100](https://github.com/9renpoto/backend-rs/pull/100) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
+3. 🎉 Merged PR [#104](https://github.com/9renpoto/backend-rs/pull/104) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
+4. 🎉 Merged PR [#1622](https://github.com/g59/nestjs-plugins/pull/1622) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 🎉 Merged PR [#82](https://github.com/9renpoto/backend-rs/pull/82) in [9renpoto/backend-rs](https://github.com/9renpoto/backend-rs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
