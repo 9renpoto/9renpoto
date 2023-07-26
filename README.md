@@ -41,4 +41,13 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML                6 hrs 55 mins   █████████▓░░░░░░░░░░░░░░░   38.49 %
+JSON                4 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+TypeScript          1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Terraform           1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Markdown            54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+```
+
 <!--END_SECTION:waka-->
