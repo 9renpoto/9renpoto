@@ -2,7 +2,7 @@ name: github activity readme
 
 on:
   schedule:
-    - cron: '0 0-12/4 * * *'
+    - cron: "0 0-12/4 * * *"
 
 jobs:
   build:

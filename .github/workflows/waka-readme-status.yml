@@ -2,7 +2,7 @@ name: wakatime
 
 on:
   schedule:
-    - cron: '0 0-12/4 * * *'
+    - cron: "0 0-12/4 * * *"
 
 jobs:
   build:
@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: name: Waka - Readme
+      - name: Waka - Readme
         uses: athul/waka-readme@v0.2.3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
