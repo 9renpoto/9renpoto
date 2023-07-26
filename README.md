@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3806](https://github.com/9renpoto/frontend/pull/3806) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 💪 Opened PR [#3806](https://github.com/9renpoto/frontend/pull/3806) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#1717](https://github.com/9renpoto/.59-node/pull/1717) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. 🎉 Merged PR [#1718](https://github.com/9renpoto/.59-node/pull/1718) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-5. 💪 Opened PR [#1718](https://github.com/9renpoto/.59-node/pull/1718) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+1. 🔒 Closed issue [#685](https://github.com/9renpoto/upptime/issues/685) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#685](https://github.com/9renpoto/upptime/issues/685#issuecomment-1651584588) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗ Opened issue [#685](https://github.com/9renpoto/upptime/issues/685) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🗣 Commented on [#477](https://github.com/toonvanstrijp/nestjs-i18n/pull/477#issuecomment-1651289366) in [toonvanstrijp/nestjs-i18n](https://github.com/toonvanstrijp/nestjs-i18n)
+5. ❌ Closed PR [#477](https://github.com/toonvanstrijp/nestjs-i18n/pull/477) in [toonvanstrijp/nestjs-i18n](https://github.com/toonvanstrijp/nestjs-i18n)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
