@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![follow](https://img.shields.io/github/followers/9renpoto?label=Follow&style=social)
+[![blog post workflow](https://github.com/9renpoto/9renpoto/actions/workflows/blog.yml/badge.svg)](https://github.com/9renpoto/9renpoto/actions/workflows/blog.yml)
+[![github activity readme](https://github.com/9renpoto/9renpoto/actions/workflows/activity.yml/badge.svg)](https://github.com/9renpoto/9renpoto/actions/workflows/activity.yml)
+[![pinned-gists](https://github.com/9renpoto/9renpoto/actions/workflows/pin-gist.yml/badge.svg)](https://github.com/9renpoto/9renpoto/actions/workflows/pin-gist.yml)
+[![wakatime](https://github.com/9renpoto/9renpoto/actions/workflows/waka-readme-status.yml/badge.svg)](https://github.com/9renpoto/9renpoto/actions/workflows/waka-readme-status.yml)
 ![visitors](https://komarev.com/ghpvc/?username=9renpoto&label=Profile%20views&color=0e75b6&style=flat)
 
 ### Blogs posts
