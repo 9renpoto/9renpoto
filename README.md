@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1717](https://github.com/9renpoto/.59-node/pull/1717) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-2. 🎉 Merged PR [#1710](https://github.com/9renpoto/.59-node/pull/1710) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-3. 🎉 Merged PR [#1714](https://github.com/9renpoto/.59-node/pull/1714) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. 💪 Opened PR [#1714](https://github.com/9renpoto/.59-node/pull/1714) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-5. 🎉 Merged PR [#586](https://github.com/mentos1386/nest-raven/pull/586) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. 🎉 Merged PR [#1717](https://github.com/9renpoto/.59-node/pull/1717) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+2. 🎉 Merged PR [#1718](https://github.com/9renpoto/.59-node/pull/1718) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+3. 💪 Opened PR [#1718](https://github.com/9renpoto/.59-node/pull/1718) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. 💪 Opened PR [#1717](https://github.com/9renpoto/.59-node/pull/1717) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. 🎉 Merged PR [#1710](https://github.com/9renpoto/.59-node/pull/1710) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
