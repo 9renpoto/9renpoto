@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/9renpoto/bump-test/pull/8) in [9renpoto/bump-test](https://github.com/9renpoto/bump-test)
-2. 🎉 Merged PR [#9](https://github.com/9renpoto/bump-test/pull/9) in [9renpoto/bump-test](https://github.com/9renpoto/bump-test)
-3. 💪 Opened PR [#9](https://github.com/9renpoto/bump-test/pull/9) in [9renpoto/bump-test](https://github.com/9renpoto/bump-test)
-4. 💪 Opened PR [#8](https://github.com/9renpoto/bump-test/pull/8) in [9renpoto/bump-test](https://github.com/9renpoto/bump-test)
-5. 🎉 Merged PR [#7](https://github.com/9renpoto/bump-test/pull/7) in [9renpoto/bump-test](https://github.com/9renpoto/bump-test)
+1. 🎉 Merged PR [#1728](https://github.com/9renpoto/.59-node/pull/1728) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+2. 💪 Opened PR [#1728](https://github.com/9renpoto/.59-node/pull/1728) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+3. 🎉 Merged PR [#1727](https://github.com/9renpoto/.59-node/pull/1727) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. 💪 Opened PR [#1727](https://github.com/9renpoto/.59-node/pull/1727) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. 🎉 Merged PR [#1726](https://github.com/9renpoto/.59-node/pull/1726) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
