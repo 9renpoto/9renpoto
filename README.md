@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3817](https://github.com/9renpoto/frontend/pull/3817) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#3814](https://github.com/9renpoto/frontend/pull/3814) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#42](https://github.com/9renpoto/poem/pull/42) in [9renpoto/poem](https://github.com/9renpoto/poem)
-4. 💪 Opened PR [#42](https://github.com/9renpoto/poem/pull/42) in [9renpoto/poem](https://github.com/9renpoto/poem)
-5. 🎉 Merged PR [#684](https://github.com/9renpoto/upptime/pull/684) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. ❌ Closed PR [#1316](https://github.com/9renpoto/.59-node/pull/1316) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+2. ❌ Closed PR [#1243](https://github.com/9renpoto/.59-node/pull/1243) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+3. ❌ Closed PR [#1082](https://github.com/9renpoto/.59-node/pull/1082) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. 🚀 Published release [v7.7.3](https://github.com/9renpoto/frontend/releases/tag/v7.7.3) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#3822](https://github.com/9renpoto/frontend/pull/3822) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
