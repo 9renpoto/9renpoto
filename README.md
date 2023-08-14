@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1316](https://github.com/9renpoto/.59-node/pull/1316) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-2. ❌ Closed PR [#1243](https://github.com/9renpoto/.59-node/pull/1243) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-3. ❌ Closed PR [#1082](https://github.com/9renpoto/.59-node/pull/1082) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. 🚀 Published release [v7.7.3](https://github.com/9renpoto/frontend/releases/tag/v7.7.3) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#3822](https://github.com/9renpoto/frontend/pull/3822) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🔒 Closed issue [#691](https://github.com/9renpoto/upptime/issues/691) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#691](https://github.com/9renpoto/upptime/issues/691#issuecomment-1676431184) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗ Opened issue [#691](https://github.com/9renpoto/upptime/issues/691) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ❌ Closed PR [#1316](https://github.com/9renpoto/.59-node/pull/1316) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. ❌ Closed PR [#1243](https://github.com/9renpoto/.59-node/pull/1243) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
