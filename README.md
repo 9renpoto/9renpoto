@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/9renpoto/timetree/pull/15) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
-2. 🎉 Merged PR [#14](https://github.com/9renpoto/timetree/pull/14) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
-3. 🔒 Closed issue [#740](https://github.com/9renpoto/upptime/issues/740) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🗣 Commented on [#740](https://github.com/9renpoto/upptime/issues/740#issuecomment-1692693394) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🎉 Merged PR [#12](https://github.com/9renpoto/timetree/pull/12) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
+1. 🔒 Closed issue [#741](https://github.com/9renpoto/upptime/issues/741) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#741](https://github.com/9renpoto/upptime/issues/741#issuecomment-1692888773) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗ Opened issue [#741](https://github.com/9renpoto/upptime/issues/741) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🎉 Merged PR [#15](https://github.com/9renpoto/timetree/pull/15) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
+5. 🎉 Merged PR [#14](https://github.com/9renpoto/timetree/pull/14) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
