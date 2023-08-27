@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   42.83 %
-TypeScript   1 hr 57 mins    ██████████░░░░░░░░░░░░░░░   40.23 %
-Terraform    15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Markdown     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-YAML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Rust         1 hr 42 mins    ██████████▒░░░░░░░░░░░░░░   41.56 %
+TypeScript   1 hr 37 mins    ██████████░░░░░░░░░░░░░░░   39.49 %
+Terraform    15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+YAML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
