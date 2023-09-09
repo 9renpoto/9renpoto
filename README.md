@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/9renpoto/poem/pull/47) in [9renpoto/poem](https://github.com/9renpoto/poem)
-2. 💪 Opened PR [#47](https://github.com/9renpoto/poem/pull/47) in [9renpoto/poem](https://github.com/9renpoto/poem)
-3. 🎉 Merged PR [#1090](https://github.com/9renpoto/all-star-thanks/pull/1090) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
-4. 🎉 Merged PR [#3833](https://github.com/9renpoto/frontend/pull/3833) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🚀 Published release [v10.1.0](https://github.com/g59/nestjs-plugins/releases/tag/v10.1.0) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🎉 Merged PR [#48](https://github.com/9renpoto/poem/pull/48) in [9renpoto/poem](https://github.com/9renpoto/poem)
+2. 💪 Opened PR [#48](https://github.com/9renpoto/poem/pull/48) in [9renpoto/poem](https://github.com/9renpoto/poem)
+3. 🎉 Merged PR [#47](https://github.com/9renpoto/poem/pull/47) in [9renpoto/poem](https://github.com/9renpoto/poem)
+4. 💪 Opened PR [#47](https://github.com/9renpoto/poem/pull/47) in [9renpoto/poem](https://github.com/9renpoto/poem)
+5. 🎉 Merged PR [#1090](https://github.com/9renpoto/all-star-thanks/pull/1090) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
