@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [地方移住を検討](https://9renpoto.win/entry/2023/09/09/migration-plan)
 - [Try `node:test` with TypeScript](https://9renpoto.win/entry/2023/07/23/node-test-runner)
 - [Thank you Google Domain](https://9renpoto.win/entry/2023/07/08/new-domain)
-- [ストック情報の優位性を私生活で評価する](https://9renpoto.win/entry/2023/05/28/stock)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
