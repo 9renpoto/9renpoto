@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/9renpoto/poem/pull/48) in [9renpoto/poem](https://github.com/9renpoto/poem)
-2. 💪 Opened PR [#48](https://github.com/9renpoto/poem/pull/48) in [9renpoto/poem](https://github.com/9renpoto/poem)
-3. 🎉 Merged PR [#47](https://github.com/9renpoto/poem/pull/47) in [9renpoto/poem](https://github.com/9renpoto/poem)
-4. 💪 Opened PR [#47](https://github.com/9renpoto/poem/pull/47) in [9renpoto/poem](https://github.com/9renpoto/poem)
-5. 🎉 Merged PR [#1090](https://github.com/9renpoto/all-star-thanks/pull/1090) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+1. 🔒 Closed issue [#822](https://github.com/9renpoto/upptime/issues/822) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#822](https://github.com/9renpoto/upptime/issues/822#issuecomment-1714019209) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗ Opened issue [#822](https://github.com/9renpoto/upptime/issues/822) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🔒 Closed issue [#821](https://github.com/9renpoto/upptime/issues/821) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🗣 Commented on [#821](https://github.com/9renpoto/upptime/issues/821#issuecomment-1713922300) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
