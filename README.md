@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#402](https://github.com/tj/connect-redis/pull/402) in [tj/connect-redis](https://github.com/tj/connect-redis)
-2. 🗣 Commented on [#402](https://github.com/tj/connect-redis/pull/402#issuecomment-1722356234) in [tj/connect-redis](https://github.com/tj/connect-redis)
-3. 💪 Opened PR [#402](https://github.com/tj/connect-redis/pull/402) in [tj/connect-redis](https://github.com/tj/connect-redis)
-4. 🗣 Commented on [#823](https://github.com/9renpoto/upptime/issues/823#issuecomment-1717958586) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🔒 Closed issue [#823](https://github.com/9renpoto/upptime/issues/823) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#1687](https://github.com/g59/nestjs-plugins/pull/1687) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. ❌ Closed PR [#3826](https://github.com/9renpoto/frontend/pull/3826) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. ❌ Closed PR [#402](https://github.com/tj/connect-redis/pull/402) in [tj/connect-redis](https://github.com/tj/connect-redis)
+4. 🗣 Commented on [#402](https://github.com/tj/connect-redis/pull/402#issuecomment-1722356234) in [tj/connect-redis](https://github.com/tj/connect-redis)
+5. 💪 Opened PR [#402](https://github.com/tj/connect-redis/pull/402) in [tj/connect-redis](https://github.com/tj/connect-redis)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
