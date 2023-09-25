@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#824](https://github.com/9renpoto/upptime/issues/824) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#824](https://github.com/9renpoto/upptime/issues/824#issuecomment-1730827637) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗ Opened issue [#824](https://github.com/9renpoto/upptime/issues/824) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🎉 Merged PR [#1687](https://github.com/g59/nestjs-plugins/pull/1687) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. ❌ Closed PR [#3826](https://github.com/9renpoto/frontend/pull/3826) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#608](https://github.com/mentos1386/nest-raven/pull/608) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 💪 Opened PR [#608](https://github.com/mentos1386/nest-raven/pull/608) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+3. 🎉 Merged PR [#605](https://github.com/mentos1386/nest-raven/pull/605) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+4. ❌ Closed PR [#9](https://github.com/caddijp/nestjs-algoliasearch/pull/9) in [caddijp/nestjs-algoliasearch](https://github.com/caddijp/nestjs-algoliasearch)
+5. 🔒 Closed issue [#824](https://github.com/9renpoto/upptime/issues/824) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
