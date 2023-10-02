@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v10.2.0](https://github.com/g59/nestjs-plugins/releases/tag/v10.2.0) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#1677](https://github.com/g59/nestjs-plugins/pull/1677) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#50](https://github.com/9renpoto/poem/pull/50) in [9renpoto/poem](https://github.com/9renpoto/poem)
-4. 💪 Opened PR [#50](https://github.com/9renpoto/poem/pull/50) in [9renpoto/poem](https://github.com/9renpoto/poem)
-5. 🎉 Merged PR [#3837](https://github.com/9renpoto/frontend/pull/3837) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#610](https://github.com/mentos1386/nest-raven/pull/610) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 🗣 Commented on [#553](https://github.com/mentos1386/nest-raven/issues/553#issuecomment-1742282700) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+3. 💪 Opened PR [#612](https://github.com/mentos1386/nest-raven/pull/612) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+4. 🎉 Merged PR [#611](https://github.com/mentos1386/nest-raven/pull/611) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+5. 🎉 Merged PR [#609](https://github.com/mentos1386/nest-raven/pull/609) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
