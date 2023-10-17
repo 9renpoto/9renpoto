@@ -43,11 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             44 mins         ██████████████░░░░░░░░░░░   55.73 %
-JSON             20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
-TypeScript       8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Ezhil            4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-JavaScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
