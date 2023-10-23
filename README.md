@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1829](https://github.com/9renpoto/.59-node/pull/1829#issuecomment-1774238653) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-2. 🗣 Commented on [#1810](https://github.com/9renpoto/.59-node/pull/1810#issuecomment-1774238576) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-3. 🎉 Merged PR [#1835](https://github.com/9renpoto/.59-node/pull/1835) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. 🔒 Closed issue [#553](https://github.com/mentos1386/nest-raven/issues/553) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-5. 🎉 Merged PR [#612](https://github.com/mentos1386/nest-raven/pull/612) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. 🎉 Merged PR [#1841](https://github.com/9renpoto/.59-node/pull/1841) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+2. 💪 Opened PR [#1841](https://github.com/9renpoto/.59-node/pull/1841) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+3. 🗣 Commented on [#1810](https://github.com/9renpoto/.59-node/pull/1810#issuecomment-1774257666) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. 🎉 Merged PR [#1840](https://github.com/9renpoto/.59-node/pull/1840) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. 🗣 Commented on [#1829](https://github.com/9renpoto/.59-node/pull/1829#issuecomment-1774238653) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
