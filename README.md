@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/9renpoto/timetree/pull/105) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
-2. 🔒 Closed issue [#843](https://github.com/9renpoto/upptime/issues/843) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🗣 Commented on [#843](https://github.com/9renpoto/upptime/issues/843#issuecomment-1783838992) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ❗ Opened issue [#843](https://github.com/9renpoto/upptime/issues/843) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🔒 Closed issue [#842](https://github.com/9renpoto/upptime/issues/842) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#364](https://github.com/9renpoto/dotfiles/pull/364) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 💪 Opened PR [#364](https://github.com/9renpoto/dotfiles/pull/364) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. ❌ Closed PR [#1696](https://github.com/g59/nestjs-plugins/pull/1696) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 🎉 Merged PR [#105](https://github.com/9renpoto/timetree/pull/105) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
+5. 🔒 Closed issue [#843](https://github.com/9renpoto/upptime/issues/843) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
