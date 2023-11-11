@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/9renpoto/face-image-selectors/pull/2) in [9renpoto/face-image-selectors](https://github.com/9renpoto/face-image-selectors)
-2. 🎉 Merged PR [#5](https://github.com/9renpoto/face-image-selectors/pull/5) in [9renpoto/face-image-selectors](https://github.com/9renpoto/face-image-selectors)
-3. 💪 Opened PR [#5](https://github.com/9renpoto/face-image-selectors/pull/5) in [9renpoto/face-image-selectors](https://github.com/9renpoto/face-image-selectors)
-4. 🔒 Closed issue [#848](https://github.com/9renpoto/upptime/issues/848) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🗣 Commented on [#848](https://github.com/9renpoto/upptime/issues/848#issuecomment-1805010681) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🗣 Commented on [#849](https://github.com/9renpoto/upptime/issues/849#issuecomment-1805697163) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🔒 Closed issue [#849](https://github.com/9renpoto/upptime/issues/849) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗ Opened issue [#849](https://github.com/9renpoto/upptime/issues/849) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ❌ Closed PR [#2](https://github.com/9renpoto/face-image-selectors/pull/2) in [9renpoto/face-image-selectors](https://github.com/9renpoto/face-image-selectors)
+5. 🎉 Merged PR [#5](https://github.com/9renpoto/face-image-selectors/pull/5) in [9renpoto/face-image-selectors](https://github.com/9renpoto/face-image-selectors)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
