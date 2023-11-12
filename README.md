@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#851](https://github.com/9renpoto/upptime/issues/851) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#851](https://github.com/9renpoto/upptime/issues/851#issuecomment-1806944782) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗ Opened issue [#851](https://github.com/9renpoto/upptime/issues/851) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🔒 Closed issue [#850](https://github.com/9renpoto/upptime/issues/850) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🗣 Commented on [#850](https://github.com/9renpoto/upptime/issues/850#issuecomment-1806838418) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#56](https://github.com/9renpoto/win/pull/56) in [9renpoto/win](https://github.com/9renpoto/win)
+2. 💪 Opened PR [#56](https://github.com/9renpoto/win/pull/56) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 🎉 Merged PR [#55](https://github.com/9renpoto/win/pull/55) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 💪 Opened PR [#55](https://github.com/9renpoto/win/pull/55) in [9renpoto/win](https://github.com/9renpoto/win)
+5. ❌ Closed PR [#54](https://github.com/9renpoto/win/pull/54) in [9renpoto/win](https://github.com/9renpoto/win)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
