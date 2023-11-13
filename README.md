@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [dlvrit をやめてGithub Actions でRSSからSNSに投稿する](https://9renpoto.win/entry/2023/11/12/dlvrit-to-gh-actions)
 - [アウトプットに悩んでます](https://9renpoto.win/entry/2023/11/11/technology-to-limit-input)
 - [地方移住を検討](https://9renpoto.win/entry/2023/09/09/migration-plan)
-- [Try `node:test` with TypeScript](https://9renpoto.win/entry/2023/07/23/node-test-runner)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
