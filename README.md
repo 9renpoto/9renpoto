@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1761](https://github.com/g59/nestjs-plugins/pull/1761) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 💪 Opened PR [#1761](https://github.com/g59/nestjs-plugins/pull/1761) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🚀 Published release [v7.7.4](https://github.com/9renpoto/frontend/releases/tag/v7.7.4) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#3862](https://github.com/9renpoto/frontend/pull/3862) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 💪 Opened PR [#1](https://github.com/9renpoto/moment-jst/pull/1) in [9renpoto/moment-jst](https://github.com/9renpoto/moment-jst)
+1. 💪 Opened PR [#1881](https://github.com/9renpoto/.59-node/pull/1881) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+2. 🗣 Commented on [#1878](https://github.com/9renpoto/.59-node/pull/1878#issuecomment-1826715120) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+3. 🎉 Merged PR [#1880](https://github.com/9renpoto/.59-node/pull/1880) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. 💪 Opened PR [#1880](https://github.com/9renpoto/.59-node/pull/1880) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. 🔒 Closed issue [#767](https://github.com/9renpoto/.59-node/issues/767) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
