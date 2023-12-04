@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#318](https://github.com/9renpoto/dotfiles/issues/318) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 🎉 Merged PR [#60](https://github.com/9renpoto/win/pull/60) in [9renpoto/win](https://github.com/9renpoto/win)
-3. 💪 Opened PR [#60](https://github.com/9renpoto/win/pull/60) in [9renpoto/win](https://github.com/9renpoto/win)
-4. 🔒 Closed issue [#1](https://github.com/9renpoto/win/issues/1) in [9renpoto/win](https://github.com/9renpoto/win)
-5. 🚀 Published release [v10.0.1](https://github.com/mentos1386/nest-raven/releases/tag/v10.0.1) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 🔒 Closed issue [#318](https://github.com/9renpoto/dotfiles/issues/318) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 🎉 Merged PR [#60](https://github.com/9renpoto/win/pull/60) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 💪 Opened PR [#60](https://github.com/9renpoto/win/pull/60) in [9renpoto/win](https://github.com/9renpoto/win)
+5. 🔒 Closed issue [#1](https://github.com/9renpoto/win/issues/1) in [9renpoto/win](https://github.com/9renpoto/win)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
