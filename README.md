@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/9renpoto/sequelize-auto/pull/1) in [9renpoto/sequelize-auto](https://github.com/9renpoto/sequelize-auto)
-2. 🔒 Closed issue [#906](https://github.com/9renpoto/upptime/issues/906) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🗣 Commented on [#906](https://github.com/9renpoto/upptime/issues/906#issuecomment-1846310342) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ❗ Opened issue [#906](https://github.com/9renpoto/upptime/issues/906) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🔒 Closed issue [#905](https://github.com/9renpoto/upptime/issues/905) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#62](https://github.com/9renpoto/win/pull/62) in [9renpoto/win](https://github.com/9renpoto/win)
+2. 💪 Opened PR [#63](https://github.com/9renpoto/win/pull/63) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 💪 Opened PR [#828](https://github.com/ladjs/supertest/pull/828) in [ladjs/supertest](https://github.com/ladjs/supertest)
+4. ❌ Closed PR [#1](https://github.com/9renpoto/supertest/pull/1) in [9renpoto/supertest](https://github.com/9renpoto/supertest)
+5. 🔒 Closed issue [#907](https://github.com/9renpoto/upptime/issues/907) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
