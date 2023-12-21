@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1929](https://github.com/9renpoto/.59-node/pull/1929) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-2. 🎉 Merged PR [#1928](https://github.com/9renpoto/.59-node/pull/1928) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-3. 🎉 Merged PR [#1770](https://github.com/g59/nestjs-plugins/pull/1770) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#1769](https://github.com/g59/nestjs-plugins/pull/1769) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. ❗ Opened issue [#914](https://github.com/9renpoto/upptime/issues/914) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🚀 Published release [v0.3.0](https://github.com/9renpoto/.59-node/releases/tag/v0.3.0) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+2. 🎉 Merged PR [#1933](https://github.com/9renpoto/.59-node/pull/1933) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+3. 🎉 Merged PR [#1932](https://github.com/9renpoto/.59-node/pull/1932) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. 🎉 Merged PR [#1931](https://github.com/9renpoto/.59-node/pull/1931) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. 🎉 Merged PR [#1929](https://github.com/9renpoto/.59-node/pull/1929) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
