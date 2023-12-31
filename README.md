@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#101](https://github.com/9renpoto/.59/pull/101) in [9renpoto/.59](https://github.com/9renpoto/.59)
-2. 🎉 Merged PR [#103](https://github.com/9renpoto/.59/pull/103) in [9renpoto/.59](https://github.com/9renpoto/.59)
-3. 💪 Opened PR [#103](https://github.com/9renpoto/.59/pull/103) in [9renpoto/.59](https://github.com/9renpoto/.59)
-4. 🎉 Merged PR [#102](https://github.com/9renpoto/.59/pull/102) in [9renpoto/.59](https://github.com/9renpoto/.59)
-5. 💪 Opened PR [#102](https://github.com/9renpoto/.59/pull/102) in [9renpoto/.59](https://github.com/9renpoto/.59)
+1. 💪 Opened PR [#1](https://github.com/9renpoto/king-of-time/pull/1) in [9renpoto/king-of-time](https://github.com/9renpoto/king-of-time)
+2. 🎉 Merged PR [#2](https://github.com/9renpoto/astro-nvim-user/pull/2) in [9renpoto/astro-nvim-user](https://github.com/9renpoto/astro-nvim-user)
+3. 💪 Opened PR [#2](https://github.com/9renpoto/astro-nvim-user/pull/2) in [9renpoto/astro-nvim-user](https://github.com/9renpoto/astro-nvim-user)
+4. ❌ Closed PR [#59](https://github.com/9renpoto/win/pull/59) in [9renpoto/win](https://github.com/9renpoto/win)
+5. 🎉 Merged PR [#111](https://github.com/9renpoto/.59-rs/pull/111) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
