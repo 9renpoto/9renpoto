@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/9renpoto/.59-rs/pull/113) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
-2. 🎉 Merged PR [#112](https://github.com/9renpoto/.59-rs/pull/112) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
-3. ❌ Closed PR [#139](https://github.com/9renpoto/timetree/pull/139) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
-4. 🎉 Merged PR [#65](https://github.com/9renpoto/win/pull/65) in [9renpoto/win](https://github.com/9renpoto/win)
-5. 💪 Opened PR [#65](https://github.com/9renpoto/win/pull/65) in [9renpoto/win](https://github.com/9renpoto/win)
+1. 🎉 Merged PR [#918](https://github.com/9renpoto/upptime/pull/918) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 💪 Opened PR [#918](https://github.com/9renpoto/upptime/pull/918) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. 🎉 Merged PR [#66](https://github.com/9renpoto/win/pull/66) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 💪 Opened PR [#66](https://github.com/9renpoto/win/pull/66) in [9renpoto/win](https://github.com/9renpoto/win)
+5. 🎉 Merged PR [#107](https://github.com/9renpoto/.59/pull/107) in [9renpoto/.59](https://github.com/9renpoto/.59)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
