@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3869](https://github.com/9renpoto/frontend/pull/3869) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 💪 Opened PR [#3877](https://github.com/9renpoto/frontend/pull/3877) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. ❌ Closed PR [#142](https://github.com/9renpoto/timetree/pull/142) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
-4. ❌ Closed PR [#143](https://github.com/9renpoto/timetree/pull/143) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
-5. ❌ Closed PR [#7](https://github.com/9renpoto/timetree/pull/7) in [9renpoto/timetree](https://github.com/9renpoto/timetree)
+1. 🎉 Merged PR [#67](https://github.com/9renpoto/win/pull/67) in [9renpoto/win](https://github.com/9renpoto/win)
+2. 💪 Opened PR [#67](https://github.com/9renpoto/win/pull/67) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 🔒 Closed issue [#3044](https://github.com/9renpoto/frontend/issues/3044) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+4. 🎉 Merged PR [#3877](https://github.com/9renpoto/frontend/pull/3877) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. ❌ Closed PR [#3869](https://github.com/9renpoto/frontend/pull/3869) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
