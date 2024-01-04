@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [新年の休みを利用してAstroNvimを触る](https://9renpoto.win/entry/2024/01/03/new-year-holidays)
 - [End of 2023](https://9renpoto.win/entry/2023/12/31/end)
 - [最近毎日Duolingoを続けている](https://9renpoto.win/entry/2023/12/05/duolingo)
-- [dlvrit をやめてGithub Actions でRSSからSNSに投稿する](https://9renpoto.win/entry/2023/11/12/dlvrit-to-gh-actions)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
