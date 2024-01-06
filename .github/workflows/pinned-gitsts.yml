@@ -28,7 +28,7 @@ jobs:
   github-status-box:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-node@v4.0.0
+      - uses: actions/setup-node@v4.0.1
         with:
           node-version: lts/*
       - run: npx github-stats-box
