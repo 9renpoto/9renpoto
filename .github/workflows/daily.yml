@@ -50,11 +50,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 461b1b9ae6049d06c90ba5d90cc29950
 
-  blog:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@1.8.4
-        with:
-          max_post_count: "3"
-          feed_list: "https://9renpoto.win/rss.xml"
