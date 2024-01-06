@@ -1,5 +1,6 @@
-name: pinned-gists
+name: daily
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 jobs:
@@ -28,7 +29,7 @@ jobs:
     steps:
       - uses: actions/setup-node@v4.0.0
         with:
-          node-version: 12
+          node-version: lts/*
       - run: npx github-stats-box
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # Do not edit, defined in secrets
@@ -36,3 +37,23 @@ jobs:
           GIST_ID: f23f21fbb26f805b1c9e75497fa8434a
           ALL_COMMITS: true # If `true` it will count all commits, if `false` it will count your last year commits
           K_FORMAT: false # If `true`, large numbers will be formatted with a "k", for example "1.5k"
+  play-station:
+    runs-on: ubuntu-latest
+    steps:
+      - name: playstation-box
+        uses: Swilder-M/playstation-box@v1.4
+        env:
+          PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
+          PSN_ACCESS_TOKEN: ${{ secrets.PSN_ACCESS_TOKEN }}
+          PSN_REFRESH_TOKEN: ${{ secrets.PSN_REFRESH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 461b1b9ae6049d06c90ba5d90cc29950
+
+  blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@1.8.4
+        with:
+          max_post_count: "3"
+          feed_list: "https://9renpoto.win/rss.xml"
