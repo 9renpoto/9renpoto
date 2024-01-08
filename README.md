@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [新年の休みを利用してasdfを卒業してmiseを触る](https://9renpoto.win/entry/2024/01/07/mise)
 - [新年の休みを利用してAstroNvimを触る](https://9renpoto.win/entry/2024/01/03/new-year-holidays)
 - [End of 2023](https://9renpoto.win/entry/2023/12/31/end)
 - [最近毎日Duolingoを続けている](https://9renpoto.win/entry/2023/12/05/duolingo)
+- [こんばんは](https://sizu.me/9renpoto/posts/5a0i98779w97)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
