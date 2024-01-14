@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v7.8.0](https://github.com/9renpoto/frontend/releases/tag/v7.8.0) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 🎉 Merged PR [#3886](https://github.com/9renpoto/frontend/pull/3886) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. ❌ Closed PR [#3882](https://github.com/9renpoto/frontend/pull/3882) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. ❌ Closed PR [#3838](https://github.com/9renpoto/frontend/pull/3838) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-5. 🎉 Merged PR [#3876](https://github.com/9renpoto/frontend/pull/3876) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#3887](https://github.com/9renpoto/frontend/pull/3887) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+2. 💪 Opened PR [#3887](https://github.com/9renpoto/frontend/pull/3887) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+3. 🎉 Merged PR [#75](https://github.com/9renpoto/win/pull/75) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 💪 Opened PR [#75](https://github.com/9renpoto/win/pull/75) in [9renpoto/win](https://github.com/9renpoto/win)
+5. 🚀 Published release [v7.8.0](https://github.com/9renpoto/frontend/releases/tag/v7.8.0) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
