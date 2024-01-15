@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3887](https://github.com/9renpoto/frontend/pull/3887) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 💪 Opened PR [#3887](https://github.com/9renpoto/frontend/pull/3887) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-3. 🎉 Merged PR [#75](https://github.com/9renpoto/win/pull/75) in [9renpoto/win](https://github.com/9renpoto/win)
-4. 💪 Opened PR [#75](https://github.com/9renpoto/win/pull/75) in [9renpoto/win](https://github.com/9renpoto/win)
-5. 🚀 Published release [v7.8.0](https://github.com/9renpoto/frontend/releases/tag/v7.8.0) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+1. 🎉 Merged PR [#1126](https://github.com/9renpoto/all-star-thanks/pull/1126) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+2. 🗣 Commented on [#1003](https://github.com/9renpoto/upptime/issues/1003#issuecomment-1891102392) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. 🔒 Closed issue [#1003](https://github.com/9renpoto/upptime/issues/1003) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ❗ Opened issue [#1003](https://github.com/9renpoto/upptime/issues/1003) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🔒 Closed issue [#1002](https://github.com/9renpoto/upptime/issues/1002) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
