@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1112](https://github.com/9renpoto/upptime/pull/1112) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🎉 Merged PR [#2019](https://github.com/9renpoto/.59-node/pull/2019) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-3. 🗣 Commented on [#1124](https://github.com/9renpoto/upptime/issues/1124#issuecomment-1939295276) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🔒 Closed issue [#1124](https://github.com/9renpoto/upptime/issues/1124) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. ❗ Opened issue [#1124](https://github.com/9renpoto/upptime/issues/1124) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🔒 Closed issue [#1126](https://github.com/9renpoto/upptime/issues/1126) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#1126](https://github.com/9renpoto/upptime/issues/1126#issuecomment-1941739605) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗ Opened issue [#1126](https://github.com/9renpoto/upptime/issues/1126) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🚀 Published release [v0.7.0](https://github.com/9renpoto/.59-node/releases/tag/v0.7.0) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. 🎉 Merged PR [#3890](https://github.com/9renpoto/frontend/pull/3890) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
