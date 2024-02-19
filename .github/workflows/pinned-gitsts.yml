@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: productive-box
-        uses: maxam2017/productive-box@v1.1.5
+        uses: maxam2017/productive-box@v1.2.0
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: b5c387b417293ccb63e839f22f1c747c
