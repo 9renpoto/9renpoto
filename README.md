@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1175](https://github.com/9renpoto/upptime/issues/1175) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#1175](https://github.com/9renpoto/upptime/issues/1175#issuecomment-1960639267) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗ Opened issue [#1175](https://github.com/9renpoto/upptime/issues/1175) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ❌ Closed PR [#656](https://github.com/mentos1386/nest-raven/pull/656) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-5. 🎉 Merged PR [#666](https://github.com/mentos1386/nest-raven/pull/666) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+1. 🔒 Closed issue [#1178](https://github.com/9renpoto/upptime/issues/1178) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#1178](https://github.com/9renpoto/upptime/issues/1178#issuecomment-1960824407) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❌ Closed PR [#1907](https://github.com/9renpoto/.59-node/pull/1907) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. ❌ Closed PR [#1980](https://github.com/9renpoto/.59-node/pull/1980) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. ❗ Opened issue [#1178](https://github.com/9renpoto/upptime/issues/1178) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
