@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1172](https://github.com/9renpoto/upptime/issues/1172#issuecomment-1959128676) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🔒 Closed issue [#1172](https://github.com/9renpoto/upptime/issues/1172) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗ Opened issue [#1172](https://github.com/9renpoto/upptime/issues/1172) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🗣 Commented on [#1171](https://github.com/9renpoto/upptime/issues/1171#issuecomment-1958542828) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🔒 Closed issue [#1171](https://github.com/9renpoto/upptime/issues/1171) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🚀 Published release [v0.1.1](https://github.com/9renpoto/.59/releases/tag/v0.1.1) in [9renpoto/.59](https://github.com/9renpoto/.59)
+2. 🗣 Commented on [#1127](https://github.com/9renpoto/all-star-thanks/pull/1127#issuecomment-1959510783) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+3. 🗣 Commented on [#1128](https://github.com/9renpoto/all-star-thanks/pull/1128#issuecomment-1959510388) in [9renpoto/all-star-thanks](https://github.com/9renpoto/all-star-thanks)
+4. 🗣 Commented on [#2036](https://github.com/9renpoto/.59-node/pull/2036#issuecomment-1959502518) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. 🎉 Merged PR [#1800](https://github.com/g59/nestjs-plugins/pull/1800) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
