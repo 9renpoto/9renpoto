@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [紙の本を読む](https://9renpoto.win/entry/2024/02/25/reading-papar-book)
 - [ROLLCAKE株式会社にJoinしました](https://9renpoto.win/entry/2024/02/11/join)
 - [eza のあるカラフルな生活](https://9renpoto.win/entry/2024/02/01/eza)
 - [Github Project 十分に機能そろっているのでは](https://9renpoto.win/entry/2024/01/14/gh-projects)
 - [新年の休みを利用してasdfを卒業してmiseを触る](https://9renpoto.win/entry/2024/01/07/mise)
-- [新年の休みを利用してAstroNvimを触る](https://9renpoto.win/entry/2024/01/03/new-year-holidays)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
