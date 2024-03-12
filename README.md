@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1671](https://github.com/9renpoto/upptime/issues/1671) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#1671](https://github.com/9renpoto/upptime/issues/1671#issuecomment-1990082998) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗ Opened issue [#1671](https://github.com/9renpoto/upptime/issues/1671) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🗣 Commented on [#1670](https://github.com/9renpoto/upptime/issues/1670#issuecomment-1989867644) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🔒 Closed issue [#1670](https://github.com/9renpoto/upptime/issues/1670) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🗣 Commented on [#1680](https://github.com/9renpoto/upptime/issues/1680#issuecomment-1990987909) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🔒 Closed issue [#1680](https://github.com/9renpoto/upptime/issues/1680) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗ Opened issue [#1680](https://github.com/9renpoto/upptime/issues/1680) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🔒 Closed issue [#1679](https://github.com/9renpoto/upptime/issues/1679) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🗣 Commented on [#1679](https://github.com/9renpoto/upptime/issues/1679#issuecomment-1990963701) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
