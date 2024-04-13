@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/9renpoto/astro-nvim-user/pull/4) in [9renpoto/astro-nvim-user](https://github.com/9renpoto/astro-nvim-user)
-2. 💪 Opened PR [#4](https://github.com/9renpoto/astro-nvim-user/pull/4) in [9renpoto/astro-nvim-user](https://github.com/9renpoto/astro-nvim-user)
-3. 🔒 Closed issue [#2297](https://github.com/9renpoto/upptime/issues/2297) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🔒 Closed issue [#2296](https://github.com/9renpoto/upptime/issues/2296) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🔒 Closed issue [#914](https://github.com/9renpoto/upptime/issues/914) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. ❗ Opened issue [#2298](https://github.com/9renpoto/upptime/issues/2298) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🎉 Merged PR [#4](https://github.com/9renpoto/astro-nvim-user/pull/4) in [9renpoto/astro-nvim-user](https://github.com/9renpoto/astro-nvim-user)
+3. 💪 Opened PR [#4](https://github.com/9renpoto/astro-nvim-user/pull/4) in [9renpoto/astro-nvim-user](https://github.com/9renpoto/astro-nvim-user)
+4. 🔒 Closed issue [#2297](https://github.com/9renpoto/upptime/issues/2297) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🔒 Closed issue [#2296](https://github.com/9renpoto/upptime/issues/2296) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
