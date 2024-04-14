@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2298](https://github.com/9renpoto/upptime/issues/2298) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🎉 Merged PR [#4](https://github.com/9renpoto/astro-nvim-user/pull/4) in [9renpoto/astro-nvim-user](https://github.com/9renpoto/astro-nvim-user)
-3. 💪 Opened PR [#4](https://github.com/9renpoto/astro-nvim-user/pull/4) in [9renpoto/astro-nvim-user](https://github.com/9renpoto/astro-nvim-user)
-4. 🔒 Closed issue [#2297](https://github.com/9renpoto/upptime/issues/2297) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🔒 Closed issue [#2296](https://github.com/9renpoto/upptime/issues/2296) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🗣 Commented on [#669](https://github.com/mentos1386/nest-raven/pull/669#issuecomment-2053777415) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
+2. 🚀 Published release [v10.5.0](https://github.com/g59/nestjs-plugins/releases/tag/v10.5.0) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🎉 Merged PR [#1816](https://github.com/g59/nestjs-plugins/pull/1816) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. ❌ Closed PR [#1601](https://github.com/g59/nestjs-plugins/pull/1601) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 🎉 Merged PR [#1826](https://github.com/g59/nestjs-plugins/pull/1826) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
