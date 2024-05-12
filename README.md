@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 hrs 38 mins   █████████████░░░░░░░░░░░░   51.56 %
-TypeScript   7 hrs 43 mins   ██████████▒░░░░░░░░░░░░░░   41.27 %
+JavaScript   9 hrs 38 mins   █████████████░░░░░░░░░░░░   51.41 %
+TypeScript   7 hrs 43 mins   ██████████▒░░░░░░░░░░░░░░   41.15 %
 Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Terraform    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Terraform    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
