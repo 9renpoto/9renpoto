@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/9renpoto/win/pull/92) in [9renpoto/win](https://github.com/9renpoto/win)
-2. 💪 Opened PR [#92](https://github.com/9renpoto/win/pull/92) in [9renpoto/win](https://github.com/9renpoto/win)
-3. 🚀 Published release [v0.10.0](https://github.com/9renpoto/.59-node/releases/tag/v0.10.0) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. 🎉 Merged PR [#2130](https://github.com/9renpoto/.59-node/pull/2130) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-5. 🗣 Commented on [#2111](https://github.com/9renpoto/.59-node/pull/2111#issuecomment-2136296283) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+1. ❗ Opened issue [#2340](https://github.com/9renpoto/upptime/issues/2340) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🎉 Merged PR [#92](https://github.com/9renpoto/win/pull/92) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 💪 Opened PR [#92](https://github.com/9renpoto/win/pull/92) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 🚀 Published release [v0.10.0](https://github.com/9renpoto/.59-node/releases/tag/v0.10.0) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. 🎉 Merged PR [#2130](https://github.com/9renpoto/.59-node/pull/2130) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
