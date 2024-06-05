@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1037](https://github.com/g59/bot/pull/1037) in [g59/bot](https://github.com/g59/bot)
-2. 🗣 Commented on [#2346](https://github.com/9renpoto/upptime/issues/2346#issuecomment-2146345908) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🔒 Closed issue [#2346](https://github.com/9renpoto/upptime/issues/2346) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🗣 Commented on [#2345](https://github.com/9renpoto/upptime/issues/2345#issuecomment-2146345878) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 🔒 Closed issue [#2345](https://github.com/9renpoto/upptime/issues/2345) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🔒 Closed issue [#2347](https://github.com/9renpoto/upptime/issues/2347) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#2347](https://github.com/9renpoto/upptime/issues/2347#issuecomment-2148303684) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗ Opened issue [#2347](https://github.com/9renpoto/upptime/issues/2347) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ❌ Closed PR [#1037](https://github.com/g59/bot/pull/1037) in [g59/bot](https://github.com/g59/bot)
+5. 🗣 Commented on [#2346](https://github.com/9renpoto/upptime/issues/2346#issuecomment-2146345908) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
