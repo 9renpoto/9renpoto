@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1855](https://github.com/g59/nestjs-plugins/pull/1855) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#694](https://github.com/mentos1386/nest-raven/pull/694) in [mentos1386/nest-raven](https://github.com/mentos1386/nest-raven)
-3. 🗣 Commented on [#2484](https://github.com/9renpoto/upptime/issues/2484#issuecomment-2198784271) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🔒 Closed issue [#2484](https://github.com/9renpoto/upptime/issues/2484) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. ❗ Opened issue [#2484](https://github.com/9renpoto/upptime/issues/2484) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🔒 Closed issue [#2487](https://github.com/9renpoto/upptime/issues/2487) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#2487](https://github.com/9renpoto/upptime/issues/2487#issuecomment-2199364186) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ❗ Opened issue [#2487](https://github.com/9renpoto/upptime/issues/2487) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🗣 Commented on [#2486](https://github.com/9renpoto/upptime/issues/2486#issuecomment-2199299791) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🔒 Closed issue [#2486](https://github.com/9renpoto/upptime/issues/2486) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
