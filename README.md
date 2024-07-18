@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [二度寝](https://9renpoto.win/entry/2024/07/18/going_back_to_sleep)
 - [朝型](https://9renpoto.win/entry/2024/05/29/im-an-early)
 - [子供が生まれました](https://9renpoto.win/entry/2024/04/18/hello-world)
 - [紙の本を読む](https://9renpoto.win/entry/2024/02/25/reading-papar-book)
 - [ROLLCAKE株式会社にJoinしました](https://9renpoto.win/entry/2024/02/11/join)
-- [eza のあるカラフルな生活](https://9renpoto.win/entry/2024/02/01/eza)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
