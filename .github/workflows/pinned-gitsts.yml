@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * *"
 jobs:
   waka-box:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
       - name: waka-box
@@ -16,7 +16,7 @@ jobs:
           GIST_ID: 95a6308934c189cbc1db424c014f529e
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
   productive-box:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
       - name: productive-box
@@ -26,7 +26,7 @@ jobs:
           GIST_ID: b5c387b417293ccb63e839f22f1c747c
           TIMEZONE: Asia/Tokyo
   github-status-box:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/setup-node@v4
         with:
