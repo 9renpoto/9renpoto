@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2024年終わり](https://9renpoto.win/entry/2024/12/31/2024-end)
-- [今抱えている目標や夢](https://9renpoto.win/entry/2024/12/02/objective)
-- [「書く習慣」という本が面白かった](https://9renpoto.win/entry/2024/11/11/leave_a_feeling_sad)
-- [「GitLabに学ぶ世界最先端のリモート組織のつくりかた」を読んだ](https://9renpoto.win/entry/2024/09/10/remote_organization)
-- [体脂肪↗](https://9renpoto.win/entry/2024/08/12/gaining_fat)
+- [こんばんは](https://sizu.me/9renpoto/posts/5a0i98779w97)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
