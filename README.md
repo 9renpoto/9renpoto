@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   12 hrs 52 mins  ██████████▓░░░░░░░░░░░░░░   43.12 %
-TypeScript   9 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   31.63 %
-SQL          3 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-YAML         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Terraform    1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+JavaScript   10 hrs 45 mins  ███████████▒░░░░░░░░░░░░░   44.82 %
+TypeScript   6 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+SQL          3 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+Terraform    1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+YAML         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
