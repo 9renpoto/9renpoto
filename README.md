@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1935](https://github.com/g59/nestjs-plugins/pull/1935#issuecomment-2693591103) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. ❌ Closed PR [#1910](https://github.com/g59/nestjs-plugins/pull/1910) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🚀 Published release [v10.6.0](https://github.com/g59/nestjs-plugins/releases/tag/v10.6.0) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#1928](https://github.com/g59/nestjs-plugins/pull/1928) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#1937](https://github.com/g59/nestjs-plugins/pull/1937) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🗣 Commented on [#1935](https://github.com/g59/nestjs-plugins/pull/1935#issuecomment-2695994481) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🗣 Commented on [#1935](https://github.com/g59/nestjs-plugins/pull/1935#issuecomment-2693591103) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. ❌ Closed PR [#1910](https://github.com/g59/nestjs-plugins/pull/1910) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 🚀 Published release [v10.6.0](https://github.com/g59/nestjs-plugins/releases/tag/v10.6.0) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 🎉 Merged PR [#1928](https://github.com/g59/nestjs-plugins/pull/1928) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
