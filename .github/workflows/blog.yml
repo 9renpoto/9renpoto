@@ -10,6 +10,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@1.8.8
+      - uses: gautamkrishnar/blog-post-workflow@1.8.9
         with:
           feed_list: "https://9renpoto.win/rss.xml,https://sizu.me/9renpoto/rss"
