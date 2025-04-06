@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [近況](https://9renpoto.win/entry/2025/04/05/current_status)
 - [「怒りが消える」心のトレーニングを読んだ](https://9renpoto.win/entry/2025/02/01/anger-management)
 - [2024年終わり](https://9renpoto.win/entry/2024/12/31/2024-end)
 - [今抱えている目標や夢](https://9renpoto.win/entry/2024/12/02/objective)
 - [「書く習慣」という本が面白かった](https://9renpoto.win/entry/2024/11/11/leave_a_feeling_sad)
-- [「GitLabに学ぶ世界最先端のリモート組織のつくりかた」を読んだ](https://9renpoto.win/entry/2024/09/10/remote_organization)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
