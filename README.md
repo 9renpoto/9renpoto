@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#42](https://github.com/krislefeber/nestjs-dataloader/pull/42) in [krislefeber/nestjs-dataloader](https://github.com/krislefeber/nestjs-dataloader)
-2. ❌ Closed PR [#79](https://github.com/Davide-Gheri/nestjs-algoliasearch/pull/79) in [Davide-Gheri/nestjs-algoliasearch](https://github.com/Davide-Gheri/nestjs-algoliasearch)
-3. ❌ Closed PR [#337](https://github.com/taion/graphql-type-json/pull/337) in [taion/graphql-type-json](https://github.com/taion/graphql-type-json)
-4. 🎉 Merged PR [#8599](https://github.com/9renpoto/upptime/pull/8599) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. 💪 Opened PR [#8599](https://github.com/9renpoto/upptime/pull/8599) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#2321](https://github.com/9renpoto/.59-node/pull/2321) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+2. 🎉 Merged PR [#2324](https://github.com/9renpoto/.59-node/pull/2324) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+3. ❌ Closed PR [#1719](https://github.com/9renpoto/.59-node/pull/1719) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. ❌ Closed PR [#1](https://github.com/9renpoto/sequelize-auto/pull/1) in [9renpoto/sequelize-auto](https://github.com/9renpoto/sequelize-auto)
+5. ❌ Closed PR [#42](https://github.com/krislefeber/nestjs-dataloader/pull/42) in [krislefeber/nestjs-dataloader](https://github.com/krislefeber/nestjs-dataloader)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
