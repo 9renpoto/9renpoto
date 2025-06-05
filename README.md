@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2321](https://github.com/9renpoto/.59-node/pull/2321) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-2. 🎉 Merged PR [#2324](https://github.com/9renpoto/.59-node/pull/2324) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-3. ❌ Closed PR [#1719](https://github.com/9renpoto/.59-node/pull/1719) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. ❌ Closed PR [#1](https://github.com/9renpoto/sequelize-auto/pull/1) in [9renpoto/sequelize-auto](https://github.com/9renpoto/sequelize-auto)
-5. ❌ Closed PR [#42](https://github.com/krislefeber/nestjs-dataloader/pull/42) in [krislefeber/nestjs-dataloader](https://github.com/krislefeber/nestjs-dataloader)
+1. 🎉 Merged PR [#1961](https://github.com/g59/nestjs-plugins/pull/1961) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#2321](https://github.com/9renpoto/.59-node/pull/2321) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+3. 🎉 Merged PR [#2324](https://github.com/9renpoto/.59-node/pull/2324) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. ❌ Closed PR [#1719](https://github.com/9renpoto/.59-node/pull/1719) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. ❌ Closed PR [#1](https://github.com/9renpoto/sequelize-auto/pull/1) in [9renpoto/sequelize-auto](https://github.com/9renpoto/sequelize-auto)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
