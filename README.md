@@ -41,11 +41,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 21 mins    ███████████████████░░░░░░   75.66 %
-Go           16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-JSON         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
