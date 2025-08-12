@@ -8,7 +8,7 @@ jobs:
   waka-box:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: waka-box
         uses: matchai/waka-box@v5.0.0
         env:
@@ -18,7 +18,7 @@ jobs:
   productive-box:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: productive-box
         uses: maxam2017/productive-box@v1.2.0
         env:
