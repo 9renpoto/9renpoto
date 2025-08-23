@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10668](https://github.com/9renpoto/upptime/pull/10668) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 💪 Opened PR [#10668](https://github.com/9renpoto/upptime/pull/10668) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🎉 Merged PR [#3946](https://github.com/9renpoto/frontend/pull/3946) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-4. 🎉 Merged PR [#122](https://github.com/9renpoto/.59-rs/pull/122) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
-5. 🎉 Merged PR [#123](https://github.com/9renpoto/.59-rs/pull/123) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
+1. 💪 Opened PR [#1971](https://github.com/g59/nestjs-plugins/pull/1971) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#10668](https://github.com/9renpoto/upptime/pull/10668) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. 💪 Opened PR [#10668](https://github.com/9renpoto/upptime/pull/10668) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🎉 Merged PR [#3946](https://github.com/9renpoto/frontend/pull/3946) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🎉 Merged PR [#122](https://github.com/9renpoto/.59-rs/pull/122) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
