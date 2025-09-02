@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         4 hrs 19 mins   ████████████▓░░░░░░░░░░░░   51.10 %
-Markdown     1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-YAML         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-JSON         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-JavaScript   33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Ruby         2 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.02 %
+JSON         59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
+Markdown     52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+YAML         45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+TypeScript   42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
 ```
 
 <!--END_SECTION:waka-->
