@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3969](https://github.com/9renpoto/frontend/pull/3969) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
-2. 💪 Opened PR [#117](https://github.com/9renpoto/win/pull/117) in [9renpoto/win](https://github.com/9renpoto/win)
-3. 💪 Opened PR [#2366](https://github.com/9renpoto/.59-node/pull/2366) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. 🎉 Merged PR [#2365](https://github.com/9renpoto/.59-node/pull/2365) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-5. 💪 Opened PR [#2365](https://github.com/9renpoto/.59-node/pull/2365) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+1. 🎉 Merged PR [#118](https://github.com/9renpoto/win/pull/118) in [9renpoto/win](https://github.com/9renpoto/win)
+2. 💪 Opened PR [#118](https://github.com/9renpoto/win/pull/118) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 🎉 Merged PR [#2366](https://github.com/9renpoto/.59-node/pull/2366) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. 🗣 Commented on [#3967](https://github.com/9renpoto/frontend/pull/3967#issuecomment-3263534263) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
+5. 🗣 Commented on [#3967](https://github.com/9renpoto/frontend/pull/3967#issuecomment-3263530137) in [9renpoto/frontend](https://github.com/9renpoto/frontend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
