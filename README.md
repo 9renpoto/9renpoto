@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1970](https://github.com/g59/nestjs-plugins/pull/1970#issuecomment-3264363980) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. ❌ Closed PR [#1972](https://github.com/g59/nestjs-plugins/pull/1972) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#1969](https://github.com/g59/nestjs-plugins/pull/1969) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#123](https://github.com/9renpoto/win/pull/123) in [9renpoto/win](https://github.com/9renpoto/win)
-5. 💪 Opened PR [#123](https://github.com/9renpoto/win/pull/123) in [9renpoto/win](https://github.com/9renpoto/win)
+1. 🎉 Merged PR [#1973](https://github.com/g59/nestjs-plugins/pull/1973) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 💪 Opened PR [#125](https://github.com/9renpoto/win/pull/125) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 🎉 Merged PR [#124](https://github.com/9renpoto/win/pull/124) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 💪 Opened PR [#124](https://github.com/9renpoto/win/pull/124) in [9renpoto/win](https://github.com/9renpoto/win)
+5. 💪 Opened PR [#1973](https://github.com/g59/nestjs-plugins/pull/1973) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
