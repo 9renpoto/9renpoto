@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/9renpoto/win/pull/126) in [9renpoto/win](https://github.com/9renpoto/win)
-2. 🚀 Published release [v11.0.0-beta.0](https://github.com/g59/nestjs-plugins/releases/tag/v11.0.0-beta.0) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🎉 Merged PR [#1976](https://github.com/g59/nestjs-plugins/pull/1976) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🗣 Commented on [#1976](https://github.com/g59/nestjs-plugins/pull/1976#issuecomment-3264925713) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🎉 Merged PR [#1975](https://github.com/g59/nestjs-plugins/pull/1975) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🎉 Merged PR [#24](https://github.com/9renpoto/time-wise/pull/24) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+2. 💪 Opened PR [#24](https://github.com/9renpoto/time-wise/pull/24) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+3. 🎉 Merged PR [#23](https://github.com/9renpoto/time-wise/pull/23) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+4. 🎉 Merged PR [#22](https://github.com/9renpoto/time-wise/pull/22) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+5. 🎉 Merged PR [#21](https://github.com/9renpoto/time-wise/pull/21) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
