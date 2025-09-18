@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/9renpoto/vgmo/pull/35) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-2. ❌ Closed PR [#26](https://github.com/9renpoto/vgmo/pull/26) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-3. 🗣 Commented on [#1966](https://github.com/g59/nestjs-plugins/pull/1966#issuecomment-3301294919) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. ❌ Closed PR [#32](https://github.com/9renpoto/vgmo/pull/32) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-5. 🎉 Merged PR [#33](https://github.com/9renpoto/vgmo/pull/33) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+1. 🎉 Merged PR [#35](https://github.com/9renpoto/vgmo/pull/35) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. 💪 Opened PR [#35](https://github.com/9renpoto/vgmo/pull/35) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+3. ❌ Closed PR [#26](https://github.com/9renpoto/vgmo/pull/26) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. 🗣 Commented on [#1966](https://github.com/g59/nestjs-plugins/pull/1966#issuecomment-3301294919) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. ❌ Closed PR [#32](https://github.com/9renpoto/vgmo/pull/32) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
