@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11715](https://github.com/9renpoto/upptime/pull/11715) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 💪 Opened PR [#11715](https://github.com/9renpoto/upptime/pull/11715) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🗣 Commented on [#32](https://github.com/9renpoto/time-wise/pull/32#issuecomment-3332456794) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-4. ❌ Closed PR [#117](https://github.com/9renpoto/win/pull/117) in [9renpoto/win](https://github.com/9renpoto/win)
-5. 🎉 Merged PR [#137](https://github.com/9renpoto/win/pull/137) in [9renpoto/win](https://github.com/9renpoto/win)
+1. 💪 Opened PR [#47](https://github.com/9renpoto/vgmo/pull/47) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. 🎉 Merged PR [#1](https://github.com/9renpoto/astronvim_config/pull/1) in [9renpoto/astronvim_config](https://github.com/9renpoto/astronvim_config)
+3. 🎉 Merged PR [#11715](https://github.com/9renpoto/upptime/pull/11715) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 💪 Opened PR [#11715](https://github.com/9renpoto/upptime/pull/11715) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 🗣 Commented on [#32](https://github.com/9renpoto/time-wise/pull/32#issuecomment-3332456794) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
