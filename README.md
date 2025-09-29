@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/9renpoto/vgmo/pull/45) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-2. 💪 Opened PR [#49](https://github.com/9renpoto/vgmo/pull/49) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-3. 🗣 Commented on [#45](https://github.com/9renpoto/vgmo/pull/45#issuecomment-3342451704) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-4. 🎉 Merged PR [#40](https://github.com/9renpoto/vgmo/pull/40) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-5. 🎉 Merged PR [#48](https://github.com/9renpoto/vgmo/pull/48) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+1. 🎉 Merged PR [#376](https://github.com/9renpoto/dotfiles/pull/376) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 💪 Opened PR [#376](https://github.com/9renpoto/dotfiles/pull/376) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 🎉 Merged PR [#45](https://github.com/9renpoto/vgmo/pull/45) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. 💪 Opened PR [#49](https://github.com/9renpoto/vgmo/pull/49) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+5. 🗣 Commented on [#45](https://github.com/9renpoto/vgmo/pull/45#issuecomment-3342451704) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
