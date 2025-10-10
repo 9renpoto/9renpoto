@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#386](https://github.com/9renpoto/dotfiles/pull/386) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 💪 Opened PR [#71](https://github.com/9renpoto/vgmo/pull/71) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-3. ❌ Closed PR [#2401](https://github.com/9renpoto/.59-node/pull/2401) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. ❌ Closed PR [#120](https://github.com/9renpoto/.59/pull/120) in [9renpoto/.59](https://github.com/9renpoto/.59)
-5. 🎉 Merged PR [#1991](https://github.com/g59/nestjs-plugins/pull/1991) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🎉 Merged PR [#385](https://github.com/9renpoto/dotfiles/pull/385) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 🎉 Merged PR [#386](https://github.com/9renpoto/dotfiles/pull/386) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 💪 Opened PR [#71](https://github.com/9renpoto/vgmo/pull/71) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. ❌ Closed PR [#2401](https://github.com/9renpoto/.59-node/pull/2401) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. ❌ Closed PR [#120](https://github.com/9renpoto/.59/pull/120) in [9renpoto/.59](https://github.com/9renpoto/.59)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
