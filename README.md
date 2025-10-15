@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2408](https://github.com/9renpoto/.59-node/pull/2408) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-2. 💪 Opened PR [#11](https://github.com/9renpoto/casemd/pull/11) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-3. 🎉 Merged PR [#74](https://github.com/9renpoto/vgmo/pull/74) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-4. 💪 Opened PR [#74](https://github.com/9renpoto/vgmo/pull/74) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-5. 🎉 Merged PR [#2407](https://github.com/9renpoto/.59-node/pull/2407) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+1. ❌ Assigned PR [#40](undefined) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+2. ❌ Assigned PR [#11](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+3. ❌ Labeled PR [#11](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+4. 💪 Opened PR [#11](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. 💪 Opened PR [#74](undefined) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
