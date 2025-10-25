@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-2. ❌ Labeled PR [#12](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-3. 💪 Opened PR [#12](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-4. ❌ Assigned PR [#389](undefined) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-5. 💪 Opened PR [#389](undefined) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+1. ❌ Labeled PR [#13](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+2. 💪 Opened PR [#13](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+3. 🗣 Commented on [#81](https://github.com/9renpoto/vgmo/pull/81#issuecomment-3445821454) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. ❌ Closed PR [#10](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. ❌ Labeled PR [#12](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
