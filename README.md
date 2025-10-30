@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1990](undefined) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🚀 Published release [v11.0.1](https://github.com/g59/nestjs-plugins/releases/tag/v11.0.1) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. ❌ Assigned PR [#2000](undefined) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🗣 Commented on [#1995](https://github.com/g59/nestjs-plugins/pull/1995#issuecomment-3459416772) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. ❌ Assigned PR [#1998](undefined) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. ❌ Assigned PR [#142](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+2. 💪 Opened PR [#142](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+3. ❌ Labeled PR [#141](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 💪 Opened PR [#141](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+5. ❌ Closed PR [#1990](undefined) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
