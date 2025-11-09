@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#17](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-2. 💪 Opened PR [#17](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-3. 💪 Opened PR [#391](undefined) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-4. 💪 Opened PR [#390](undefined) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-5. ❌ Assigned PR [#2006](undefined) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. ❌ Labeled PR [#18](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+2. 💪 Opened PR [#18](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+3. ❌ Assigned PR [#17](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+4. 💪 Opened PR [#17](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. 💪 Opened PR [#391](undefined) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
