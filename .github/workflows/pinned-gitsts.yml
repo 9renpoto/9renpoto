@@ -8,7 +8,7 @@ jobs:
   productive-box:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: productive-box
         uses: maxam2017/productive-box@v1.2.0
         env:
