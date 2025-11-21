@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2449](undefined) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-2. 🚀 Published release [v0.6.0](https://github.com/9renpoto/.59/releases/tag/v0.6.0) in [9renpoto/.59](https://github.com/9renpoto/.59)
-3. 🗣 Commented on [#102](https://github.com/9renpoto/vgmo/pull/102#issuecomment-3539534416) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-4. ❌ Closed PR [#9](undefined) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-5. ❌ Closed PR [#2427](undefined) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+1. 💪 Opened PR [#2454](undefined) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+2. ❌ Assigned PR [#109](undefined) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+3. 💪 Opened PR [#109](undefined) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. 💪 Opened PR [#108](undefined) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+5. ❌ Assigned PR [#149](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
