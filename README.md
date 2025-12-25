@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/9renpoto/win/pull/150#issuecomment-3690770036) in [9renpoto/win](https://github.com/9renpoto/win)
-2. ❌ Merged PR [#151](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
-3. ❌ Assigned PR [#151](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
-4. 💪 Opened PR [#151](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
-5. 🗣 Commented on [#2018](https://github.com/g59/nestjs-plugins/pull/2018#issuecomment-3690705165) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 💪 Opened PR [#152](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+2. 🗣 Commented on [#150](https://github.com/9renpoto/win/pull/150#issuecomment-3690770036) in [9renpoto/win](https://github.com/9renpoto/win)
+3. ❌ Merged PR [#151](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+4. ❌ Assigned PR [#151](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+5. 💪 Opened PR [#151](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
