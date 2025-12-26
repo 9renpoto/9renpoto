@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#156](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
-2. 💪 Opened PR [#156](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
-3. ❌ Merged PR [#153](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
-4. ❌ Closed PR [#155](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
-5. ❌ Merged PR [#154](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+1. ❌ Merged PR [#156](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+2. ❌ Assigned PR [#156](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 💪 Opened PR [#156](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+4. ❌ Merged PR [#153](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
+5. ❌ Closed PR [#155](undefined) in [9renpoto/win](https://github.com/9renpoto/win)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
