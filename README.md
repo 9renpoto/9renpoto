@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [生成AIと私](https://9renpoto.win/entry/2025/12/25/output)
 - [病児保育](https://9renpoto.win/entry/2025/09/25/childcare_for_sick_children)
 - [近況](https://9renpoto.win/entry/2025/04/05/current_status)
 - [「怒りが消える」心のトレーニングを読んだ](https://9renpoto.win/entry/2025/02/01/anger-management)
 - [2024年終わり](https://9renpoto.win/entry/2024/12/31/2024-end)
-- [今抱えている目標や夢](https://9renpoto.win/entry/2024/12/02/objective)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
