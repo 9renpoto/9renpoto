@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   13 mins         ████████████▓░░░░░░░░░░░░   50.37 %
-Ruby   12 mins         ████████████▒░░░░░░░░░░░░   49.44 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JSON   13 mins         █████████████████████████   99.62 %
+Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
