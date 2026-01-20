@@ -41,9 +41,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   13 mins         █████████████████████████   99.62 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Bash         1 hr            ████████████████▒░░░░░░░░   65.82 %
+JSON         18 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+Makefile     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
 
 <!--END_SECTION:waka-->
