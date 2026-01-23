@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 hr 2 mins     ███████████████░░░░░░░░░░   60.50 %
-Other        16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-JSON         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Makefile     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Bash         1 hr 2 mins     ███████████████▓░░░░░░░░░   62.85 %
+Other        16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Makefile     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
