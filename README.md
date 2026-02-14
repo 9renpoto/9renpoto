@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [近況](https://9renpoto.win/entry/2026/02/13/current_status)
 - [選挙](https://9renpoto.win/entry/2026/02/04/election)
 - [2025年終わり](https://9renpoto.win/entry/2026/01/01/2026-yew-year)
 - [生成AIと私](https://9renpoto.win/entry/2025/12/25/output)
 - [病児保育](https://9renpoto.win/entry/2025/09/25/childcare_for_sick_children)
-- [近況](https://9renpoto.win/entry/2025/04/05/current_status)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
