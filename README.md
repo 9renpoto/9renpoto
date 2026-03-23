@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#164](https://github.com/9renpoto/win/pull/164) in [9renpoto/win](https://github.com/9renpoto/win)
-2. ℹ️ Assigned PR [#164](https://github.com/9renpoto/win/pull/164) in [9renpoto/win](https://github.com/9renpoto/win)
-3. 💪 Opened PR [#164](https://github.com/9renpoto/win/pull/164) in [9renpoto/win](https://github.com/9renpoto/win)
-4. 🚀 Published release [v11.0.2](https://github.com/g59/nestjs-plugins/releases/tag/v11.0.2) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. ℹ️ Assigned PR [#2042](https://github.com/g59/nestjs-plugins/pull/2042) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 💪 Opened PR [#165](https://github.com/9renpoto/win/pull/165) in [9renpoto/win](https://github.com/9renpoto/win)
+2. 🎉 Merged PR [#164](https://github.com/9renpoto/win/pull/164) in [9renpoto/win](https://github.com/9renpoto/win)
+3. ℹ️ Assigned PR [#164](https://github.com/9renpoto/win/pull/164) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 💪 Opened PR [#164](https://github.com/9renpoto/win/pull/164) in [9renpoto/win](https://github.com/9renpoto/win)
+5. 🚀 Published release [v11.0.2](https://github.com/g59/nestjs-plugins/releases/tag/v11.0.2) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
