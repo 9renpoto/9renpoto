@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/9renpoto/.59-rs/pull/132) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
-2. 💪 Opened PR [#72](https://github.com/9renpoto/time-wise/pull/72) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-3. 🎉 Merged PR [#2545](https://github.com/9renpoto/.59-node/pull/2545) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. 💪 Opened PR [#2545](https://github.com/9renpoto/.59-node/pull/2545) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-5. 🎉 Merged PR [#402](https://github.com/9renpoto/dotfiles/pull/402) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+1. ❌ Closed PR [#162](https://github.com/9renpoto/win/pull/162) in [9renpoto/win](https://github.com/9renpoto/win)
+2. 🎉 Merged PR [#176](https://github.com/9renpoto/win/pull/176) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 💪 Opened PR [#176](https://github.com/9renpoto/win/pull/176) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 🎉 Merged PR [#31](https://github.com/9renpoto/casemd/pull/31) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. 💪 Opened PR [#31](https://github.com/9renpoto/casemd/pull/31) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
