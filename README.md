@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#207](https://github.com/9renpoto/vgmo/pull/207) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-2. 💪 Opened PR [#207](https://github.com/9renpoto/vgmo/pull/207) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-3. ❌ Closed PR [#162](https://github.com/9renpoto/win/pull/162) in [9renpoto/win](https://github.com/9renpoto/win)
-4. 🎉 Merged PR [#176](https://github.com/9renpoto/win/pull/176) in [9renpoto/win](https://github.com/9renpoto/win)
-5. 💪 Opened PR [#176](https://github.com/9renpoto/win/pull/176) in [9renpoto/win](https://github.com/9renpoto/win)
+1. 🎉 Merged PR [#25](https://github.com/9renpoto/homelabs/pull/25) in [9renpoto/homelabs](https://github.com/9renpoto/homelabs)
+2. ℹ️ Assigned PR [#25](https://github.com/9renpoto/homelabs/pull/25) in [9renpoto/homelabs](https://github.com/9renpoto/homelabs)
+3. 💪 Opened PR [#25](https://github.com/9renpoto/homelabs/pull/25) in [9renpoto/homelabs](https://github.com/9renpoto/homelabs)
+4. 🎉 Merged PR [#24](https://github.com/9renpoto/homelabs/pull/24) in [9renpoto/homelabs](https://github.com/9renpoto/homelabs)
+5. 💪 Opened PR [#24](https://github.com/9renpoto/homelabs/pull/24) in [9renpoto/homelabs](https://github.com/9renpoto/homelabs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
