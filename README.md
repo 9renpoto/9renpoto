@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#407](https://github.com/9renpoto/dotfiles/pull/407) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 💪 Opened PR [#407](https://github.com/9renpoto/dotfiles/pull/407) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-3. 🎉 Merged PR [#406](https://github.com/9renpoto/dotfiles/pull/406) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-4. 💪 Opened PR [#406](https://github.com/9renpoto/dotfiles/pull/406) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-5. 🎉 Merged PR [#51](https://github.com/9renpoto/homelabs/pull/51) in [9renpoto/homelabs](https://github.com/9renpoto/homelabs)
+1. 🎉 Merged PR [#408](https://github.com/9renpoto/dotfiles/pull/408) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 💪 Opened PR [#408](https://github.com/9renpoto/dotfiles/pull/408) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 🎉 Merged PR [#407](https://github.com/9renpoto/dotfiles/pull/407) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+4. 💪 Opened PR [#407](https://github.com/9renpoto/dotfiles/pull/407) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+5. 🎉 Merged PR [#406](https://github.com/9renpoto/dotfiles/pull/406) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
