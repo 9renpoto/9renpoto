@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   43 mins         ████████████████████▓░░░░   83.02 %
-Other      4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-JSON       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-sh         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Markdown             16 mins         ████████████░░░░░░░░░░░░░   47.73 %
+Other                14 mins         ██████████▒░░░░░░░░░░░░░░   41.53 %
+JSON                 3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+JSON with Comments   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
