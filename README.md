@@ -41,8 +41,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   11 mins         ████████████████████████▓   98.84 %
-Ruby    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other       11 mins         █████████████▓░░░░░░░░░░░   54.64 %
+gitignore   5 mins          ███████░░░░░░░░░░░░░░░░░░   27.84 %
+Ruby        1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Markdown    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Bash        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
