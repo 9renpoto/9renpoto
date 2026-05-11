@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby   11 mins         ███████████████████████▓░   94.16 %
-YAML   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Ruby   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
