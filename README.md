@@ -41,9 +41,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby   11 mins         ██████████░░░░░░░░░░░░░░░   39.63 %
-TOML   9 mins          ████████░░░░░░░░░░░░░░░░░   31.69 %
-tmux   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.68 %
+Ruby   11 mins         ████████▒░░░░░░░░░░░░░░░░   33.05 %
+TOML   9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+tmux   8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.92 %
+YAML   5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
 ```
 
 <!--END_SECTION:waka-->
