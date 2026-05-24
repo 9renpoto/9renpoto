@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13067](https://github.com/9renpoto/upptime/issues/13067) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. 🗣 Commented on [#13067](https://github.com/9renpoto/upptime/issues/13067#issuecomment-4512418312) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ℹ️ Labeled issue [#13067](https://github.com/9renpoto/upptime/issues/13067) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ℹ️ Labeled issue [#13067](https://github.com/9renpoto/upptime/issues/13067) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. ❗ Opened issue [#13067](https://github.com/9renpoto/upptime/issues/13067) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#170](https://github.com/9renpoto/.59/pull/170) in [9renpoto/.59](https://github.com/9renpoto/.59)
+2. 💪 Opened PR [#170](https://github.com/9renpoto/.59/pull/170) in [9renpoto/.59](https://github.com/9renpoto/.59)
+3. ❌ Closed PR [#158](https://github.com/9renpoto/.59/pull/158) in [9renpoto/.59](https://github.com/9renpoto/.59)
+4. 🚀 Published release [v0.8.0](https://github.com/9renpoto/.59/releases/tag/v0.8.0) in [9renpoto/.59](https://github.com/9renpoto/.59)
+5. 🎉 Merged PR [#169](https://github.com/9renpoto/.59/pull/169) in [9renpoto/.59](https://github.com/9renpoto/.59)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
