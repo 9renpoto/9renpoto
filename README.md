@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-ERB         13 mins         ████████░░░░░░░░░░░░░░░░░   32.56 %
-Markdown    10 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
-TOML        6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-Other       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Text        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Other                41 mins         ████████▓░░░░░░░░░░░░░░░░   34.50 %
+Markdown             32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+JSON with Comments   29 mins         ██████░░░░░░░░░░░░░░░░░░░   24.34 %
+ERB                  13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Text                 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
