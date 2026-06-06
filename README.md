@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   23 mins         ████████████████████████▓   99.30 %
+JSON   23 mins         ████████████████████████▓   98.61 %
 Ruby   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
