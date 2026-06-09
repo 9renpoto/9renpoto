@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v11.0.2](https://github.com/g59/nestjs-plugins/releases/tag/v11.0.2) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. ℹ️ Assigned PR [#2095](https://github.com/g59/nestjs-plugins/pull/2095) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. ℹ️ Labeled PR [#2094](https://github.com/g59/nestjs-plugins/pull/2094) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#2094](https://github.com/g59/nestjs-plugins/pull/2094) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 💪 Opened PR [#2094](https://github.com/g59/nestjs-plugins/pull/2094) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. ❌ Closed PR [#274](https://github.com/9renpoto/vgmo/pull/274) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. 🎉 Merged PR [#45](https://github.com/9renpoto/casemd/pull/45) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+3. 💪 Opened PR [#45](https://github.com/9renpoto/casemd/pull/45) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+4. 🎉 Merged PR [#277](https://github.com/9renpoto/vgmo/pull/277) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+5. 💪 Opened PR [#277](https://github.com/9renpoto/vgmo/pull/277) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
