@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2580](https://github.com/9renpoto/.59-node/pull/2580) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-2. 🗣 Commented on [#2580](https://github.com/9renpoto/.59-node/pull/2580#issuecomment-4656940492) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-3. 🗣 Commented on [#2582](https://github.com/9renpoto/.59-node/pull/2582#issuecomment-4656904153) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. ℹ️ Assigned PR [#2582](https://github.com/9renpoto/.59-node/pull/2582) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-5. 🗣 Commented on [#2581](https://github.com/9renpoto/.59-node/pull/2581#issuecomment-4656880187) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+1. ❌ Closed PR [#412](https://github.com/9renpoto/dotfiles/pull/412) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 💪 Opened PR [#412](https://github.com/9renpoto/dotfiles/pull/412) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. ℹ️ Assigned PR [#2580](https://github.com/9renpoto/.59-node/pull/2580) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+4. 🗣 Commented on [#2580](https://github.com/9renpoto/.59-node/pull/2580#issuecomment-4656940492) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
+5. 🗣 Commented on [#2582](https://github.com/9renpoto/.59-node/pull/2582#issuecomment-4656904153) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
