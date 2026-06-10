@@ -41,10 +41,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 mins          █████████████▓░░░░░░░░░░░   54.49 %
-TOML       2 mins          █████████▓░░░░░░░░░░░░░░░   38.46 %
-Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-YAML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Docker     17 mins         ███████████▒░░░░░░░░░░░░░   45.35 %
+Ruby       13 mins         ████████▒░░░░░░░░░░░░░░░░   33.69 %
+JSON       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Markdown   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+TOML       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 ```
 
 <!--END_SECTION:waka-->
