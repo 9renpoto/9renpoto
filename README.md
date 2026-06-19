@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#186](https://github.com/9renpoto/win/pull/186) in [9renpoto/win](https://github.com/9renpoto/win)
-2. 💪 Opened PR [#186](https://github.com/9renpoto/win/pull/186) in [9renpoto/win](https://github.com/9renpoto/win)
-3. 🎉 Merged PR [#88](https://github.com/9renpoto/9renpoto/pull/88) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-4. ℹ️ Labeled issue [#13077](https://github.com/9renpoto/upptime/issues/13077) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. ❌ Closed PR [#293](https://github.com/9renpoto/vgmo/pull/293) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. 🎉 Merged PR [#186](https://github.com/9renpoto/win/pull/186) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 💪 Opened PR [#186](https://github.com/9renpoto/win/pull/186) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 🎉 Merged PR [#88](https://github.com/9renpoto/9renpoto/pull/88) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
 5. ℹ️ Labeled issue [#13077](https://github.com/9renpoto/upptime/issues/13077) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
