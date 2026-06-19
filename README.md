@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![follow](https://img.shields.io/github/followers/9renpoto?label=Follow&style=social)
-![visitors](https://komarev.com/ghpvc/?username=9renpoto&label=Profile%20views&color=0e75b6&style=flat)
 
 ### Blogs posts
 
