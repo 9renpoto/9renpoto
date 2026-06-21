@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13080](https://github.com/9renpoto/upptime/issues/13080) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. ℹ️ Labeled issue [#13080](https://github.com/9renpoto/upptime/issues/13080) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ℹ️ Labeled issue [#13078](https://github.com/9renpoto/upptime/issues/13078) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ❌ Closed PR [#293](https://github.com/9renpoto/vgmo/pull/293) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-5. 🎉 Merged PR [#186](https://github.com/9renpoto/win/pull/186) in [9renpoto/win](https://github.com/9renpoto/win)
+1. 🔒 Closed issue [#13081](https://github.com/9renpoto/upptime/issues/13081) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. ℹ️ Labeled issue [#13081](https://github.com/9renpoto/upptime/issues/13081) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ℹ️ Labeled issue [#13081](https://github.com/9renpoto/upptime/issues/13081) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🔒 Closed issue [#13080](https://github.com/9renpoto/upptime/issues/13080) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. ℹ️ Labeled issue [#13080](https://github.com/9renpoto/upptime/issues/13080) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
