@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      36 mins         ████████▓░░░░░░░░░░░░░░░░   35.12 %
-Docker     33 mins         ████████░░░░░░░░░░░░░░░░░   32.20 %
-Markdown   22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-Text       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Jsonnet    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Other       36 mins         ████████▒░░░░░░░░░░░░░░░░   33.64 %
+Docker      33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.94 %
+Markdown    23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Text        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Jsonnet     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
