@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#13084](https://github.com/9renpoto/upptime/issues/13084) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. ℹ️ Labeled issue [#13084](https://github.com/9renpoto/upptime/issues/13084) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗ Opened issue [#13084](https://github.com/9renpoto/upptime/issues/13084) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ℹ️ Assigned PR [#88](https://github.com/9renpoto/9renpoto/pull/88) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-5. 🗣 Commented on [#13074](https://github.com/9renpoto/upptime/issues/13074#issuecomment-4741648025) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🔒 Closed issue [#13085](https://github.com/9renpoto/upptime/issues/13085) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🗣 Commented on [#13085](https://github.com/9renpoto/upptime/issues/13085#issuecomment-4817106923) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ℹ️ Labeled issue [#13085](https://github.com/9renpoto/upptime/issues/13085) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ℹ️ Labeled issue [#13085](https://github.com/9renpoto/upptime/issues/13085) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. ❗ Opened issue [#13085](https://github.com/9renpoto/upptime/issues/13085) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
