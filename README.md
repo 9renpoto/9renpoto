@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/9renpoto/time-wise/pull/98) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-2. ℹ️ Assigned PR [#98](https://github.com/9renpoto/time-wise/pull/98) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-3. 💪 Opened PR [#98](https://github.com/9renpoto/time-wise/pull/98) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-4. ℹ️ Assigned PR [#420](https://github.com/9renpoto/dotfiles/pull/420) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-5. 🎉 Merged PR [#58](https://github.com/9renpoto/casemd/pull/58) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+1. 💪 Opened PR [#2105](https://github.com/g59/nestjs-plugins/pull/2105) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#98](https://github.com/9renpoto/time-wise/pull/98) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+3. ℹ️ Assigned PR [#98](https://github.com/9renpoto/time-wise/pull/98) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+4. 💪 Opened PR [#98](https://github.com/9renpoto/time-wise/pull/98) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+5. ℹ️ Assigned PR [#420](https://github.com/9renpoto/dotfiles/pull/420) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
