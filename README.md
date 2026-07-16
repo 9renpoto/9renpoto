@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.82 %
-Swift      1 hr 52 mins    ██████░░░░░░░░░░░░░░░░░░░   24.10 %
-Other      1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-TOML       1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-Bash       24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Swift        1 hr 52 mins    ███████░░░░░░░░░░░░░░░░░░   27.69 %
+TOML         1 hr 40 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
+Markdown     1 hr 35 mins    ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+YAML         36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+JSON         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 ```
 
 <!--END_SECTION:waka-->
