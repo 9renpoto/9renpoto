@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1801](https://github.com/g59/nestjs-plugins/issues/1801) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🗣 Commented on [#1801](https://github.com/g59/nestjs-plugins/issues/1801#issuecomment-5043470949) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🔒 Closed issue [#1917](https://github.com/g59/nestjs-plugins/issues/1917) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🗣 Commented on [#1917](https://github.com/g59/nestjs-plugins/issues/1917#issuecomment-5043432135) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🔒 Closed issue [#1450](https://github.com/g59/nestjs-plugins/issues/1450) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🗣 Commented on [#1901](https://github.com/g59/nestjs-plugins/issues/1901#issuecomment-5045693042) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#2109](https://github.com/g59/nestjs-plugins/pull/2109) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+3. 🔒 Closed issue [#2019](https://github.com/g59/nestjs-plugins/issues/2019) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. ℹ️ Assigned PR [#2109](https://github.com/g59/nestjs-plugins/pull/2109) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 💪 Opened PR [#2109](https://github.com/g59/nestjs-plugins/pull/2109) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
