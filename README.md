@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1901](https://github.com/g59/nestjs-plugins/issues/1901#issuecomment-5045693042) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-2. 🎉 Merged PR [#2109](https://github.com/g59/nestjs-plugins/pull/2109) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. 🔒 Closed issue [#2019](https://github.com/g59/nestjs-plugins/issues/2019) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. ℹ️ Assigned PR [#2109](https://github.com/g59/nestjs-plugins/pull/2109) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 💪 Opened PR [#2109](https://github.com/g59/nestjs-plugins/pull/2109) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🗣 Commented on [#13095](https://github.com/9renpoto/upptime/issues/13095#issuecomment-5049287206) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🔒 Closed issue [#13095](https://github.com/9renpoto/upptime/issues/13095) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ℹ️ Labeled issue [#13095](https://github.com/9renpoto/upptime/issues/13095) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ℹ️ Labeled issue [#13095](https://github.com/9renpoto/upptime/issues/13095) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. ❗ Opened issue [#13095](https://github.com/9renpoto/upptime/issues/13095) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
