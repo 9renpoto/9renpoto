@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        2 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   35.25 %
-YAML         2 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   34.13 %
-Kotlin       58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-Markdown     33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-TOML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+YAML         2 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   36.84 %
+Swift        1 hr 50 mins    ███████▓░░░░░░░░░░░░░░░░░   30.10 %
+Kotlin       58 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Markdown     33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+TOML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 ```
 
 <!--END_SECTION:waka-->
