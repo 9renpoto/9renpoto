@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#340](https://github.com/9renpoto/vgmo/pull/340) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-2. 💪 Opened PR [#205](https://github.com/9renpoto/win/pull/205) in [9renpoto/win](https://github.com/9renpoto/win)
-3. 🎉 Merged PR [#2603](https://github.com/9renpoto/.59-node/pull/2603) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-4. 💪 Opened PR [#2603](https://github.com/9renpoto/.59-node/pull/2603) in [9renpoto/.59-node](https://github.com/9renpoto/.59-node)
-5. 💪 Opened PR [#339](https://github.com/9renpoto/vgmo/pull/339) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+1. ❌ Closed PR [#189](https://github.com/9renpoto/win/pull/189) in [9renpoto/win](https://github.com/9renpoto/win)
+2. 💪 Opened PR [#114](https://github.com/9renpoto/time-wise/pull/114) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+3. 🎉 Merged PR [#205](https://github.com/9renpoto/win/pull/205) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 🎉 Merged PR [#113](https://github.com/9renpoto/time-wise/pull/113) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+5. 💪 Opened PR [#113](https://github.com/9renpoto/time-wise/pull/113) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
