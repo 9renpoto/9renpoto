@@ -40,11 +40,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     36 mins         ██████████░░░░░░░░░░░░░░░   39.57 %
-YAML       25 mins         ███████░░░░░░░░░░░░░░░░░░   28.23 %
-Markdown   14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-TOML       13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-Swift      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
