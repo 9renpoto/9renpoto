@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/9renpoto/time-wise/pull/129) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-2. 🎉 Merged PR [#128](https://github.com/9renpoto/time-wise/pull/128) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-3. 💪 Opened PR [#128](https://github.com/9renpoto/time-wise/pull/128) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-4. 💪 Opened PR [#127](https://github.com/9renpoto/time-wise/pull/127) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-5. 🎉 Merged PR [#126](https://github.com/9renpoto/time-wise/pull/126) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+1. 💪 Opened PR [#422](https://github.com/9renpoto/dotfiles/pull/422) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 🎉 Merged PR [#134](https://github.com/umeno3/time-wise/pull/134) in [umeno3/time-wise](https://github.com/umeno3/time-wise)
+3. 💪 Opened PR [#134](https://github.com/umeno3/time-wise/pull/134) in [umeno3/time-wise](https://github.com/umeno3/time-wise)
+4. 🎉 Merged PR [#129](https://github.com/umeno3/time-wise/pull/129) in [umeno3/time-wise](https://github.com/umeno3/time-wise)
+5. 💪 Opened PR [#129](https://github.com/umeno3/time-wise/pull/129) in [umeno3/time-wise](https://github.com/umeno3/time-wise)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
