@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#159](https://github.com/9renpoto/time-wise/pull/159) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-2. 🗣 Commented on [#13101](https://github.com/9renpoto/upptime/issues/13101#issuecomment-5310002009) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🔒 Closed issue [#13101](https://github.com/9renpoto/upptime/issues/13101) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ℹ️ Labeled issue [#13101](https://github.com/9renpoto/upptime/issues/13101) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. ℹ️ Labeled issue [#13101](https://github.com/9renpoto/upptime/issues/13101) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#69](https://github.com/9renpoto/casemd/pull/69) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+2. 💪 Opened PR [#69](https://github.com/9renpoto/casemd/pull/69) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+3. ℹ️ Labeled issue [#68](https://github.com/9renpoto/casemd/issues/68) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+4. ℹ️ Labeled issue [#68](https://github.com/9renpoto/casemd/issues/68) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. ❗ Opened issue [#68](https://github.com/9renpoto/casemd/issues/68) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
