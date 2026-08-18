@@ -40,7 +40,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown    28 mins         █████████████▓░░░░░░░░░░░   54.57 %
+TOML        15 mins         ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+Other       7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+sshconfig   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
