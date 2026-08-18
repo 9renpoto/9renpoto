@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [子供が生まれました](https://9renpoto.win/entry/2026/08/17/hello-world)
 - [キーボード⌨️を悩む旅](https://9renpoto.win/entry/2026/03/31/keyboard)
 - [近況](https://9renpoto.win/entry/2026/02/13/current_status)
 - [選挙](https://9renpoto.win/entry/2026/02/04/election)
 - [2025年終わり](https://9renpoto.win/entry/2026/01/01/2026-yew-year)
-- [生成AIと私](https://9renpoto.win/entry/2025/12/25/output)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
