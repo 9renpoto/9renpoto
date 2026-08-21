@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    28 mins         ██████████░░░░░░░░░░░░░░░   40.52 %
-Other       25 mins         █████████░░░░░░░░░░░░░░░░   36.06 %
-TOML        15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-sshconfig   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Kotlin      2 hrs 50 mins   ████████▓░░░░░░░░░░░░░░░░   34.85 %
+Markdown    1 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+YAML        1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+Other       47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+Bash        26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
