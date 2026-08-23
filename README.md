@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#168](https://github.com/9renpoto/time-wise/pull/168) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-2. 🎉 Merged PR [#192](https://github.com/9renpoto/.59/pull/192) in [9renpoto/.59](https://github.com/9renpoto/.59)
-3. 💪 Opened PR [#192](https://github.com/9renpoto/.59/pull/192) in [9renpoto/.59](https://github.com/9renpoto/.59)
-4. 🎉 Merged PR [#2124](https://github.com/g59/nestjs-plugins/pull/2124) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. 🗣 Commented on [#61](https://github.com/9renpoto/casemd/pull/61#issuecomment-5361908609) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+1. 🎉 Merged PR [#73](https://github.com/9renpoto/casemd/pull/73) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+2. 🔒 Closed issue [#65](https://github.com/9renpoto/casemd/issues/65) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+3. 🎉 Merged PR [#168](https://github.com/9renpoto/time-wise/pull/168) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+4. 💪 Opened PR [#73](https://github.com/9renpoto/casemd/pull/73) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. 💪 Opened PR [#168](https://github.com/9renpoto/time-wise/pull/168) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
