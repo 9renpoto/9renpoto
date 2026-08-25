@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#426](https://github.com/9renpoto/dotfiles/pull/426) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 🗣 Commented on [#13103](https://github.com/9renpoto/upptime/issues/13103#issuecomment-5386346797) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. 🔒 Closed issue [#13103](https://github.com/9renpoto/upptime/issues/13103) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ℹ️ Labeled issue [#13103](https://github.com/9renpoto/upptime/issues/13103) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 💪 Opened PR [#173](https://github.com/9renpoto/time-wise/pull/173) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+2. 💪 Opened PR [#426](https://github.com/9renpoto/dotfiles/pull/426) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 🗣 Commented on [#13103](https://github.com/9renpoto/upptime/issues/13103#issuecomment-5386346797) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. 🔒 Closed issue [#13103](https://github.com/9renpoto/upptime/issues/13103) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 5. ℹ️ Labeled issue [#13103](https://github.com/9renpoto/upptime/issues/13103) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
 <!--END_SECTION:activity-->
 
