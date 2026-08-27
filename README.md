@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/9renpoto/casemd/pull/74) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-2. 🔒 Closed issue [#66](https://github.com/9renpoto/casemd/issues/66) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-3. 💪 Opened PR [#74](https://github.com/9renpoto/casemd/pull/74) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-4. 🗣 Commented on [#56](https://github.com/9renpoto/casemd/pull/56#issuecomment-5434691999) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-5. ❌ Closed PR [#426](https://github.com/9renpoto/dotfiles/pull/426) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+1. 💪 Opened PR [#381](https://github.com/9renpoto/vgmo/pull/381) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. 🎉 Merged PR [#74](https://github.com/9renpoto/casemd/pull/74) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+3. 🔒 Closed issue [#66](https://github.com/9renpoto/casemd/issues/66) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+4. 💪 Opened PR [#74](https://github.com/9renpoto/casemd/pull/74) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. 🗣 Commented on [#56](https://github.com/9renpoto/casemd/pull/56#issuecomment-5434691999) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
