@@ -40,11 +40,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-GraphQL   20 mins         ██████████▒░░░░░░░░░░░░░░   41.92 %
-YAML      9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.96 %
-Kotlin    7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-JSON      6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Other     4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Kotlin   7 mins          ███████████████████████▒░   92.79 %
+Go       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
 ```
 
 <!--END_SECTION:waka-->
