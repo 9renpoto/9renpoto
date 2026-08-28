@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   7 mins          ███████████████████████▒░   92.79 %
-Go       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
