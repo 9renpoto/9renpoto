@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#180](https://github.com/9renpoto/time-wise/pull/180) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-2. 💪 Opened PR [#180](https://github.com/9renpoto/time-wise/pull/180) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-3. ℹ️ Labeled issue [#13104](https://github.com/9renpoto/upptime/issues/13104) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. ℹ️ Labeled issue [#13104](https://github.com/9renpoto/upptime/issues/13104) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-5. ❗ Opened issue [#13104](https://github.com/9renpoto/upptime/issues/13104) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+1. 🎉 Merged PR [#7](https://github.com/9renpoto/.59-deno/pull/7) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+2. 💪 Opened PR [#7](https://github.com/9renpoto/.59-deno/pull/7) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+3. 🎉 Merged PR [#6](https://github.com/9renpoto/.59-deno/pull/6) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+4. 💪 Opened PR [#6](https://github.com/9renpoto/.59-deno/pull/6) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+5. 🎉 Merged PR [#5](https://github.com/9renpoto/.59-deno/pull/5) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
