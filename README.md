@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#429](https://github.com/9renpoto/dotfiles/pull/429) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 🎉 Merged PR [#11](https://github.com/9renpoto/.59-deno/pull/11) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
-3. 💪 Opened PR [#11](https://github.com/9renpoto/.59-deno/pull/11) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
-4. ❌ Closed PR [#9](https://github.com/9renpoto/.59-deno/pull/9) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
-5. 🎉 Merged PR [#10](https://github.com/9renpoto/.59-deno/pull/10) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+1. 🎉 Merged PR [#12](https://github.com/9renpoto/.59-deno/pull/12) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+2. 💪 Opened PR [#12](https://github.com/9renpoto/.59-deno/pull/12) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+3. 🎉 Merged PR [#429](https://github.com/9renpoto/dotfiles/pull/429) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+4. 🎉 Merged PR [#11](https://github.com/9renpoto/.59-deno/pull/11) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+5. 💪 Opened PR [#11](https://github.com/9renpoto/.59-deno/pull/11) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
