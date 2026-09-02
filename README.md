@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#95](https://github.com/9renpoto/9renpoto/pull/95) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-2. 🎉 Merged PR [#94](https://github.com/9renpoto/9renpoto/pull/94) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-3. ℹ️ Assigned PR [#94](https://github.com/9renpoto/9renpoto/pull/94) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-4. 💪 Opened PR [#94](https://github.com/9renpoto/9renpoto/pull/94) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-5. 🎉 Merged PR [#14](https://github.com/9renpoto/.59-deno/pull/14) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+1. 💪 Opened PR [#2133](https://github.com/g59/nestjs-plugins/pull/2133) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+2. 🎉 Merged PR [#187](https://github.com/9renpoto/time-wise/pull/187) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+3. 🎉 Merged PR [#194](https://github.com/9renpoto/.59/pull/194) in [9renpoto/.59](https://github.com/9renpoto/.59)
+4. 🎉 Merged PR [#431](https://github.com/9renpoto/dotfiles/pull/431) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+5. 🎉 Merged PR [#6](https://github.com/9renpoto/astronvim_config/pull/6) in [9renpoto/astronvim_config](https://github.com/9renpoto/astronvim_config)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
