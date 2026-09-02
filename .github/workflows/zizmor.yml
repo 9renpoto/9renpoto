@@ -12,7 +12,7 @@ permissions: {}
 
 jobs:
   zizmor:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-slim
     permissions:
       security-events: write
       contents: read
