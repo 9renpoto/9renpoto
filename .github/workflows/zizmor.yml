@@ -8,25 +8,19 @@ on:
     paths:
       - ".github/workflows/**"
 
-env:
-  ZIZMOR_VERSION: 1.30.0
-
 permissions: {}
 
 jobs:
   zizmor:
     runs-on: ubuntu-latest
     permissions:
+      security-events: write
       contents: read
+      actions: read
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
         with:
           persist-credentials: false
 
-      - name: Install the latest version of uv
-        uses: astral-sh/setup-uv@d4b2f3b6ecc6e67c4457f6d3e41ec42d3d0fcb86 # v5.4.2
-
       - name: Run zizmor 🌈
-        run: uvx "zizmor@${ZIZMOR_VERSION}" --format=github --no-exit-codes .
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: zizmorcore/zizmor-action@70fb788f84895a7701f5643d103d587e460b5c99 # v0.6.3
