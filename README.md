@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby   0 secs          █████████████████████████   100.00 %
+Markdown     1 hr 53 mins    ██████░░░░░░░░░░░░░░░░░░░   23.62 %
+JSON         1 hr 20 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
+YAML         1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+Kotlin       1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Rust         43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
 ```
 
 <!--END_SECTION:waka-->
