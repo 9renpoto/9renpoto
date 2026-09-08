@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       1 hr 9 mins     ██████████▓░░░░░░░░░░░░░░   42.17 %
-TOML         41 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
-Markdown     35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
-JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Kotlin       1 hr 9 mins     █████████████░░░░░░░░░░░░   51.68 %
+TOML         29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+Markdown     21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
