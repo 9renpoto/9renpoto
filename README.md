@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#435](https://github.com/9renpoto/dotfiles/pull/435) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 💪 Opened PR [#27](https://github.com/9renpoto/lens/pull/27) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. 🎉 Merged PR [#26](https://github.com/9renpoto/lens/pull/26) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. 💪 Opened PR [#26](https://github.com/9renpoto/lens/pull/26) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🎉 Merged PR [#25](https://github.com/9renpoto/lens/pull/25) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🎉 Merged PR [#28](https://github.com/9renpoto/lens/pull/28) in [9renpoto/lens](https://github.com/9renpoto/lens)
+2. 💪 Opened PR [#28](https://github.com/9renpoto/lens/pull/28) in [9renpoto/lens](https://github.com/9renpoto/lens)
+3. 💪 Opened PR [#435](https://github.com/9renpoto/dotfiles/pull/435) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+4. 💪 Opened PR [#27](https://github.com/9renpoto/lens/pull/27) in [9renpoto/lens](https://github.com/9renpoto/lens)
+5. 🎉 Merged PR [#26](https://github.com/9renpoto/lens/pull/26) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
