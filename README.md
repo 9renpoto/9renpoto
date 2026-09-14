@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/9renpoto/casemd/pull/82) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-2. 🗣 Commented on [#81](https://github.com/9renpoto/casemd/issues/81#issuecomment-5659754809) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-3. ℹ️ Labeled issue [#81](https://github.com/9renpoto/casemd/issues/81) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-4. ❗ Opened issue [#81](https://github.com/9renpoto/casemd/issues/81) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-5. ❗ Opened issue [#1](https://github.com/9renpoto/homebrew-tap/issues/1) in [9renpoto/homebrew-tap](https://github.com/9renpoto/homebrew-tap)
+1. 🎉 Merged PR [#82](https://github.com/9renpoto/casemd/pull/82) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+2. 🔒 Closed issue [#81](https://github.com/9renpoto/casemd/issues/81) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+3. 💪 Opened PR [#82](https://github.com/9renpoto/casemd/pull/82) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+4. 🗣 Commented on [#81](https://github.com/9renpoto/casemd/issues/81#issuecomment-5659754809) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. ℹ️ Labeled issue [#81](https://github.com/9renpoto/casemd/issues/81) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
