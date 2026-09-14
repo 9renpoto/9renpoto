@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#67](https://github.com/9renpoto/lens/pull/67) in [9renpoto/lens](https://github.com/9renpoto/lens)
-2. ℹ️ Reopened PR [#67](https://github.com/9renpoto/lens/pull/67) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. ❌ Closed PR [#67](https://github.com/9renpoto/lens/pull/67) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. 🚀 Published release [v0.1.0](https://github.com/9renpoto/lens/releases/tag/v0.1.0) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🎉 Merged PR [#66](https://github.com/9renpoto/lens/pull/66) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 💪 Opened PR [#82](https://github.com/9renpoto/casemd/pull/82) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+2. 🗣 Commented on [#81](https://github.com/9renpoto/casemd/issues/81#issuecomment-5659754809) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+3. ℹ️ Labeled issue [#81](https://github.com/9renpoto/casemd/issues/81) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+4. ❗ Opened issue [#81](https://github.com/9renpoto/casemd/issues/81) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. ❗ Opened issue [#1](https://github.com/9renpoto/homebrew-tap/issues/1) in [9renpoto/homebrew-tap](https://github.com/9renpoto/homebrew-tap)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
