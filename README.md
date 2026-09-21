@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#102](https://github.com/9renpoto/casemd/pull/102) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-2. 🎉 Merged PR [#79](https://github.com/9renpoto/lens/pull/79) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. 💪 Opened PR [#79](https://github.com/9renpoto/lens/pull/79) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. ❌ Closed PR [#27](https://github.com/9renpoto/lens/pull/27) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🎉 Merged PR [#204](https://github.com/9renpoto/.59/pull/204) in [9renpoto/.59](https://github.com/9renpoto/.59)
+1. 🎉 Merged PR [#418](https://github.com/9renpoto/vgmo/pull/418) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. 💪 Opened PR [#418](https://github.com/9renpoto/vgmo/pull/418) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+3. ❌ Closed PR [#228](https://github.com/9renpoto/win/pull/228) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 💪 Opened PR [#246](https://github.com/9renpoto/win/pull/246) in [9renpoto/win](https://github.com/9renpoto/win)
+5. 💪 Opened PR [#417](https://github.com/9renpoto/vgmo/pull/417) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
