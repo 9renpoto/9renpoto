@@ -40,10 +40,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      5 mins          ███████████▒░░░░░░░░░░░░░   44.85 %
-Markdown   5 mins          ██████████▓░░░░░░░░░░░░░░   42.16 %
-Swift      1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Ruby       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
