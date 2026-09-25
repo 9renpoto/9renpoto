@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#426](https://github.com/9renpoto/vgmo/pull/426) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-2. 💪 Opened PR [#426](https://github.com/9renpoto/vgmo/pull/426) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-3. ❌ Closed PR [#31](https://github.com/9renpoto/.59-deno/pull/31) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
-4. 💪 Opened PR [#31](https://github.com/9renpoto/.59-deno/pull/31) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
-5. 💪 Opened PR [#206](https://github.com/9renpoto/.59/pull/206) in [9renpoto/.59](https://github.com/9renpoto/.59)
+1. 💪 Opened PR [#176](https://github.com/9renpoto/.59-rs/pull/176) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
+2. 🎉 Merged PR [#426](https://github.com/9renpoto/vgmo/pull/426) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+3. 💪 Opened PR [#426](https://github.com/9renpoto/vgmo/pull/426) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. ❌ Closed PR [#31](https://github.com/9renpoto/.59-deno/pull/31) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
+5. 💪 Opened PR [#31](https://github.com/9renpoto/.59-deno/pull/31) in [9renpoto/.59-deno](https://github.com/9renpoto/.59-deno)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
