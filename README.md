@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#118](https://github.com/9renpoto/casemd/pull/118) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-2. 💪 Opened PR [#118](https://github.com/9renpoto/casemd/pull/118) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-3. 🎉 Merged PR [#176](https://github.com/9renpoto/.59-rs/pull/176) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
-4. 💪 Opened PR [#176](https://github.com/9renpoto/.59-rs/pull/176) in [9renpoto/.59-rs](https://github.com/9renpoto/.59-rs)
-5. 🎉 Merged PR [#426](https://github.com/9renpoto/vgmo/pull/426) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+1. 🗣 Commented on [#417](https://github.com/9renpoto/vgmo/pull/417#issuecomment-5841910953) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. 💪 Opened PR [#87](https://github.com/9renpoto/lens/pull/87) in [9renpoto/lens](https://github.com/9renpoto/lens)
+3. 🔓 Reopened issue [#43](https://github.com/9renpoto/lens/issues/43) in [9renpoto/lens](https://github.com/9renpoto/lens)
+4. 🗣 Commented on [#417](https://github.com/9renpoto/vgmo/pull/417#issuecomment-5841100807) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+5. 🎉 Merged PR [#86](https://github.com/9renpoto/lens/pull/86) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
