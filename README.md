@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Elixir     17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+Other      17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.52 %
+Ruby       13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+Markdown   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+TOML       11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
 ```
 
 <!--END_SECTION:waka-->
