@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/9renpoto/lens/issues/91#issuecomment-5866512787) in [9renpoto/lens](https://github.com/9renpoto/lens)
-2. 🔒 Closed issue [#92](https://github.com/9renpoto/lens/issues/92) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. 🗣 Commented on [#93](https://github.com/9renpoto/lens/issues/93#issuecomment-5866476275) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. 💪 Opened PR [#96](https://github.com/9renpoto/lens/pull/96) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🗣 Commented on [#92](https://github.com/9renpoto/lens/issues/92#issuecomment-5865699341) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🗣 Commented on [#13106](https://github.com/9renpoto/upptime/issues/13106#issuecomment-5872036786) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. 🔒 Closed issue [#13106](https://github.com/9renpoto/upptime/issues/13106) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. 💪 Opened PR [#2154](https://github.com/g59/nestjs-plugins/pull/2154) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+4. 💪 Opened PR [#2153](https://github.com/g59/nestjs-plugins/pull/2153) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+5. 🗣 Commented on [#91](https://github.com/9renpoto/lens/issues/91#issuecomment-5866512787) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
