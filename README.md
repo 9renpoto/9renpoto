@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#229](https://github.com/9renpoto/time-wise/issues/229) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-2. 🚀 Published release [v12.0.0](https://github.com/g59/nestjs-plugins/releases/tag/v12.0.0) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-3. ℹ️ Assigned PR [#2161](https://github.com/g59/nestjs-plugins/pull/2161) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-4. 🎉 Merged PR [#2160](https://github.com/g59/nestjs-plugins/pull/2160) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
-5. ❌ Closed PR [#2158](https://github.com/g59/nestjs-plugins/pull/2158) in [g59/nestjs-plugins](https://github.com/g59/nestjs-plugins)
+1. 🎉 Merged PR [#95](https://github.com/9renpoto/lens/pull/95) in [9renpoto/lens](https://github.com/9renpoto/lens)
+2. 🗣 Commented on [#95](https://github.com/9renpoto/lens/pull/95#issuecomment-5905542989) in [9renpoto/lens](https://github.com/9renpoto/lens)
+3. 🎉 Merged PR [#102](https://github.com/9renpoto/lens/pull/102) in [9renpoto/lens](https://github.com/9renpoto/lens)
+4. 🎉 Merged PR [#129](https://github.com/9renpoto/casemd/pull/129) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. ℹ️ Labeled PR [#102](https://github.com/9renpoto/lens/pull/102) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
