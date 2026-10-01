@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#435](https://github.com/9renpoto/vgmo/pull/435#issuecomment-5927189867) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-2. 💪 Opened PR [#435](https://github.com/9renpoto/vgmo/pull/435) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-3. 🔒 Closed issue [#91](https://github.com/9renpoto/lens/issues/91) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. 🔒 Closed issue [#93](https://github.com/9renpoto/lens/issues/93) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🔒 Closed issue [#94](https://github.com/9renpoto/lens/issues/94) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 💪 Opened PR [#436](https://github.com/9renpoto/vgmo/pull/436) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. 🗣 Commented on [#435](https://github.com/9renpoto/vgmo/pull/435#issuecomment-5927189867) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+3. 💪 Opened PR [#435](https://github.com/9renpoto/vgmo/pull/435) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. 🔒 Closed issue [#91](https://github.com/9renpoto/lens/issues/91) in [9renpoto/lens](https://github.com/9renpoto/lens)
+5. 🔒 Closed issue [#93](https://github.com/9renpoto/lens/issues/93) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
