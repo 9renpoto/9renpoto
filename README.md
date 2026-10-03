@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/9renpoto/lens/pull/108) in [9renpoto/lens](https://github.com/9renpoto/lens)
-2. 💪 Opened PR [#111](https://github.com/9renpoto/lens/pull/111) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🔒 Closed issue [#68](https://github.com/9renpoto/lens/issues/68) in [9renpoto/lens](https://github.com/9renpoto/lens)
+2. 🎉 Merged PR [#105](https://github.com/9renpoto/lens/pull/105) in [9renpoto/lens](https://github.com/9renpoto/lens)
 3. 💪 Opened PR [#110](https://github.com/9renpoto/lens/pull/110) in [9renpoto/lens](https://github.com/9renpoto/lens)
 4. 💪 Opened PR [#109](https://github.com/9renpoto/lens/pull/109) in [9renpoto/lens](https://github.com/9renpoto/lens)
 5. 💪 Opened PR [#108](https://github.com/9renpoto/lens/pull/108) in [9renpoto/lens](https://github.com/9renpoto/lens)
