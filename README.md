@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         38 mins         ████████░░░░░░░░░░░░░░░░░   32.08 %
-Markdown     30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Cheetah      19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-Elixir       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Ruby         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+YAML         2 hrs 36 mins   █████████████▒░░░░░░░░░░░   53.17 %
+Markdown     50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+Cheetah      45 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+Other        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Elixir       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
