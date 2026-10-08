@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#206](https://github.com/9renpoto/time-wise/pull/206) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-2. 🎉 Merged PR [#211](https://github.com/9renpoto/time-wise/pull/211) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-3. 🎉 Merged PR [#206](https://github.com/9renpoto/.59/pull/206) in [9renpoto/.59](https://github.com/9renpoto/.59)
-4. 🔒 Closed issue [#124](https://github.com/9renpoto/lens/issues/124) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🎉 Merged PR [#135](https://github.com/9renpoto/lens/pull/135) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 💪 Opened PR [#237](https://github.com/9renpoto/time-wise/pull/237) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+2. ❌ Closed PR [#206](https://github.com/9renpoto/time-wise/pull/206) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+3. 🎉 Merged PR [#211](https://github.com/9renpoto/time-wise/pull/211) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+4. 🎉 Merged PR [#206](https://github.com/9renpoto/.59/pull/206) in [9renpoto/.59](https://github.com/9renpoto/.59)
+5. 🔒 Closed issue [#124](https://github.com/9renpoto/lens/issues/124) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
