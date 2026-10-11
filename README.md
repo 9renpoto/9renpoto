@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#451](https://github.com/9renpoto/dotfiles/pull/451) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. ❗ Opened issue [#450](https://github.com/9renpoto/dotfiles/issues/450) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-3. 🎉 Merged PR [#265](https://github.com/9renpoto/win/pull/265) in [9renpoto/win](https://github.com/9renpoto/win)
-4. 💪 Opened PR [#265](https://github.com/9renpoto/win/pull/265) in [9renpoto/win](https://github.com/9renpoto/win)
-5. 🎉 Merged PR [#156](https://github.com/9renpoto/lens/pull/156) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🎉 Merged PR [#157](https://github.com/9renpoto/lens/pull/157) in [9renpoto/lens](https://github.com/9renpoto/lens)
+2. 🔒 Closed issue [#450](https://github.com/9renpoto/dotfiles/issues/450) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 🎉 Merged PR [#451](https://github.com/9renpoto/dotfiles/pull/451) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+4. 💪 Opened PR [#451](https://github.com/9renpoto/dotfiles/pull/451) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+5. ❗ Opened issue [#450](https://github.com/9renpoto/dotfiles/issues/450) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
