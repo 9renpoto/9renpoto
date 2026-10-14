@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#168](https://github.com/9renpoto/lens/pull/168) in [9renpoto/lens](https://github.com/9renpoto/lens)
-2. 🗣 Commented on [#73](https://github.com/9renpoto/lens/issues/73#issuecomment-6158478967) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. 🗣 Commented on [#160](https://github.com/9renpoto/lens/issues/160#issuecomment-6158478668) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. 🎉 Merged PR [#167](https://github.com/9renpoto/lens/pull/167) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🔒 Closed issue [#159](https://github.com/9renpoto/lens/issues/159) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🔒 Closed issue [#13108](https://github.com/9renpoto/upptime/issues/13108) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+2. ❗ Opened issue [#13108](https://github.com/9renpoto/upptime/issues/13108) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+3. ℹ️ Labeled issue [#13108](https://github.com/9renpoto/upptime/issues/13108) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+4. ℹ️ Labeled issue [#13108](https://github.com/9renpoto/upptime/issues/13108) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
+5. 💪 Opened PR [#168](https://github.com/9renpoto/lens/pull/168) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
