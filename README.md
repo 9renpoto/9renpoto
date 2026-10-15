@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          █████████████████████████   100.00 %
+YAML       31 mins         ████████████████████████▓   98.42 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
