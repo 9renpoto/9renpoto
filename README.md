@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#217](https://github.com/9renpoto/.59/pull/217) in [9renpoto/.59](https://github.com/9renpoto/.59)
-2. ℹ️ Assigned PR [#217](https://github.com/9renpoto/.59/pull/217) in [9renpoto/.59](https://github.com/9renpoto/.59)
-3. 💪 Opened PR [#217](https://github.com/9renpoto/.59/pull/217) in [9renpoto/.59](https://github.com/9renpoto/.59)
-4. 🗣 Commented on [#203](https://github.com/9renpoto/.59/pull/203#issuecomment-6340639124) in [9renpoto/.59](https://github.com/9renpoto/.59)
-5. ℹ️ Assigned PR [#458](https://github.com/9renpoto/dotfiles/pull/458) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+1. ℹ️ Assigned PR [#209](https://github.com/9renpoto/lens/pull/209) in [9renpoto/lens](https://github.com/9renpoto/lens)
+2. ℹ️ Labeled PR [#209](https://github.com/9renpoto/lens/pull/209) in [9renpoto/lens](https://github.com/9renpoto/lens)
+3. 💪 Opened PR [#209](https://github.com/9renpoto/lens/pull/209) in [9renpoto/lens](https://github.com/9renpoto/lens)
+4. 🗣 Commented on [#138](https://github.com/9renpoto/casemd/issues/138#issuecomment-6354067998) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
+5. 🔒 Closed issue [#205](https://github.com/9renpoto/lens/issues/205) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
