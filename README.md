@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/9renpoto/casemd/pull/139#issuecomment-6353711608) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-2. 🗣 Commented on [#139](https://github.com/9renpoto/casemd/pull/139#issuecomment-6353772913) in [9renpoto/casemd](https://github.com/9renpoto/casemd)
-3. 🗣 Commented on [#217](https://github.com/9renpoto/.59/pull/217#issuecomment-6351729521) in [9renpoto/.59](https://github.com/9renpoto/.59)
-4. 🗣 Commented on [#186](https://github.com/9renpoto/lens/issues/186#issuecomment-6364460341) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🎉 Merged PR [#460](https://github.com/9renpoto/dotfiles/pull/460) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+1. ℹ️ Labeled issue [#215](https://github.com/9renpoto/lens/issues/215) in [9renpoto/lens](https://github.com/9renpoto/lens)
+2. ℹ️ Assigned issue [#217](https://github.com/9renpoto/lens/issues/217) in [9renpoto/lens](https://github.com/9renpoto/lens)
+3. ℹ️ Labeled issue [#217](https://github.com/9renpoto/lens/issues/217) in [9renpoto/lens](https://github.com/9renpoto/lens)
+4. ❗ Opened issue [#217](https://github.com/9renpoto/lens/issues/217) in [9renpoto/lens](https://github.com/9renpoto/lens)
+5. ℹ️ Assigned issue [#216](https://github.com/9renpoto/lens/issues/216) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
