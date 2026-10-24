@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#215](https://github.com/9renpoto/lens/issues/215) in [9renpoto/lens](https://github.com/9renpoto/lens)
-2. ℹ️ Assigned issue [#217](https://github.com/9renpoto/lens/issues/217) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. ℹ️ Labeled issue [#217](https://github.com/9renpoto/lens/issues/217) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. ❗ Opened issue [#217](https://github.com/9renpoto/lens/issues/217) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. ℹ️ Assigned issue [#216](https://github.com/9renpoto/lens/issues/216) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🎉 Merged PR [#222](https://github.com/9renpoto/lens/pull/222) in [9renpoto/lens](https://github.com/9renpoto/lens)
+2. 🔒 Closed issue [#217](https://github.com/9renpoto/lens/issues/217) in [9renpoto/lens](https://github.com/9renpoto/lens)
+3. 🎉 Merged PR [#221](https://github.com/9renpoto/lens/pull/221) in [9renpoto/lens](https://github.com/9renpoto/lens)
+4. 🎉 Merged PR [#220](https://github.com/9renpoto/lens/pull/220) in [9renpoto/lens](https://github.com/9renpoto/lens)
+5. 🔒 Closed issue [#216](https://github.com/9renpoto/lens/issues/216) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
