@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#138](https://github.com/9renpoto/lens/issues/138) in [9renpoto/lens](https://github.com/9renpoto/lens)
-2. 🔒 Closed issue [#173](https://github.com/9renpoto/lens/issues/173) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. ℹ️ Assigned issue [#228](https://github.com/9renpoto/lens/issues/228) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. ℹ️ Labeled issue [#228](https://github.com/9renpoto/lens/issues/228) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. ❗ Opened issue [#228](https://github.com/9renpoto/lens/issues/228) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🎉 Merged PR [#475](https://github.com/9renpoto/vgmo/pull/475) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. ℹ️ Assigned PR [#475](https://github.com/9renpoto/vgmo/pull/475) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+3. ℹ️ Labeled PR [#475](https://github.com/9renpoto/vgmo/pull/475) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. 💪 Opened PR [#475](https://github.com/9renpoto/vgmo/pull/475) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+5. 🎉 Merged PR [#231](https://github.com/9renpoto/lens/pull/231) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
