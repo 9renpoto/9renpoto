@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#308](https://github.com/9renpoto/time-wise/pull/308) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-2. 💪 Opened PR [#308](https://github.com/9renpoto/time-wise/pull/308) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-3. ℹ️ Labeled PR [#308](https://github.com/9renpoto/time-wise/pull/308) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-4. 🔒 Closed issue [#237](https://github.com/9renpoto/lens/issues/237) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🔒 Closed issue [#236](https://github.com/9renpoto/lens/issues/236) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🎉 Merged PR [#308](https://github.com/9renpoto/time-wise/pull/308) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+2. ℹ️ Assigned PR [#308](https://github.com/9renpoto/time-wise/pull/308) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+3. 💪 Opened PR [#308](https://github.com/9renpoto/time-wise/pull/308) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+4. ℹ️ Labeled PR [#308](https://github.com/9renpoto/time-wise/pull/308) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+5. 🔒 Closed issue [#237](https://github.com/9renpoto/lens/issues/237) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
