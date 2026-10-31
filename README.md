@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   32.31 %
-Elixir       4 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-Other        3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
-YAML         2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Kotlin       52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Elixir       4 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   32.16 %
+Markdown     4 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   32.13 %
+Other        1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+YAML         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Rust         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 ```
 
 <!--END_SECTION:waka-->
