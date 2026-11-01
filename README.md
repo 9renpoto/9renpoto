@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#13112](https://github.com/9renpoto/upptime/issues/13112) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-2. ℹ️ Labeled issue [#13112](https://github.com/9renpoto/upptime/issues/13112) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-3. ❗ Opened issue [#13112](https://github.com/9renpoto/upptime/issues/13112) in [9renpoto/upptime](https://github.com/9renpoto/upptime)
-4. 🎉 Merged PR [#308](https://github.com/9renpoto/time-wise/pull/308) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-5. ℹ️ Assigned PR [#308](https://github.com/9renpoto/time-wise/pull/308) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+1. ℹ️ Assigned PR [#485](https://github.com/9renpoto/vgmo/pull/485) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+2. ℹ️ Labeled PR [#485](https://github.com/9renpoto/vgmo/pull/485) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+3. 💪 Opened PR [#485](https://github.com/9renpoto/vgmo/pull/485) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. 🎉 Merged PR [#484](https://github.com/9renpoto/vgmo/pull/484) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+5. ℹ️ Assigned PR [#484](https://github.com/9renpoto/vgmo/pull/484) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
