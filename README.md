@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#485](https://github.com/9renpoto/dotfiles/pull/485) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 💪 Opened PR [#9](https://github.com/9renpoto/astronvim_config/pull/9) in [9renpoto/astronvim_config](https://github.com/9renpoto/astronvim_config)
-3. 🎉 Merged PR [#123](https://github.com/9renpoto/9renpoto/pull/123) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-4. ℹ️ Assigned PR [#123](https://github.com/9renpoto/9renpoto/pull/123) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
-5. 💪 Opened PR [#123](https://github.com/9renpoto/9renpoto/pull/123) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+1. 🎉 Merged PR [#485](https://github.com/9renpoto/dotfiles/pull/485) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 🗣 Commented on [#485](https://github.com/9renpoto/dotfiles/pull/485#issuecomment-6762193135) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+3. 🎉 Merged PR [#9](https://github.com/9renpoto/astronvim_config/pull/9) in [9renpoto/astronvim_config](https://github.com/9renpoto/astronvim_config)
+4. 💪 Opened PR [#485](https://github.com/9renpoto/dotfiles/pull/485) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+5. 💪 Opened PR [#9](https://github.com/9renpoto/astronvim_config/pull/9) in [9renpoto/astronvim_config](https://github.com/9renpoto/astronvim_config)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
