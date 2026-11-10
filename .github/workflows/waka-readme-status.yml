@@ -7,10 +7,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-22.04
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - name: Waka - Readme
-        uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494 # v0.3.1
+      - name: Update README with development stats
+        uses: anmol098/waka-readme-stats@c6070c1
         with:
+          GH_TOKEN: ${{ github.token }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
