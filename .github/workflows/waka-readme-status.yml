@@ -15,5 +15,5 @@ jobs:
       - name: Update README with development stats
         uses: anmol098/waka-readme-stats@c6070c14861e6d8b553742b1f9e1ed9e7b53938a # v5
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
