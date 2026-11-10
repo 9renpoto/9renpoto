@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#500](https://github.com/9renpoto/vgmo/pull/500) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-2. 💪 Opened PR [#500](https://github.com/9renpoto/vgmo/pull/500) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-3. 🎉 Merged PR [#485](https://github.com/9renpoto/vgmo/pull/485) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-4. ℹ️ Labeled PR [#485](https://github.com/9renpoto/vgmo/pull/485) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
-5. ℹ️ Unlabeled PR [#485](https://github.com/9renpoto/vgmo/pull/485) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+1. 💪 Opened PR [#485](https://github.com/9renpoto/dotfiles/pull/485) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 💪 Opened PR [#9](https://github.com/9renpoto/astronvim_config/pull/9) in [9renpoto/astronvim_config](https://github.com/9renpoto/astronvim_config)
+3. 🎉 Merged PR [#123](https://github.com/9renpoto/9renpoto/pull/123) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+4. ℹ️ Assigned PR [#123](https://github.com/9renpoto/9renpoto/pull/123) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
+5. 💪 Opened PR [#123](https://github.com/9renpoto/9renpoto/pull/123) in [9renpoto/9renpoto](https://github.com/9renpoto/9renpoto)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
