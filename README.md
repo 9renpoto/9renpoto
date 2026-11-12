@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#485](https://github.com/9renpoto/dotfiles/pull/485) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 🗣 Commented on [#485](https://github.com/9renpoto/dotfiles/pull/485#issuecomment-6762193135) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-3. 🎉 Merged PR [#9](https://github.com/9renpoto/astronvim_config/pull/9) in [9renpoto/astronvim_config](https://github.com/9renpoto/astronvim_config)
-4. 💪 Opened PR [#485](https://github.com/9renpoto/dotfiles/pull/485) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-5. 💪 Opened PR [#9](https://github.com/9renpoto/astronvim_config/pull/9) in [9renpoto/astronvim_config](https://github.com/9renpoto/astronvim_config)
+1. ℹ️ Assigned PR [#266](https://github.com/9renpoto/lens/pull/266) in [9renpoto/lens](https://github.com/9renpoto/lens)
+2. ℹ️ Labeled PR [#266](https://github.com/9renpoto/lens/pull/266) in [9renpoto/lens](https://github.com/9renpoto/lens)
+3. 💪 Opened PR [#266](https://github.com/9renpoto/lens/pull/266) in [9renpoto/lens](https://github.com/9renpoto/lens)
+4. 🎉 Merged PR [#510](https://github.com/9renpoto/vgmo/pull/510) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+5. 💪 Opened PR [#510](https://github.com/9renpoto/vgmo/pull/510) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
 <!--END_SECTION:activity-->
