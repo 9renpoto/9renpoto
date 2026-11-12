@@ -36,15 +36,3 @@ Here are some ideas to get you started:
 4. 💪 Opened PR [#485](https://github.com/9renpoto/dotfiles/pull/485) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
 5. 💪 Opened PR [#9](https://github.com/9renpoto/astronvim_config/pull/9) in [9renpoto/astronvim_config](https://github.com/9renpoto/astronvim_config)
 <!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-
-```txt
-Elixir     3 hrs 49 mins   ██████████▒░░░░░░░░░░░░░░   41.87 %
-Markdown   2 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   27.83 %
-Rust       49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Other      43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-YAML       33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-```
-
-<!--END_SECTION:waka-->
