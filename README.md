@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#281](https://github.com/9renpoto/lens/issues/281) in [9renpoto/lens](https://github.com/9renpoto/lens)
-2. ℹ️ Assigned issue [#281](https://github.com/9renpoto/lens/issues/281) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. ❗ Opened issue [#281](https://github.com/9renpoto/lens/issues/281) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. ℹ️ Labeled issue [#279](https://github.com/9renpoto/lens/issues/279) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. ℹ️ Assigned issue [#279](https://github.com/9renpoto/lens/issues/279) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🗣 Commented on [#1123](https://github.com/9renpoto/bot/pull/1123#issuecomment-6906411143) in [9renpoto/bot](https://github.com/9renpoto/bot)
+2. ❌ Closed PR [#1011](https://github.com/9renpoto/bot/pull/1011) in [9renpoto/bot](https://github.com/9renpoto/bot)
+3. ❌ Closed PR [#1026](https://github.com/9renpoto/bot/pull/1026) in [9renpoto/bot](https://github.com/9renpoto/bot)
+4. ❌ Closed PR [#1050](https://github.com/9renpoto/bot/pull/1050) in [9renpoto/bot](https://github.com/9renpoto/bot)
+5. ❌ Closed PR [#1051](https://github.com/9renpoto/bot/pull/1051) in [9renpoto/bot](https://github.com/9renpoto/bot)
 <!--END_SECTION:activity-->
