@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#289](https://github.com/9renpoto/lens/pull/289) in [9renpoto/lens](https://github.com/9renpoto/lens)
-2. ℹ️ Labeled PR [#289](https://github.com/9renpoto/lens/pull/289) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. 💪 Opened PR [#289](https://github.com/9renpoto/lens/pull/289) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. 🔒 Closed issue [#276](https://github.com/9renpoto/lens/issues/276) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🎉 Merged PR [#287](https://github.com/9renpoto/lens/pull/287) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🗣 Commented on [#1](https://github.com/9renpoto/homebrew-tap/issues/1#issuecomment-6950746272) in [9renpoto/homebrew-tap](https://github.com/9renpoto/homebrew-tap)
+2. 🔒 Closed issue [#1](https://github.com/9renpoto/homebrew-tap/issues/1) in [9renpoto/homebrew-tap](https://github.com/9renpoto/homebrew-tap)
+3. ℹ️ Assigned PR [#289](https://github.com/9renpoto/lens/pull/289) in [9renpoto/lens](https://github.com/9renpoto/lens)
+4. ℹ️ Labeled PR [#289](https://github.com/9renpoto/lens/pull/289) in [9renpoto/lens](https://github.com/9renpoto/lens)
+5. 💪 Opened PR [#289](https://github.com/9renpoto/lens/pull/289) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
