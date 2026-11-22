@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#301](https://github.com/9renpoto/lens/pull/301) in [9renpoto/lens](https://github.com/9renpoto/lens)
-2. ℹ️ Labeled PR [#301](https://github.com/9renpoto/lens/pull/301) in [9renpoto/lens](https://github.com/9renpoto/lens)
-3. 💪 Opened PR [#301](https://github.com/9renpoto/lens/pull/301) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. ℹ️ Assigned PR [#300](https://github.com/9renpoto/lens/pull/300) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. ℹ️ Labeled PR [#300](https://github.com/9renpoto/lens/pull/300) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🎉 Merged PR [#309](https://github.com/9renpoto/win/pull/309) in [9renpoto/win](https://github.com/9renpoto/win)
+2. ℹ️ Assigned PR [#309](https://github.com/9renpoto/win/pull/309) in [9renpoto/win](https://github.com/9renpoto/win)
+3. 💪 Opened PR [#309](https://github.com/9renpoto/win/pull/309) in [9renpoto/win](https://github.com/9renpoto/win)
+4. 🎉 Merged PR [#303](https://github.com/9renpoto/lens/pull/303) in [9renpoto/lens](https://github.com/9renpoto/lens)
+5. 🗣 Commented on [#307](https://github.com/9renpoto/win/pull/307#issuecomment-7069465034) in [9renpoto/win](https://github.com/9renpoto/win)
 <!--END_SECTION:activity-->
