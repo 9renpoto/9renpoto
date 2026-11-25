@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#490](https://github.com/9renpoto/dotfiles/pull/490) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-2. 💪 Opened PR [#490](https://github.com/9renpoto/dotfiles/pull/490) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
-3. 🔒 Closed issue [#280](https://github.com/9renpoto/lens/issues/280) in [9renpoto/lens](https://github.com/9renpoto/lens)
-4. 🎉 Merged PR [#312](https://github.com/9renpoto/lens/pull/312) in [9renpoto/lens](https://github.com/9renpoto/lens)
-5. 🗣 Commented on [#285](https://github.com/9renpoto/lens/pull/285#issuecomment-7150545346) in [9renpoto/lens](https://github.com/9renpoto/lens)
+1. 🎉 Merged PR [#491](https://github.com/9renpoto/dotfiles/pull/491) in [9renpoto/dotfiles](https://github.com/9renpoto/dotfiles)
+2. 🗣 Commented on [#369](https://github.com/9renpoto/vgmo/pull/369#issuecomment-7163333417) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+3. 🗣 Commented on [#489](https://github.com/9renpoto/vgmo/pull/489#issuecomment-7163292719) in [9renpoto/vgmo](https://github.com/9renpoto/vgmo)
+4. 🗣 Commented on [#274](https://github.com/9renpoto/lens/issues/274#issuecomment-7163011564) in [9renpoto/lens](https://github.com/9renpoto/lens)
+5. 🔒 Closed issue [#274](https://github.com/9renpoto/lens/issues/274) in [9renpoto/lens](https://github.com/9renpoto/lens)
 <!--END_SECTION:activity-->
