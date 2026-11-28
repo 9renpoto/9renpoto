@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#324](https://github.com/9renpoto/time-wise/pull/324) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-2. ℹ️ Labeled PR [#324](https://github.com/9renpoto/time-wise/pull/324) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-3. 💪 Opened PR [#324](https://github.com/9renpoto/time-wise/pull/324) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-4. ❗ Opened issue [#323](https://github.com/9renpoto/time-wise/issues/323) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
-5. ❗ Opened issue [#322](https://github.com/9renpoto/time-wise/issues/322) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+1. ℹ️ Assigned PR [#316](https://github.com/9renpoto/lens/pull/316) in [9renpoto/lens](https://github.com/9renpoto/lens)
+2. ℹ️ Labeled PR [#316](https://github.com/9renpoto/lens/pull/316) in [9renpoto/lens](https://github.com/9renpoto/lens)
+3. 💪 Opened PR [#316](https://github.com/9renpoto/lens/pull/316) in [9renpoto/lens](https://github.com/9renpoto/lens)
+4. ℹ️ Assigned PR [#325](https://github.com/9renpoto/time-wise/pull/325) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
+5. ℹ️ Labeled PR [#325](https://github.com/9renpoto/time-wise/pull/325) in [9renpoto/time-wise](https://github.com/9renpoto/time-wise)
 <!--END_SECTION:activity-->
